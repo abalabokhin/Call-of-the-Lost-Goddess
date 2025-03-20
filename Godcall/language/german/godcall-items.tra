@@ -1,0 +1,1252 @@
+// game: Call of the Lost Goddess
+// date: 2025-01-14, 19:18
+// Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
+
+@2000 = ~Abyss-Pfeife~
+@2001 = ~Dies ist eine kleine steinerne Pfeife, die so geformt ist, dass sie dem Kopf eines Dämons ähnelt. Wenn die Pfeife verwendet wird, stößt sie große Wolken tödlicher Dämpfe aus den tiefsten Ebenen des Abyss aus. Es besteht jedoch immer die Gefahr, dass man dabei zu tief Luft holt und selbst die giftigen Dämpfe einatmet.
+
+EIGENSCHAFTEN:
+
+Todeswolke (1x täglich)
+  5-prozentige Chance, dass der Anwender für 5 Runden vergiftet wird.
+
+Gewicht: 1~
+@2002 = ~Pfeife des Kummers~
+@2003 = ~Es wird erzählt, dass diese Pfeife einst von einem düsteren Schamanen geschaffen wurde, der die Asche seiner gefallenen Feinde in dieser Pfeife rauchte. Der Rauch, der aus der Pfeife entweicht, enthält die geballte Verzweiflung und Trauer der Sterbenden und kann so die Herzen und den Geist der Lebenden beeinflussen. Das Schicksal des Schamanen verschwand in den Nebeln der Geschichte. Die Pfeife jedoch bleibt und kann noch immer dazu verwendet werden, die stickige Macht der Verzweiflung zu entfesseln.
+
+EIGENSCHAFTEN:
+
+Kummerwolke (1x täglich):
+  Jedes Wesen im Wirkungsbereich erleidet einen Malus von –4 auf Angriffs- und Rettungswürfe für 10 Runden (Rettungswurf gg. Odemwaffen).
+  Bereich: 4,5 m Radius
+
+Gewicht: 3~
+@2004 = ~Tarterische Drachenschuppen~
+@2005 = ~Die schweren Schuppen stammen von einem tarterischen Drachen, einer Unterart der großen Echsen, welche in der bösen Existenzebene Carceri beheimatet ist. Tarterische Drachen sind Wächter und Gefangene dieser Ebene gleichzeitig. Man sagt jedoch, dass es Möglichkeiten gibt, sie von ihrem Fluch, die unteren Ebenen nicht verlassen zu können, zu befreien. Die Kreaturen sind aufgrund der Eigenschaften ihrer Heimat äußerst resistent gegen alles, was ihre Bewegung und Handlungsfähigkeit beeinflussen würde. Sie können mächtige Zauber sprechen, welche ihre Gegner festhalten oder sogar einkerkern können. Ihre Odemwaffe besteht aus einer starken Druckwelle, welche neben dem Körper auch den Geist ihrer Feinde zerschmettert und diesen neben Schaden auch einen Malus auf ihre Angriffs- und Rettungswürfe zufügt. Ihr habt von dem Kadaver des tarterischen Drachens eine stattliche Anzahl dieser Schuppen erbeuten können … Vielleicht könnte ein fähiger Schmied daraus eine Rüstung herstellen.~
+@2006 = ~Tarterischer Drachenschuppenpanzer~
+@2007 = ~Drachenschuppenpanzer sind leicht, widerstandsfähig und resistent. Natürlich sind diese Rüstungen sehr begehrt, doch es ist äußerst schwierig, wenn nicht gar unmöglich, einen uralten Drachen zu finden und ihn zu töten, um aus seinen Schuppen eine derartige Rüstung anzufertigen. Normalerweise ist es leichter, wenn man gleich nach einem bereits existierenden Drachenschuppenpanzer wie diesem sucht. Man sollte ihn jedoch nicht unbedingt in der Gegenwart von Drachen tragen, vor allem nicht von Tarterischen Drachen.
+
+EIGENSCHAFTEN:
+
+Der Träger ist immun gegen alle Effekte, die seine Bewegungsfreiheit beeinflussen, wie beispielsweise durch die Zauber „Hast“ und „Verlangsamen“, sowie gegen „Einkerkerung“.
+
+Rüstungsklasse: 0
+
+Gewicht: 30~
+@2008 = ~Deva-Leuchten~
+@2009 = ~Eine leuchtende Aura, die einst einem Deva gehörte.~
+@2010 = ~Fauliger Heiltrank~
+@2011 = ~Dieser einst gute Heiltrank wurde durch die Kräfte des Abyss derart verdorben, dass in der Flasche nur noch eine faulige Brühe enthalten ist.~
+@2012 = ~Kayur, 
+haltet auf den Stufen der Endlosen Treppe Ausschau nach einem <PRO_RACE> namens <CHARNAME>, der aus Richtung Argentil seinen Weg Richtung Azzagrat nehmen wird. Er darf seinen Weg auf keinen Fall fortsetzen! Ich warte am vereinbarten Treffpunkt mit dem zweiten Teil Eurer Belohnung.
+Möge die Schwarze Sonne Euch gewogen bleiben.
+G.~
+@2013 = ~Schlechter Verlierer +3~
+@2014 = ~Vor vielen Jahrhunderten wurde das Schwert „Schlechter Verlierer“ von einem furchtlosen Krieger Ruathyms mit zweifelhaftem Ruf bei einem Duergar-Schmied in Auftrag gegeben. Es wurde dazu geschaffen, in aussichtslosen Lagen die Kampfkraft zu steigern, sobald der Anwender verwundet und geschwächt war. Ungeachtet dieser eindrucksvollen Fähigkeit fand der Kämpfer sein Ende, als er in einen Betrachter-Bau hineinstürmte und von den vielen Augenstrahlen zu Staub verwandelt wurde.
+
+EIGENSCHAFTEN:
+
+Sinken die Trefferpunkte des Trägers unter 25 %, wird auf den Träger „Verbesserte Hast“ für 3 Runden gewirkt.
+
+ETW0-Bonus: –3
+Schaden: 1W10 +3 (Klinge)
+Initiativefaktor: 7
+Fertigkeit: Zweihänder
+Typ: 2-händig
+Mindeststärke: 5
+
+Gewicht: 8~
+@2015 = ~Schlüssel zur Kammer der Versuchung~
+@2016 = ~Mit diesem Schlüssel könnt Ihr die Tür zu einem Bereich unter Samora aufschließen, welcher „Kammer der Versuchung“ genannt wird. Dort soll sich eine Rose des Abyss befinden, welche Ihr Maretta bringen sollt.~
+@2017 = ~Notiz des Gelehrten (Auszug)~
+@2018 = ~In meiner unersättlichen Neugierde habe ich mich in die Tiefen der Kammer gewagt, um ihre Geheimnisse zu ergründen. Die finsteren Mauern und die rätselhaften Symbole deuten auf eine Bedeutung hin, die ich nur erahnen kann. Diese Kammer scheint ein Ort der Versuchung zu sein, ein Ort, an dem die dunklen Seiten der sterblichen Natur und ihre innersten Begierden auf die Probe gestellt werden.
+
+Jedes der sieben Portale, die sich von der Kammer aus öffnen, repräsentiert eine bestimmte Form verbotenen Verlangens. Deshalb die merkwürdigen schmiedeeisernen Symbole an den Wänden! Die Schlange steht für Neid, der Geldsack für Geiz. Die Krone könnte für den Hochmut stehen, aber sicher bin ich mir nicht. Die Axt ist sicher das Symbol für Zorn und Raserei.
+
+In meinem Streben nach Wissen und Erkenntnis habe ich die Grenzen meines Verstandes überschritten. Mein Körper schwächt sich zusehends, und ich spüre den eisigen Hauch des Todes. Doch ich hinterlasse diese Aufzeichnungen als Warnung und Führung für jene, die nach mir kommen.~
+@2019 = ~Falscher Stolz +3~
+@2020 = ~Dieses Langschwert gehörte einst einem stolzer Ritter. Er war bekannt für seine imposante Erscheinung, seinen Heldenmut und seine beispielhafte Kampfkunst. Eines Tages jedoch stieg ihm der Ruhm zu Kopf, und sein Stolz wandelte sich in Arroganz und Selbstüberschätzung. Das Schwert wurde von seiner überheblichen Natur durchdrungen. Irgendwann wurde die Klinge von himmlischen Mächten verflucht, um den Träger daran zu erinnern, dass wahre Stärke in Demut und Bescheidenheit liegt. Der Ritter erkannte seinen Irrweg und verbrachte den Rest seines Lebens in Armut und Bescheidenheit in einem Kloster Ilmaters.
+
+Die Anziehungskraft der Klinge erwies sich für würdige Träger als unwiderstehlich. Unermüdlich sucht der Gegenstand nach jenen, die seine Essenz verkörpern, und gibt sich niemals mit durchschnittlichen Kriegern zufrieden.
+
+EIGENSCHAFTEN:
+
+Bei 30 % der Treffer wird das Ziel für 1 Runde geblendet (Rettungswurf gg. Zauber).
+Bei einem kritischen Treffer wird auf den Träger für 3 Runden „Strahl der Schwächung“ gewirkt (Rettungswurf gg. Zauber).
+
+ETW0-Bonus: –3
+Schaden: 1W8 +3 (Klinge)
+Initiativefaktor: 2
+Fertigkeit: Langschwert
+Typ: 1-händig
+Mindestcharisma: 17
+
+Gewicht: 3~
+@2021 = ~Lachen des Narren~
+@2022 = ~Aus dieser Flasche dringt leise ein heiseres, hysterisches Lachen. Sie ist mit einem speziellen Verschluss gesichert, der es Euch unmöglich macht, sie zu öffnen. Es ranken sich mehrere Geschichten um diesen merkwürdigen Gegenstand. Die häufigste von ihnen lautet, dass einst ein grausamer Tyrann seinen Hofnarren foltern ließ, indem er ihm drohte, ihn sofort exekutieren zu lassen, sobald der Narr mit seinem Lachen aufhörte. Das Gelächter wurde in dieser Flasche gefangen.~
+@2023 = ~Rose des Abyss~
+@2024 = ~Diese Rose sieht stachelig und böse aus. Ihr wisst gar nicht, wie Ihr sie richtig greifen könnt, ohne Euch zu verletzen. Die Blüte strömt zwar einen süßlichen, aber eher nach Verwesung und Verfall denn nach betörenden Blumen riechenden Duft aus.~
+@2025 = ~Blutiger Knochen~
+@2026 = ~Ein blutiger Knochen, von dem noch Sehnen und anderes Gewebe herabhängt. Es scheint, als wäre der Knochen gekocht worden, um ihn weicher zu machen.~
+@2027 = ~Teil einer Halskette~
+@2028 = ~Dies ist ein Teil einer Halskette.~
+@2029 = ~Amulett des Geteilten Herzens~
+@2030 = ~Dieses Amulett besitzt die Form eines geteilten Herzens. Verschiedene Gerüchte drehen sich um seine Geschichte und handeln meist von zwei Liebenden, deren trauriges Schicksal durch eine unerwartete und herzzerreißende Wendung besiegelt wurde. Man vermutet, dass dieser Gegenstand einst von Priestern der Wee Jas, einer Göttin, welche gleichwohl Tod, Magie und Liebe in sich verkörpert, geschaffen wurde. 
+
+EIGENSCHAFTEN:
+
+Letzte Ölung (1x täglich)
+  Auf das Ziel wird „Auferstehung“ gewirkt
+  Ziel wird vollständig geheilt
+  Die Trefferpunkte des Anwenders werden auf 1 reduziert
+  Reichweite: Unbegrenzt
+  Bereich: 1 Wesen
+
+Magiewiderstand: +15 %
+
+Gewicht: 1~
+@2031 = ~Dieser mächtige Ring ist verdreht und verzerrt. Er verleiht unnatürlich hohen Schutz gegen Angriffe jedweder Art. Der Ring scheint unter dem Einfluss des Dämonenprinzen Alrunes, der unter seinen Anhängern als der „Wohltuende Geist“ bekannt ist, hergestellt worden zu sein.
+
+EIGENSCHAFTEN:
+
+RK-Bonus: –3
+RW-Bonus: –3
+
+Gewicht: 0~
+@2032 = ~Clyddis’ Zeichnung~
+@2033 = ~Diese Skizze eines Pentagrammes habt Ihr aus der Haut des Vrock Clyddis herausgeschnitten. Er hatte sie sich dort hineingeritzt, um die Funktion der Feueröfen in Samora darzustellen. Mithilfe dieser Skizze sollte es Euch möglich sein, die Öfen in der richtigen Reihenfolge zu benutzen, um in Waukeens Gefängnis gelangen zu können.~
+@2034 = ~Pfefferstaude Gehennas~
+@2035 = ~Diese Staude ist eine Pflanze aus den unteren Ebenen, die Gehennapfeffer produziert.~
+@2036 = ~Helm der Säureresistenz (gefüllt)~
+@2037 = ~Dieser Helm ist mit der ätzenden Säure der Tümpel von Yemach gefüllt. Die Säure kann dem Gegenstand nichts anhaben, aber Ihr müsst achtgeben, dass die Flüssigkeit nicht aus dem Behälter herausschwappt und Euch die Hand verätzt.~
+@2038 = ~Helm der Säureresistenz~
+@2039 = ~Helm der Säureresistenz: Säurewüters Vermächtnis
+
+Dieser Helm wurde einst dazu geschmiedet, gegen die Odemwaffe schwarzer Drachen bestehen zu können, insbesondere gegen einen alten Wyrm längst vergangener Zeit, der als Acidragravagrex oder einfach „Säurewüter“ in die Geschichte eingegangen ist. Noch heute trägt der Helm die Spuren vergangener Kämpfe gegen die geflügelten Kreaturen. Der Helm schützt vor Säure.
+
+EIGENSCHAFTEN:
+
+Säurewiderstand: +80 %
+Schützt vor kritischen Treffern
+
+Gewicht: 3~
+@2040 = ~Hereingelegt!~
+@2041 = ~Belthazaars Rätsel~
+@2042 = ~Eine Hand, mit Blut vermischt, des Schicksals sanfter Schlag,
+Öffnet die Pforten zum Unheil, den Weg ins finstere Grab.
+Ein Rätsel ists, das ich dir gebe, Sterblicher wagemutig und klug,
+Errate den Zauber der Hand, und die Tür wird sich öffnen genug.
+Eine Berührung mit Blut, ein Zittern im Fleisch,
+Mit dieser Hand als Schlüssel enthülle des Glabrezus Reich.
+Finde den Pfad, den die Hand dir weist,
+Lies die Zeichen, in ihr verborgen, doch heiß.
+Dann, oh Sterblicher, öffnet sich das Tor,
+In das Reich des Glabrezu, für immer und fürwahr.
+Nun, Sterblicher, wage den Schritt, entschlüssle das Rätsel mit Bedacht,
+Denn im Angesicht des Glabrezus wirst du dich beweisen müssen, Tag und Nacht.~
+@2043 = ~Die Zeit der Sorgen~
+@2044 = ~Die Zeit der Sorgen
+
+Im Jahr der Schatten, 1358 Taliser Zeitrechnung, wurde Faerûn von finsteren Wirren erschüttert. Der Himmel selbst erbleichte, als die Götter der Vergessenen Reiche gezwungen wurden, ihre erhabenen Hallen zu verlassen und die Gestalt der Sterblichen anzunehmen. Ein Zeitalter des Chaos und der Verwirrung brach über das Land herein.
+
+Verwurzelt im Diebstahl eines Artefakts von ausgeprägter Macht ward der Lauf der göttlichen Fügungen aus den Bahnen geworfen. So geschah es, dass die Götter verwundbar wurden und ihre Kräfte schwanden. Ihre treuen Diener, fromme Priester und ehrenwerte Paladine, wurden von ihren göttlichen Gaben beraubt, da ihre Schutzherrscher ihnen keine Macht mehr gewähren konnten. Eine Leere der Führung und des Schutzes öffnete sich, und die Menschen von Faerûn fanden sich verlassen inmitten des Sturms.
+
+In jener wilden Zeit ergriffen die Götter verzweifelt die Chance, ihre Macht zurückzuerlangen und sich aus der misslichen Lage zu befreien. Gewaltige Schlachten entbrannten zwischen den Göttern untereinander, zwischen ihren Anhängern, und zwischen sterblichen Fraktionen, die nach der Gunst der Götter strebten. Neue Götter stiegen empor, um das Vakuum zu füllen, während andere ihrem einstigen Glanz entschwanden oder vernichtet wurden.
+
+Doch auch die Welt von Faerûn selbst war gezeichnet von den Wirren dieser Zeit. Die Pfade der Magie wurden durcheinandergewirbelt, und ein Schatten legte sich über die einst so kraftvollen Ströme. Die Weisen und Zauberer mühten sich, das Rätsel zu ergründen, und das Land versank in einer Aura der Unsicherheit.
+
+Als die Schleier des Leides sich zu lichten begannen, gelang es den Göttern, in ihre göttliche Herrlichkeit zurückzukehren. Doch die Zeit der Sorgen hatte Spuren hinterlassen, die noch lange nachklingen sollten. Manche Götter, einst mächtig und erhaben, waren gestürzt oder hatten ihre Sphären verändert. Neue Götter hatten ihren Platz eingenommen, um die Lücken zu füllen, und ihre Namen wurden fortan auf den Lippen der Sterblichen gesprochen.
+
+Die Sterblichen von Faerûn waren durch die Erfahrungen der Zeit der Sorgen gezeichnet. Manche hatten ihre Glaubensrichtungen und Überzeugungen verändert, während andere im Chaos verloren gingen und an den Schmerzen der Veränderung zerbrachen. Doch einige fanden neue Stärke und Bestimmung, indem sie sich den aufgestiegenen Göttern zuwandten und ihre Gunst suchten.~
+@2045 = ~Von der Abwesenheit der Herrin Waukeen~
+@2046 = ~Von der Abwesenheit der Herrin Waukeen
+
+Geschrieben von Bruder Aldric, geweihter Priester der Herrin des Handels
+
+In diesen finsteren Zeiten, die über unser geliebtes Land Faerûn hereingebrochen sind, sehen wir uns mit dem Verlust der göttlichen Anwesenheit unserer geliebten Herrin Waukeen konfrontiert. Sie, die strahlende Sonne des Handels, die uns einst mit ihrem Segen erfüllte, ist verschwunden, als ob ihr Licht erloschen wäre und die Finsternis den Tempel des Reichtums umhüllte.
+
+Oh, wie sehr sehnen wir uns nach ihrem wärmenden Glanz und der Fülle, die sie einst in unsere Herzen und unsere Schatzkammern brachte. Ihre Gegenwart war ein Quell der Inspiration für all jene, die ihr dienten, und ihre Gunst ließ unsere Märkte erblühen wie eine prächtige Blumenwiese. Doch nun sind unsere Händler von Zweifeln geplagt und unsere Vorratskammern leer, denn ohne Waukeens leuchtende Präsenz treiben wir ziellos wie Schiffe ohne Kompass, verloren auf stürmischer See.
+
+Wir, die treuen Anhänger der Göttin des Handels, beten inbrünstig zu ihr, flehen um ihre Rückkehr und suchen nach Zeichen, dass sie uns nicht verlassen hat. Aber die Stille des Himmels spricht Bände, und unsere Gebete scheinen nur gegen die eisige Leere zu hallen. Verzweiflung ergreift uns und wir sind gefangen in der Ungewissheit, wann die Herrin des Wohlstands in ihrer ganzen Herrlichkeit wieder erscheinen wird.
+
+Wir erinnern uns an die Geschichten vergangener Zeiten, als die Welt in dunklen Stunden verhüllt war und dennoch die Gottheiten ihren Segen auf uns herabließen. Hoffnung flackert in unseren Herzen auf, während wir an die Worte der Weisen erinnert werden, dass das Licht der Göttlichkeit stets wieder aufsteigt, um die Schatten zu vertreiben.
+
+So wollen wir in diesem Buch der Erinnerung festhalten, dass wir Waukeen, der Göttin des Handels, weiterhin treu ergeben sind. Wir ehren sie in unseren Gebeten, in unseren Liedern und in unserem unablässigen Streben nach Wohlstand. Möge sie uns erhören und ihre lichte Präsenz erneut über die Lande Faerûns erstrahlen lassen, damit der Glanz des Handels und des Reichtums unsere Seelen erfüllt.~
+@2047 = ~Von der Abtei der Golddächer~
+@2048 = ~Die Goldspitzen – Ein Heiligtum des Glanzes und der Fülle
+  
+Außerhalb der geschäftigen Mauern der Stadt Athkatla erhebt sich ein stolzer Tempel, genannt die Goldspitzen, der die Pracht und den Reichtum der göttlichen Herrschaft Waukeens verkündet. Wie Sonnenstrahlen, die in den Himmel streben, erheben sich diese Türme majestätisch und fangen das Licht ein, um es als ein strahlendes Zeugnis für die Gunst der Göttin zu präsentieren.
+
+Die Gläubigen versammeln sich hier, um ihre Gebete und Opfer darzubringen, und um den Segen der Herrin des Handels zu erlangen. Die Priester, in Gewändern von kostbarer Schönheit gekleidet, zelebrieren feierliche Riten und segnen diejenigen, die nach Wohlstand und Erfolg in ihren Unternehmungen streben. Der Duft von Weihrauch und Gewürzen erfüllt die Luft und vermengt sich mit den Klängen der Gebete und Gesänge, die die Mauern erfüllen.
+
+Doch die Goldspitzen sind mehr als nur ein Tempel. Sie sind ein Zentrum des Handels und der Unterstützung für die Gläubigen. Hier werden Handelsregister geführt, Verträge bewahrt und wertvolle Informationen über Märkte und Geschäfte gesammelt. Die Weisheit der Händler und Kaufleute wird hier vereint, um die Gläubigen zu leiten und den Handel zu fördern.
+
+Lasst uns die Goldspitzen preisen und ehren, denn sie verkörpern den Glanz und die Fülle, die Waukeen, die göttliche Herrin des Handels, repräsentiert. Mögen die Tore dieses heiligen Ortes für immer geöffnet sein, um die Handelssuchenden zu empfangen und ihnen den Weg zum Erfolg zu weisen.~
+@2049 = ~Seelenmünze~
+@2050 = ~In Samora, der Stadt der Sünde, wird zum Glücksspiel kein Geld verwendet, sondern solche Münzen, die der Spieler mit Kosten seiner Lebenskraft erwerben muss. Mit diesen „Seelenmünzen“ kann man an den verschiedenen angebotenen Spielarten teilnehmen.~
+@2051 = ~Deva-Feder~
+@2052 = ~Dies ist eine Deva-Feder. Sie strahlt hell und rein aus Eurem Rucksack. Maretta möchte, dass Ihr ihr diesen Gegenstand in ihre Residenz ins „Haus der Abrechnung“ bringt.~
+@2053 = ~Deva-Flügel~
+@2054 = ~Dies ist der abgetrennte Flügel eines Devas.~
+@2055 = ~Säureschutztrank~
+@2056 = ~Wer diesen Trank zu sich nimmt, entwickelt eine magische Widerstandsfähigkeit gegen jede Art von Säure. Die Widerstandsfähigkeit gegen Säure gilt zusätzlich zu anderen Formen der Resistenz, die eine Person besitzt.
+
+EIGENSCHAFTEN:
+
+Säurewiderstand: +50 %
+Dauer: 10 Runden
+
+Gewicht: 1~
+@2057 = ~Arena-Schlüsselteil~
+@2058 = ~Dies ist ein Teil eines merkwürdig geformten Schlüssels.~
+@2059 = ~Arena-Schlüssel~
+@2060 = ~Mit diesem seltsamen Schlüssel lässt sich die verschlossene Knochentür der Gladiatoren-Arena in Samora öffnen.~
+@2061 = ~Handbuch der körperlichen Erniedrigung~
+@2062 = ~Wie andere Handbücher dieser Art ist der Einband in dickem Leder gehalten und aufwändig verziert, allerdings sieht das Buch unschön verdreht aus, als würde es sich vor Schmerzen winden.
+
+EIGENSCHAFTEN:
+
+Geschicklichkeit: +1 (permanent)
+Stärke: –1 (permanent)
+Konstitution: –1 (permanent)
+
+Das Buch verschwindet, nachdem es benutzt wurde.
+Platziert das Buch in ein Feld für einsatzbereite Gegenstände.
+
+Gewicht: 25~
+@2063 = ~Geschicklichkeit wurde dauerhaft um 1 Punkt gesteigert, Stärke und Konstitution dauerhaft um 1 Punkt gesenkt.~
+@2064 = ~Handbuch des zähen Tölpels~
+@2065 = ~Wie andere Handbücher dieser Art ist der Einband in dickem Leder gehalten und aufwändig verziert, allerdings sieht das Buch unschön verdreht aus, als würde es sich vor Schmerzen winden.
+
+EIGENSCHAFTEN:
+
+Konstitution: +1 (permanent)
+Geschicklichkeit: –1 (permanent)
+Intelligenz: –1 (permanent)
+
+Das Buch verschwindet, nachdem es benutzt wurde.
+Platziert das Buch in ein Feld für einsatzbereite Gegenstände.
+
+Gewicht: 25~
+@2066 = ~Konstitution wurde dauerhaft um 1 Punkt gesteigert, Geschicklichkeit und Intelligenz dauerhaft um 1 Punkt gesenkt.~
+@2067 = ~Zhelamiss’ Seelenvertrag~
+@2068 = ~Auf diesem Stück Papier sind in einer Euch unbekannten Sprache einige Sätze geschrieben. In der linken unteren Ecke befindet sich ein großes rotes Kreuz, welches offensichtlich mit Blut gezeichnet wurde. Dieser Vertrag besiegelt den Seelenpakt zwischen Ormad Sulpar und der Nachthexe Zhelamiss. Ormad ist sehr erpicht darauf, den Vertrag wiederzubekommen, da er seine Seele gerne behalten würde. Ihr sollt ihm das Schriftstück in den „Besudelten Solar“ bringen.~
+@2069 = ~Zaehvielles Seelenvertrag~
+@2070 = ~Auf diesem Stück Papier sind in einer Euch unbekannten Sprache einige Sätze geschrieben. In der linken unteren Ecke befindet sich ein großes rotes Kreuz, welches offensichtlich mit Blut gezeichnet wurde. Dieser Vertrag besiegelt den Seelenpakt zwischen Ormad Sulpar und dem Sukkubus Zaehvielle. Ormad ist sehr erpicht darauf, den Vertrag wiederzubekommen, da er seine Seele gerne behalten würde. Ihr sollt ihm das Schriftstück in den „Besudelten Solar“ bringen.~
+@2071 = ~Belthazaars Seelenvertrag~
+@2072 = ~Auf diesem Stück Papier sind in einer Euch unbekannten Sprache einige Sätze geschrieben. In der linken unteren Ecke befindet sich ein großes rotes Kreuz, welches offensichtlich mit Blut gezeichnet wurde. Dieser Vertrag besiegelt den Seelenpakt zwischen Ormad Sulpar und dem Glabrezu Belthazaar. Ormad ist sehr erpicht darauf, den Vertrag wiederzubekommen, da er seine Seele gerne behalten würde. Ihr sollt ihm das Schriftstück in den „Besudelten Solar“ bringen.~
+@2073 = ~Scheusalbuch~
+@2074 = ~Das Buch hat einen Ledereinband aus der gegerbten Gesichtshaut irgendeines Scheusals und blickt Euch missmutig an. Zwei rote lederne Augenpaare mustern Euch kritisch und scheinen Euren Blicken zu folgen. Das Buch stinkt fürchterlich nach Leder und Urin und scheint sehr alt zu sein.~
+@2075 = ~Schild der Treulosen +3~
+@2076 = ~Der Schild der Treulosen ist ein mächtiger, verzauberter Schild, den Andelar, ein großer Paladin vergangener Zeiten, trug. Während eines Kampfes gegen ein Scheusal zerbrach der Schild und fiel von seinem Arm, wodurch Andelar seine tödliche Verletzung erhielt. Er hatte gerade noch genügend Kraft in sich, um mit seinem letzten Atemzug einen Fluch auszusprechen. Anstatt die Verantwortung für sein Versagen im Kampf zu übernehmen, gab er dem Schild die Schuld und verfluchte ihn, seinen Besitzer in der Zeit der größten Not im Stich zu lassen. Seit dieser Zeit hat der Schild des Treulosen jeden Krieger verraten, der ihn getragen hat. Der Schild ist aus robustem Holz gefertigt und von einem Mithrilrand eingefasst.
+
+EIGENSCHAFTEN:
+
+Bei 5 % der erhaltenen Treffer verwandelt sich der Schild in einen verfluchten Schild –4. Fallen die Trefferpunkte des Trägers unter 25 %, steigt die Chance auf 10 %.
+
+RK Bonus: –4 für Krieger und Priester
+Angriffe pro Runde: +1/2 für Krieger und Priester
+Mindeststärke: 9
+
+Gewicht: 3~
+@2077 = ~Verfluchtes Schild der Treulosen –4~
+@2078 = ~Der Schild der Treulosen ist ein mächtiger, verzauberter Schild, den Andelar, ein großer Paladin vergangener Zeiten, trug. Während eines Kampfes gegen ein Scheusal zerbrach der Schild und fiel von seinem Arm, wodurch Andelar seine tödliche Verletzung erhielt. Er hatte gerade noch genügend Kraft in sich, um mit seinem letzten Atemzug einen Fluch auszusprechen. Anstatt die Verantwortung für sein Versagen im Kampf zu übernehmen, gab er dem Schild die Schuld und verfluchte es, seinen Besitzer in der Zeit der größten Not im Stich zu lassen. Seit dieser Zeit hat der Schild des Treulosen jeden Krieger verraten, der ihn getragen hat. Der Schild ist aus robustem Holz gefertigt und von einem Mithrilrand eingefasst.
+
+EIGENSCHAFTEN:
+
+Kann nur durch „Fluch brechen“ wieder abgenommen werden.
+
+RK-Malus: +4
+
+Gewicht: 3
+~
+@2079 = ~Schädel mit Wirbelsäule~
+@2080 = ~Stab der Schädel~
+@2081 = ~Ein menschlicher Schädel mit Wirbelsäule. Die Sehnen, die die Wirbel zusammenhalten, sind noch nicht verwest und sorgen für Stabilität.~
+@2082 = ~Ein menschlicher Schädel mit Wirbelsäule. Die Sehnen, die die Wirbel zusammenhalten, sind noch nicht verwest und sorgen für Stabilität.
+
+EIGENSCHAFTEN:
+
+Skelette beschwören (1x täglich)
+
+Gewicht: 1~
+@2083 = ~Abzeichen gegen den Bösen Blick~
+@2084 = ~Auf diesem Abzeichen ist ein großes Auge dargestellt. Es soll verhindern, dass Dämonen im Abyss bei Beschwörungszaubern auf den Zauberwirker aufmerksam werden und anstelle der beschworenen Kreatur erscheinen. Meist sind die beschworenen Dämonen in solch einem Falle feindlich gesinnt und greifen den Zauberwirker ohne Zögern an. Um einen Beschwörungszauber erfolgreich wirken zu können ist es ausreichend, dass sich der Gegenstand im Inventar des Zauberwirkers befindet. Er muss diesen nicht ausrüsten.
+
+EIGENSCHAFTEN:
+
+Verhindert das Erscheinen feindlicher Dämonen bei Beschwörungszaubern des Anwenders. 
+
+Gewicht: 1~
+@2085 = ~Machtschlüssel: Böse Ebenen~
+@2086 = ~Auf dem Abzeichen ist ein merkwürdiges Wesen dargestellt. Bei diesem Gegenstand handelt es sich um einen Zauberschlüssel, der es Klerikern böser Gesinnung ermöglicht, im Abyss göttliche Zauber zu wirken. Obgleich der Abyss selbst eine böse Existenzebene ist, ist für göttliche Zauberwirker die Verwendung eines solchen Zauberschlüssels notwendig, damit ein gewirkter klerikaler Zauber wirklich funktioniert. Um einen Zauber erfolgreich wirken zu können, ist es ausreichend, dass sich der Gegenstand im Inventar des Klerikers befindet. Er muss diesen nicht ausrüsten.
+
+EIGENSCHAFTEN:
+
+Verhindert bei Priestern böser Gesinnung das Scheitern von Priesterzaubern.
+
+Gewicht: 1~
+@2087 = ~Machtschlüssel: Neutrale Ebenen~
+@2088 = ~Auf dem Abzeichen ist das Symbol eines Euch unbekannten Gottes dargestellt. Es handelt sich um einen Zauberschlüssel, der es neutral gesinnten Klerikern ermöglicht, im Abyss göttliche Zauber zu wirken. Aufgrund der Entfernung des Abyss von den neutralen äußeren Ebenen ist die Verwendung eines solchen Zauberschlüssels notwendig, damit ein gewirkter göttlicher Zauber nicht scheitert. Um einen Zauber erfolgreich wirken zu können ist es ausreichend, dass sich der Gegenstand im Inventar des Klerikers befindet. Er muss diesen nicht ausrüsten.
+
+EIGENSCHAFTEN:
+
+Verhindert bei Priestern neutraler Gesinnung das Scheitern von Priesterzaubern.
+
+Gewicht: 1~
+@2089 = ~Machtschlüssel: Gute Ebenen~
+@2090 = ~Diese Statuette stellt eine Deva dar. Es handelt sich um einen Zauberschlüssel, der es guten Klerikern ermöglicht, im Abyss göttliche Zauber zu wirken. Aufgrund der Entfernung des Abyss von den guten äußeren Ebenen ist die Verwendung eines solchen Zauberschlüssels notwendig, damit ein gewirkter göttlicher Zauber nicht scheitert. Um einen Zauber erfolgreich wirken zu können ist es ausreichend, dass sich der Gegenstand im Inventar des Klerikers befindet. Er muss diesen nicht ausrüsten. Auch wenn es sich lediglich um eine Statue handelt, wirkt der kleine Gegenstand sehr beruhigend auf Euch.
+
+EIGENSCHAFTEN:
+
+Verhindert bei Priestern guter Gesinnung das Scheitern von Priesterzaubern.
+
+Gewicht: 1~
+@2091 = ~Zauberschlüssel: Innere Ebenen~
+@2092 = ~Mithilfe dieses Zauberschlüssels ist es dem Anwender möglich, Zauber zu wirken, die sich auf die inneren Ebenen beziehen. Da die äußeren Ebenen wie der Abyss keine direkte Beziehung zu diesen Ebenen haben, müssen sich die Anwender von Magie mittels Gegenständen eine Verbindung dorthin herstellen. In diesem Falle handelt es sich bei dem Gegenstand um den Kopf eines Erdelementares. Der Zauberschlüssel kann nicht ausgerüstet werden, sondern sollte sich im Gepäck derjenigen Person befinden, die Elementarzauber wirken möchte.
+
+EIGENSCHAFTEN:
+
+Verhindert das Scheitern von Elementarzaubern, die auf die inneren Ebenen bezogen sind (wie z. B. Zauber, die Elementare beschwören), im Abyss.
+
+Gewicht: 6~
+@2093 = ~Devablut~
+@2094 = ~Diese rote Flüssigkeit wird in einem Fläschchen aufbewahrt. Es handelt sich um das Blut eines Devas, das während eines speziellen Rituals gewonnen und gesammelt wurde. Die Flüssigkeit verursacht Säureschaden, wenn sie auf eine andere Kreatur geworfen wird. Das Fläschchen muss ein Ziel treffen, um seine Wirkung zu entfalten. Da es sich streng genommen um keinen magischen Gegenstand handelt, schützt Magieresistenz nicht gegen die Auswirkungen der Flüssigkeit.
+
+EIGENSCHAFTEN:
+
+Schaden: 5W6 (Säure)
+Rettungswurf: 1/2 (gg. Odemwaffen)
+
+Gewicht: 1~
+@2095 = ~Dämonenhorn~
+@2096 = ~Dies ist das Horn eines Tanar’ri-Dämonen, das mit einem starken Hieb vom Rest des Scheusals abgetrennt wurde. Mit ihm scheint sich ein Portal zu einem Tanar’ri jagenden weiteren Scheusal öffnen lassen.~
+@2097 = ~Pfefferschote~
+@2098 = ~Gehennapfeffer~
+@2099 = ~Dies ist eine Euch unbekannte große, rote Pfefferschote, die einen feurig-stechenden Geruch aussendet.~
+@2100 = ~Dieser Pfeffer stammt nicht aus den Reichen, sondern aus einem anderen, düsteren Teil des Multiversums, der Ebene Gehenna, Heimat von Scheusalen und Dämonen. Dementsprechend dürfte die Schärfe dieses Gewürzes die Vorstellungskraft eines jeden Sterblichen bei Weitem übertreffen.~
+@2101 = ~Bebilith-Kugel~
+@2102 = ~Diese Kugel sollt Ihr im Auftrag des Bebilith-Dämons an der Statue des Graz’zt in Samora platzieren. Dies wird es ihm ermöglichen, sich in die Stadt hineinzuteleportieren und dort Chaos zu stiften. Dies könnte Euch, solltet Ihr jemals überhastet aus Samora fliehen müssen, zum Vorteil gereichen.~
+@2103 = ~Kerkerschlüssel~
+@2104 = ~Dieser Schlüssel befand sich im Besitz des Sukkubus Maretta. Mit ihm lässt sich die Tür in Waukeens Kerker öffnen.~
+@2105 = ~Portalschlüssel~
+@2106 = ~Dieser Schlüssel ermöglicht Euch die Rückkehr in die Stadt Samora.~
+@2107 = ~Pentakel~
+@2108 = ~An diesem Amulett ist ein umgekehrtes Pentagramm, ein fünfzackiger Stern, angebracht. Während nach oben ausgerichtete Pentagramme häufig als Schutzzeichen Verwendung finden, ist die umgekehrte Form bei Kreaturen der unteren Ebenen beliebt. Man sagt, dass man mit Amuletten solcher Art Zugang zu verbotenen Bereichen erlangen kann. Dieses spezielle Amulett scheint mit den in Samora vorhandenen grünen Feueröfen in Verbindung zu stehen. Der Sukkubus Maretta im „Haus der Abrechnung“ möchte es wiedererlangen.
+  
+EIGENSCHAFTEN:
+
+Gift neutralisieren (1x täglich)
+
+Der Träger ist immun gegen Furcht.
+
+Gewicht: 1~
+@2109 = ~An diesem Amulett ist ein umgekehrtes Pentagramm, ein fünfzackiger Stern, angebracht. Dieses spezielle Amulett ist darauf ausgerichtet, die Feueröfen in Graz’zts Reich passieren zu können. Es wird Euch Zugang zu Waukeens Gefängnis gewähren, wenn Ihr wisst, wie es richtig eingesetzt wird.
+
+EIGENSCHAFTEN:
+
+Gift neutralisieren (1x täglich)
+
+Der Träger ist immun gegen Furcht.
+
+Gewicht: 1~
+@2110 = ~Kopf des Baatezu-Generals~
+@2111 = ~Dieser Kopf gehörte dem Baatezu-General Gazgothan, einem Cornugon-Teufel. Er kann sich glücklich schätzen, dass Ihr ihm den Kopf abgetrennt habt, denn bei seiner Rückkehr in die Neun Höllen wäre ihm bei der Nachricht seiner Niederlage weitaus Schlimmeres widerfahren. Ihr sollt den Kopf als Trophäe nach Samora bringen, um damit Euren Sieg über die Gegner der Dämonenstadt zu beweisen. Dies wird Euer Ansehen in der Stadt sicher steigern.~
+@2112 = ~Verzierter Kelch~
+@2113 = ~Dieser Kelch sieht auf den ersten Blick wertvoll aus. Bei genauerem Hinsehen zeigt sich jedoch, dass die Edelsteine lediglich aus geschliffenem Glas und das Metall aus einer minderwertigen Legierung besteht.~
+@2114 = ~Modronen beschwören~
+@2115 = ~Modronen beschwören
+
+Grad: 3
+Schule: Beschwörung
+Reichweite: 9 m (Sichtfeld)
+Dauer: 4 Phasen
+Zeitaufwand: 3
+Bereich: 15 m Radius
+Rettungswurf: Nein
+
+Innerhalb einer Runde nach dem Wirken dieses Zaubers beschwört der Zauberer 4 monodrone Modronen (extraplanare Kreaturen aus der äußeren Ebene Mechanus) herbei. Die Monodronen erscheinen an einem beliebigen Ort im Wirkungsbereich des Zaubers, der vom Zauberer festgelegt wird. Sie greifen die Gegner des Zaubernden nach Kräften an, bis der Zaubernde entweder befiehlt, die Angriffe einzustellen, die Dauer des Zaubers abläuft oder die Kreaturen getötet werden. Diese Wesen haben kein Moralversagen, aber sie verschwinden, wenn sie getötet werden. Wenn kein Gegner zum Kämpfen vorhanden ist, können die Modronen, wenn der Zauberer mit ihnen kommunizieren kann und sie körperlich dazu in der Lage sind, andere Dienste leisten. Bekannt wurde dieser Zauber durch den Magier Argramund vom Felsen, dessen derzeitiger Aufenthaltsort unbekannt ist.
+
+EIGENSCHAFTEN:
+
+Trefferwürfel: 2
+Intelligenz: 2–4
+Rüstungsklasse: 7
+Angriffe pro Runde: 1
+ETW0: 19 oder 20
+Schaden: 1W4
+
+Spezialfähigkeiten:
+– kann alle Arten der Illusion und Unsichtbarkeit durchschauen und damit bannen
+– immun gegen Bezauberung, Beherrschung, Festhalten, Lähmung, Furcht und Schlaf
+– immun gegen Moralversagen
+– immun gegen Angriffe, die auf die Positive und Negative Ebene abzielen, wie Stufenentzug
+– immun gegen Psi-Schläge~
+@2116 = ~Versiegelte Nachricht~
+@2117 = ~Dieser Behälter besteht aus zwei ineinander verschraubten Teilen, die auf eine Euch unbekannte Art versiegelt worden sind. Es ist Euch nicht möglich, sie zu öffnen. Ihr sollt das Gefäß einer Kreatur namens „Aphul“ im Auftrag des Nalfeshnee Margrog überbringen. Das Wesen wartet auf der Endlosen Treppe nicht weit entfernt von der Tür, welche nach Samora führt.~
+@2118 = ~Larvenwurm~
+@2119 = ~Diesen Larvenwurm habt Ihr der Nachthexe Zhelamiss abgekauft. Der Nalfeshnee Margrog möchte ihn haben, bevor er Euch etwas über Waukeen erzählen wird.~
+@2120 = ~Pfandschein~
+@2121 = ~Der Pfandschein berechtigt Euch dazu, einen Larvenwurm zu erhalten. Ihr habt ihn von der Nachthexe Zhelamiss erhalten und sollt ihn zu ihrem Diener Saarixal bringen, der oben am Ausgang ihrer Absteige neben den Larvenwürmern wartet.~
+@2122 = ~Zauberschlüssel: Veränderung~
+@2123 = ~Dieser Zauberschlüssel ermöglicht es Magiern, im Abyss gefahrlos Zauber der Schule „Veränderung“ zu wirken, welche ansonsten ein hohes Risiko haben, ein für den Anwender unerfreuliches Ergebnis zu produzieren.
+
+EIGENSCHAFTEN:
+
+Verhindert das Scheitern von Veränderungszaubern im Abyss.
+
+Gewicht: 6~
+@2124 = ~Heilige Münze Waukeens~
+@2125 = ~Dieses Amulett habt Ihr von der Göttin Waukeen als Dank für ihre Befreiung aus den Fängen des Dämonenprinzen Graz’zt erhalten. Der mächtige Gegenstand stammt aus dem legendären Münzumhang, den die Göttin stets als Herrin des Reichtums um ihre Schultern trägt. Eine jener Münzen hat sie durch ihren Willen zu einem prachtvollen Amulett geformt und Euch zum Geschenk gemacht.
+
+EIGENSCHAFTEN:
+
+Geld erzeugen (1x täglich)
+  Im Inventar des Anwenders erscheinen 1W100 Goldmünzen.
+
+Auf dem Träger liegt Todesschutz.
+
+RW-Bonus: –2
+Magiewiderstand: +20 %
+Charisma: +1
+
+Gewicht: 1~
+@2126 = ~Menschliches Herz~
+@2127 = ~Dies ist das Herz eines Menschen. Es scheint noch frisch zu sein, denn das Blut ist noch nicht geronnen.~
+@2128 = ~Zellenschlüssel~
+@2129 = ~Mit diesem Schlüssel, den Ihr der Marilith Nasmaerae abgenommen habt, können sämtliche Gefängniszellen in Graz’zts Kerker geöffnet werden.~
+@2130 = ~Marettas Schlüssel~
+@2131 = ~Dieser Schlüssel gehörte einst dem Sukkubus Maretta, der Herrin von Samora. Mit ihm lässt sich wahrscheinlich die Tür zum Ausgang aus Graz’zts Kerker öffnen.~
+@2132 = ~Tresorschlüssel der Goldspitzen~
+@2133 = ~Diesen Schlüssel habt Ihr Faerthae Garblueth, der diensthabenden Priesterin der Abtei der Goldspitzen, entwendet. Ihr sollt ihn zu einem Dieb namens Maendir bringen.~
+@2134 = ~Alembik der Vitalisierung~
+@2135 = ~Ein Alembik ist ein alchemistisches Gerät zur Herstellung von Essenzen. Der zentrale Körper dieses Alembiks besteht aus einem Kupferkessel. Einmal täglich erwacht die Magie des Gegenstandes zum Leben. Mit einem sanften Blubbern sammelt er die vitalen Energien der Umgebung und destilliert sie in seinem Inneren. Die Energien verschmelzen zu einem Heiltrank, der jeden Tag aufs Neue bereit ist, von einem Abenteurer genutzt zu werden.
+
+EIGENSCHAFTEN:
+
+Konzentrierten Heiltrank herstellen (1x täglich)
+
+Gewicht: 15~
+@2136 = ~Alembik~
+@2137 = ~Ein kupfernes Gefäß zur Herstellung einer Euch unbekannten Essenz.~
+@2138 = ~Talisman der Finsternis~
+@2139 = ~Dieser Talisman gehörte einst der Nachthexe Zhelamiss. Alle Nachthexen tragen ein solches Amulett. Es wird von ihnen tief in den Abgründen der Grauen Einöde erschaffen und heilt jede Krankheit, die sich der Besitzer zuzieht, sofort. Weiterhin verleiht der Gegenstand einen Bonus auf alle Rettungswürfe. Mithilfe dieses Talismans besitzen die Nachthexen die Fähigkeit, ätherisch zu werden und Sterbliche in ihren Träumen heimzusuchen. Wird ein solcher Talisman gestohlen, wenden Nachthexen große Mühe auf ihn wiederzufinden; denn sie benötigen neben einem Monat Zeit auch 100 Seelen, um einen solchen Gegenstand zu erschaffen. Dieser Gegenstand kann von Wesen guter Gesinnung nicht verwendet werden.
+
+EIGENSCHAFTEN:
+
+Ätherisch werden (1x täglich)
+  Der Anwender ist immun gegen normale Waffen, kann aber immer noch zaubern und mit Waffen angreifen. Zusätzlich erhält er +25 % Magieviderstand.
+  Dauer: 3 Runden
+
+Der Träger ist immun gegen Krankheit.
+
+RW-Bonus: –2
+
+Gewicht: 1~
+@2140 = ~Robe der Augen~
+@2141 = ~Dieses wertvolle Kleidungsstück sieht merkwürdig aus, denn es zieren zahlreiche, aus Stoff gewebte Augen, die in alle Richtungen auf dem Gewand vernäht sind. Sein Träger ist dadurch in der Lage, in alle Richtungen gleichzeitig zu sehen. 
+
+Astrale oder ätherische Wesen können mit dieser Robe nicht erblickt werden. Illusionen, Kreaturen, die durch Zauber getarnt oder in Schatten verborgen sind, werden jedoch leicht entdeckt, sodass ein Hinterhalt oder eine Überraschung eines Charakters, der eine Robe der Augen trägt, unmöglich ist. Der Träger der Robe ist gegen sämtliche Effekte, die Blindheit verursachen, geschützt. Schließlich erlaubt die Robe dem Träger, eins der Augen zu aktivieren, indem er sie entweder zur Erkundung der Umgebung oder zum Wirken eines Zaubers „Wahrer Blick“ einsetzt. Durch den Verbrauch eines der auf der Robe angebrachten Auges wird eine Ladung verbraucht. Wenn keine Augen mehr für die Aktivierung des Zaubers zur Verfügung stehen, kann der Träger die Robe weiterhin tragen, verliert jedoch die Fähigkeit, die jeweiligen Zauber einzusetzen.
+
+EIGENSCHAFTEN:
+
+Wahrer Blick (unbekannte Anzahl Ladungen)
+
+Zauberauge (unbekannte Anzahl Ladungen)
+
+Der Träger ist vor hinterhältigen Angriffen geschützt. 
+Der Träger ist immun gegen Blindheit.
+
+Gewicht: 4~
+@2142 = ~Madenleder~
+@2143 = ~Das Madenleder ist eine Lederrüstung, die von Maden bedeckt ist, die in einer endlosen Spirale um den Körper des Trägers kriechen. Die Rüstung gewährt eine erhöhte Widerstandsfähigkeit, aber sie bringt auch eine konstante Verwesung und Verdorbenheit mit sich. Die Maden beginnen, in die Haut des Trägers zu kriechen, sich in seinen Adern zu winden und sein Fleisch zu verzehren, weshalb der Besitzer der Rüstung kränklich wird und abscheulich anzusehen ist. 
+
+EIGENSCHAFTEN:
+
+Bei einem Treffer auf den Träger erleidet der Gegner durch Madenbisse 5 Schadenspunkte und infiziert sich mit einer Krankheit (Rettungswurf gg. Tod). Die Krankheit verursacht 5 Schadenspunkte pro Runde für 5 Runden.
+
+Widerstand gegen Wuchtwaffen: +20 %
+Widerstand gegen Stichwaffen: +20 %
+Widerstand gegen Klingenwaffen: +20 %
+Widerstand gegen Geschosswaffen: +20 %
+Charisma –2
+Konstitution –2
+
+Rüstungsklasse: 4
+RK-Bonus:
+  –1 gg. Geschosswaffen
+  –1 gg. Stichwaffen
+  –2 gg. Klingenwaffen
+Mindeststärke: 6
+
+Gewicht: 7~
+@2144 = ~Schädelkolben~
+@2145 = ~Geschmiedet aus einer Tragödie, verkörpert dieser Streitkolben Verderbnis. Einst fiel ein Paladin im Kampf gegen Dämonen in Thanatos, einer abscheulichen Schicht des Abyss. Sein Schädel, der in dunklen Ritualen abgetrennt und verflucht wurde, bildet nun diese böse Waffe. Diese Waffe konnte fortan dazu benutzt werden, dem Opfer Stärke zu entziehen und sie auf den Anwender zu übertragen. Außerdem beißt der Schädel bei einem erfolgreichen Treffer sein Opfer, was zwar nicht viel Schaden, aber dennoch einen unangenehmen Stich verursacht.
+
+EIGENSCHAFTEN:
+
+Entzieht dem Ziel 1 Punkt Stärke und überträgt ihn bei 25 % der Treffer für 5 Runden auf den Anwender (kumulativ).
+
+ETW0-Bonus: –3
+Schaden: 1W6 +3 (Wucht)
+Schadensbonus: +1 (Stich)
+Initiativefaktor: 7
+Fertigkeit: Streitkolben
+Typ: 1-händig
+Mindeststärke: 10
+
+Gewicht: 3~
+@2146 = ~Trank der Erlösung~
+@2147 = ~Dieser dunkel schimmernde Trank ist von einer geheimnisvollen Aura aus schwebenden, leuchtenden Kugeln durchzogen. Man sagt, dass es sich um eine Essenz handelt, zu deren Wirkung die Tränen von Aasimon beigemengt wurden, was den leuchtenden Charakter der Flüssigkeit erklären würde. Das Elixier hat eine süße, aber gleichzeitig bittere Note. Es besitzt die Fähigkeit, Entzug von Lebenskraft zu heilen. Ein Charakter, der den Trank trinkt, kann verlorene Erfahrungsstufen zurückerlangen und die damit einhergegangenen negativen Auswirkungen beseitigen.
+
+EIGENSCHAFTEN:
+
+Wirkt „Geringere Genesung“ auf den Anwender.
+
+Gewicht: 1~
+@2148 = ~Horn der Guten Hoffnung~
+@2149 = ~Dieses den glanzvollen Hallen der Hohen Akademie von Fochlucan in Silbrigmond geschmiedete Bronzehorn besitzt ein Mundstück, das aus dem Horn eines Einhorns geformt ist, und dadurch mehr als nur ein Musikinstrument ist. Es wurde von visionären Barden mit magischen Zutaten gefertigt und verkörpert pure Güte. Wenn es gespielt wird, erzeugen seine Melodien ein strahlendes Schild, das vor dem Bösen schützt.
+
+EIGENSCHAFTEN:
+
+Schutz vor Bösem (1x täglich)
+  Dauer: 1 Phase pro Stufe
+  Bereich: 4,5 m Radius
+  
+Gewicht: 3~
+@2150 = ~Amulett des Beschwörers~
+@2151 = ~Schutzamulett +2: Amulett des Beschwörers
+
+Vor vielen Äonen, als die Grenzen zwischen den Ebenen dünn waren und die Magie in ihrer reinsten Form floss, schmiedete der mächtige Beschwörer Kaelarion das „Amulett des Beschwörers“. Kaelarion war ein Weiser und ein Hüter des Gleichgewichts, der erkannte, dass das Öffnen von Toren zu anderen Ebenen eine Kunst war, die mit äußerster Sorgfalt gehandhabt werden musste. Gegen die Niedertracht eines seiner Lehrlinge konnte sich Kaelarion jedoch nicht zur Wehr setzen, als dieser seinem Meister mitten in dem Beschwörungsritual für einen Glabrezu einen Dolch zwischen die Schultern trieb. Das Scheusal bedankte sich für den Dienst auf seine Weise und riss den Lehrling mitsamt dem Amulett in den Abyss.
+
+EIGENSCHAFTEN:
+
+Auf dem Träger liegt Schutz vor Bösem.
+
+RK-Bonus: –2
+RW-Bonus: –2
+
+Gewicht: 1~
+@2152 = ~Zapfen Yggdrasils~
+@2153 = ~Man sagt, Dieser Zapfen sei eine Frucht des Weltenbaums, doch mit Sicherheit könnte das nur ein Einwohner dieses Ortes bezeugen. Jedenfalls schenkt der Zapfen dem Anwender beim Verzehr ein gehöriges Maß an Vitalität, was sich in einer zeitweisen Erhöhung seiner Trefferpunkt bemerkbar macht.
+
+EIGENSCHAFTEN:
+
+Samen essen (1x täglich)
+  Trefferpunkte: +10 %
+  Dauer: 10 Runden~
+@2154 = ~Trank der qualvollen Erinnerung~
+@2155 = ~Dieser trübe, übelriechende Trank bringt verlorene, kurzfristig erlebte Erinnerungen zurück. Dadurch haben Magieanwender die Möglichkeit, sich an bereits gewirkte Zauber zu erinnern und diese erneut wirken zu können. Allerdings ist der Trank nicht gerade bekömmlich, sondern im Gegenteil äußerst giftig. Außerdem können die Erinnerungen, je nachdem, welche es sind, für kurzzeitige Verwirrtheitszustände sorgen.
+
+EIGENSCHAFTEN:
+
+Der Trank stellt einen Zauber des 8. oder niedrigeren Grades wieder her. Der Anwender ist für 10 Sekunden vergiftet und erleidet 2 Schadenspunkte pro Sekunde. Weiterhin leidet der Anwender für 3 Runden an Verwirrung (Rettungswurf gegen Zauber).
+
+Gewicht: 1~
+@2156 = ~Daemeveras Säugling~
+@2157 = ~Dies ist das Kind der Sukkubus Daemevera, selbst eine Art Dämon, welches später aller Wahrscheinlichkeit nach zu einem Alu-Scheusal heranreifen wird. Es sieht Euch aus seinen leuchtend-blauen Augen heraus grimmig und voll Bosheit an. Ihr sollt den Säugling zu Mefisto bringen, damit er Euch im Austausch eine Möglichkeit aufzeigen kann, den Cyric-Priester Gildaar loszuwerden.~
+@2158 = ~Daemeveras Schlüssel~
+@2159 = ~Das ist ein merkwürdiger Schlüssel, der eine Mischung aus Peitsche und Rassel sein könnte.~
+@2160 = ~Flasche mit Wasser des Styx~
+@2161 = ~Die Flasche, die das düstere Wasser des Styx enthält, ist eine simple Flasche – ohne Zeichen ihrer übernatürlichen Herkunft oder ihrer Macht der Vergessenheit. Die Flasche selbst ist aus durchsichtigem Glas gefertigt. In ihrem Inneren befindet sich eine ölige, dunkle Flüssigkeit; ein undurchsichtiges, tiefschwarzes Wasser, das ruhig und träge in der Flasche schwappt. Das Wasser scheint selbst das Licht zu verschlucken, und es ist unmöglich, seinen Grund zu erkennen. Es ist das Wasser des Flusses Styx – des Stromes, der die Unterwelt durchzieht. Die Berührung mit der Flüssigkeit kann unheilbare Amnesie verursachen, und diejenigen, die es trinken oder in Kontakt damit kommen, riskieren, ihre eigenen Erinnerungen und Identitäten zu verlieren.~
+@2162 = ~Pauke des Abyss~
+@2163 = ~Diese Pauke wurde aus den Materialien des Abyss selbst geschaffen und trägt die verdrehte und bösartige Essenz dieser finsteren Ebene. Die Pauke ist aus dunklem, gehärtetem Leder gefertigt. An ihrem Boden ist der abgetrennte Kopf eines Wolfes befestigt, der in einer ewigen Grimasse des Schmerzes gefangen zu sein scheint. Die Augen des Wolfes funkeln in einem düsteren Gelb, und sein Fell ist von verdrehten Runen und Symbolen durchzogen, die seine Verbindung zum Abyss unterstreichen. Alle sechs Tage kann die Trommel den Glabrezu Belthazaar beschwören, indem sie angeschlagen wird und einen donnernden, abgrundtiefen Knall erzeugt. Wenn die Trommel gespielt wird, leuchtet der Kopf des Wolfs auf und Schatten winden sich um ihn herum, um die Ankunft von Belthazaar anzukündigen. Balthasar ist jedoch gerissen und eigensinnig und verfolgt lieber seine dunklen Pläne, als sich dem Willen eines Beschwörers zu beugen.
+
+EIGENSCHAFTEN:
+
+Belthazaar beschwören (1x täglich)
+  Ruft den Glabrezu Belthazaar herbei, der dem Anwender dient, aber nicht direkt kontrolliert werden kann. Belthazaar wird dem Ruf nur jeden sechsten Tag folgen.
+  Dauer: 1 Minute
+
+Gewicht: 1~
+@2164 = ~Pauke~
+@2165 = ~Eine merkwürdig aussehende Pauke.~
+@2166 = ~Belthazaars Dolch~
+@2167 = ~Diesen Dolch hat Euch der Glabrezu Belthazaar gegeben. Ihr sollt Ormad Sulpar dazu bringen, sich mit diesem Dolch zu ritzen.~
+@2168 = ~Kissen der Nachthexe~
+@2169 = ~Ihr sollt dieses Kissen zu Ormad Sulpar bringen. Wenn er damit sein Gesicht bedeckt, wird er ersticken. Damit gehört seine Seele dann endgültig der Nachthexe Zhelamiss, die Euch für diese böse Tat eine Belohnung versprochen hat.~
+@2170 = ~Trank der zehntausend Seelen~
+@2171 = ~Der Trank der zehntausend Seelen ist ein düsteres und gefährliches Elixier, das von der Nachthexe Zhelamiss gebraut wurde. Die Flasche ist von tiefschwarzer Farbe, und ihr Inneres scheint wie ein unendlicher Wirbel aus schattenhaften Nebelschwaden zu sein. Er wird in einem gläsernen Fläschchen aufbewahrt, dessen Oberfläche von winzigen Rissen durchzogen ist, als ob es den immensen Druck der darin eingeschlossenen Seelen nur knapp aushalten würde. Das Fläschchen ist mit einer silbernen Kappe versiegelt, auf der seltsame und beunruhigende Symbole eingraviert sind. Der Trank ist eine gefährliche Quelle von Macht und Wissen. Beim Trinken dieses Elixiers erhält der Anwender sofort 10.000 Erfahrungspunkte, was eine enorme Steigerung seiner Fähigkeiten und Fertigkeiten bedeutet. Dieser Zustrom von Wissen und Erfahrung kann einen Charakter in die Lage versetzen, auf bisher unvorstellbare Weise zu wachsen und über sich selbst hinauszuwachsen. Die Macht des Tranks hat jedoch ihren Preis. Die 10.000 Erfahrungspunkte, die der Anwender erhält, werden nicht einfach aus der Luft gegriffen. Sie stammen aus den Seelen von zehntausend Verstorbenen, die von der Nachthexe auf grausame Weise gefangen und dann in den Trank destilliert wurden. Diese Seelen sind nun für immer in dem Elixier gefangen und schreien stumm nach Erlösung. Wenn Ihr den Trank konsumiert, gehen die Seelen mit all ihren Erfahrungen, welche sie im Leben gemacht haben, in Euch auf. Es bleibt jedem Anwender selbst überlassen, ob er wird von einem tiefen Gefühl der Schuld und Dunkelheit geplagt wird, da er weiß, dass die Seelen der Verstorbenen für die eigene Macht und das eigene Wohl geopfert wurden.
+
+EIGENSCHAFTEN:
+
+Der Anwender bekommt 10.000 Erfahrungspunkte.
+
+Gewicht: 1~
+@2172 = ~hat 10.000 Erfahrungspunkte erhalten.~
+@2173 = ~Gildaars Notiz~
+@2174 = ~Gildaar,
+die Rettungsaktion für die Göttin scheint anzulaufen. Nach den Gesprächen, die ich belauscht habe, führt die Retter ein <PRO_RACE> namens <CHARNAME> auf die Endlose Treppe, um die Stadt Samora in Azzagrat zu erreichen. Sorgt dafür, dass die Gruppe nicht erfolgreich ist, und ich werde Euch reich entlohnen, sobald ICH dann die Herrin der Abtei bin, wenn der Greis Tharundar Olehm nicht mehr die Gunst seiner Gläubigen hat.~
+@2175 = ~Pinienzapfen~
+@2176 = ~Ein großer, stark duftender Pinienzapfen. Er liegt schwer in der Hand.~
+@2177 = ~Todesstecken~
+@2178 = ~Auf diesem Stab ist der Schädel eines Nabassu angebracht. Auch wenn die Stelle, an der sich einst die Augäpfel des Dämons befunden haben, hohl und leer wirkt, scheint der Schädel Wesen mit seinem Blick zu fixieren. Der Stecken wurde in den endlosen, chaotischen Tiefen des Abyss, wo die Dunkelheit und das Böse regieren, geschaffen. Seine Herkunft und die Geschichte seiner Entstehung sind von Finsternis und Grauen umhüllt.
+
+EIGENSCHAFTEN:
+
+Humanoides Wesen in Düsterschrecken verwandeln (1x täglich)
+  Kann ein humanoides Wesen mit höchstens 8 Trefferwürfeln nach Ablauf einer Runde in einen Düsterschrecken verwandeln.
+  Reichweite: 1,5 m
+  Dauer: Permanent 
+  Bereich: 1 Wesen
+  Rettungswurf: Ja (gg. Tod)
+
+Mindestintelligenz: 9
+
+Gewicht: 1~
+@2179 = ~Diadem der Fey’ri~
+@2180 = ~Dieses Diadem wurde von den Goldschmieden der Fey’ri, einer dämonischen Mischbrut zwischen Tanar’ri und Elfen, erschaffen. Man sagt, dass in dem roten Rubin das Blut hunderter geopferter Fey’ri hineingeflossen ist. Dem Träger wachsen schwarze Flügel und er erhält einige Resistenzen, die das Tanar’ri-Blut der dämonischen Elfen widerspiegeln. Diese Merkmale wirken auf die meisten Bewohner der Reiche äußerst abstoßend. Gute Charaktere müssen beim Anlegen des Gegenstandes einen Rettungswurf bestehen, anderenfalls werden sie vom dämonischen Einfluss des Diadems erfasst und wechseln ihre Gesinnung zu chaotisch böse. Das Diadem kann nur von Elfen und Halbelfen getragen werden. Man vermutet, dass die Fey’ri versuchten, mithilfe dieses Gegenstandes mehr ihrer elfischen Artgenossen auf die dämonische Seite zu ziehen.
+
+EIGENSCHAFTEN:
+
+Dem Träger wachsen schwarze Flügel, die ihn wie ein Wesen des Abyss wirken lassen.
+Gute Charaktere werden beim Anlegen des Diadems bei einem misslungenen chaotisch böse (Rettungswurf gg. Verwandlung).
+
+Charisma: –5
+Feuerwiderstand: +50 %
+Elektrizitätswiderstand: +50 %
+Giftwiderstand: +50 %
+Schützt nicht vor kritischen Treffern
+
+Gewicht: 2~
+@2181 = ~Schrei der Verzweiflung~
+@2182 = ~Dieser Plattenpanzer ist der Fratze eines Scheusals nachempfunden.
+
+EIGENSCHAFTEN:
+
+Bei 5 % der Treffer auf den Träger wird „Mantel der Furcht“ auf den Träger gewirkt.
+
+Rüstungsklasse: 0
+RK-Bonus:
+  –3 gg. Geschosswaffen
+  –3 gg. Stichwaffen
+  –4 gg. Klingenwaffen
+Mindeststärke: 15
+
+Gewicht: 35~
+@2183 = ~Val’kreens Hausinsignien~
+@2184 = ~Val’kreens Insignien des Hauses Dlardrageth~
+@2185 = ~Diese runde Scheibe ziert ein geflügeltes Wesen. Auf der Rückseite steht geschrieben: „Insignien Eigentum von Val’kreen, Fey’ri“.~
+@2186 = ~Diese Insignien stellen das Zeichen von Haus Dlardrageth dar, eines Geschlechts dämonischer Elfen, welche auch Fey’ri genannt werden. Die Kreaturen sind eine Kreuzung zwischen Tanar’ri und Elfen. Viel gemeinsam mit ihren elfischen Urahnen haben sie nicht mehr, gelten sie doch als grausam und rücksichtslos. Auf der Rückseite steht geschrieben: „Insignien Eigentum von Val’kreen, Fey’ri“.~
+@2187 = ~Teufelteiler~
+@2188 = ~Diese Hellebarde wurde nur zu einem einzigen Zweck geschaffen: Die Bewohner der Neun Höllen, die sich selbst Baatezu nennen und von Sterblichen für gewöhnlich Teufel genannt werden, zu vernichten. Die grobschlächtige, aber effektive Waffe wurde von den Tanar’ri-Schmieden des Abyss verzaubert, um extra Schaden gegen ihre Erzfeinde zu verursachen.
+
+EIGENSCHAFTEN:
+
+ETW0-Bonus: –3
+Schaden:
+  1W10 +3 (Stich)
+  1W10 +6 (Stich) gg. Baatezu
+Initiativefaktor: 6
+Fertigkeit: Hellebarde
+Typ: 2-händig
+Mindeststärke: 13
+
+Gewicht: 12~
+@2189 = ~Fleischverformer +3~
+@2190 = ~Diese Keule ist mit menschlichem Fleisch überzogen, welches mit den Sehnen eines anderen, unbekannten Wesens zu einer Waffe zusammengeschnürt wurde. Die Waffe richtet zwar wie alle Keulen keinen allzu großen Schaden an, ist jedoch in der Lage, bei jedem Treffer die Gestalt des Opfers zu verformen, was neben starken Schmerzen auch einen dauerhaften Abzug auf Geschicklichkeit und Charisma zur Folge hat, welcher nur durch „Magie bannen“ wieder rückgängig gemacht werden kann.
+
+EIGENSCHAFTEN:
+
+Bei jedem Treffer verliert das Ziel 1 Punkt Geschicklichkeit und Charisma (Rettungswurf gg. Verwandlung), bis „Magie bannen“ gewirkt wurde. Sinkt einer der Attributswerte auf 0, stirbt das Ziel.
+
+ETW0-Bonus: –3
+Schaden: 1W6 +3 (Wucht)
+Initiativefaktor: 4
+Fertigkeit: Keule
+Typ: 1-händig
+Mindeststärke: 5
+
+Gewicht: 3~
+@2191 = ~Herzensstecher~
+@2192 = ~In den düsteren Schmieden des Abyss werden seit Anbeginn der Zeit Waffen geschmiedet, die Sterblichen zu foltern und zu Quälen, so auch dieser Speer mit dem Namen „Herzensstecher“. Es wurde gesagt, dass der Speer aus finsterem Eisen geschmiedet und durch blutige Rituale mit der Kraft von gefangenen Seelen versehen wurde. Der Zahn eines mächtigen und gefallenen Dämons wurde als Spitze verwendet, um die todbringende Waffe zu vervollständigen.
+
+EIGENSCHAFTEN:
+
+Bei einem kritischen Treffer erleidet das Ziel zusätzlich 2W4 Schadenspunkte durch Stich und beginnt zu bluten (Rettungswurf gg. Tod).
+
+ETW0-Bonus: –3
+Schaden: 1W6 +3 (Stich)
+Initiativefaktor: 3
+Fertigkeit: Speer
+Typ: 2-händig
+Mindeststärke: 5
+
+Gewicht: 3~
+@2193 = ~Selûnes ewig brennende Sterne~
+@2194 = ~Diese silbernen Armschienen sind als „Selûnes ewig brennende Sterne“ bekannt. Es wird angenommen, dass sie diejenigen, die sie tragen, durch die Nacht führen und sie selbst vor den gefährlichsten Schatten schützen. Man glaubt, dass es sich bei den Edelsteinen in den beiden Armschienen um kristallisierte Tränen unserer Silbernen Herrin selbst handelt.
+
+EIGENSCHAFTEN:
+
+Stärkung (1x täglich)
+
+Schatten töten (1x täglich)
+  Tötet einen anvisierten Schatten (kein Rettungswurf).
+
+Der Träger ist immun gegen Blindheit.
+Der Träger ist immun gegen „Kugel der Dunkelheit“.
+
+RK-Bonus: –2 gg. Schatten
+RW-Bonus: –2 gg. Schatten
+
+Gewicht:: 1~
+@2195 = ~Kelch~
+@2196 = ~Kelch von Selûne~
+@2197 = ~In diesen prächtigen Kelch sind die Symbole von Sternen eingraviert.
+
+Gewicht: 2~
+@2198 = ~Dies ist ein heiliger Kelch der Selûne. Wer daraus trinkt, kann den Schutz der Mondmaid erhalten.
+
+EIGENSCHAFTEN:
+
+Trinken (1x täglich)
+  Auf den Anwender wird zufällig „Schutz vor Bösem“ oder „Heiligtum“ gewirkt.
+
+Gewicht: 2~
+@2199 = ~Stab der süßen Verwesung~
+@2200 = ~Dieser Stab gehörte einst einer ehemaligen Geliebten von Graz’zt. Während diese Waffe einst ein Symbol für die Kraft der Natur gewesen sein mag, ist sie heute nur noch eine verdrehte Verunstaltung ihres früheren Selbst. Sie ist mit einem seltsamen, süßlich riechenden Schleim bedeckt. Die wenigen Blätter, die einst aus ihm sprossen, haben eine ungesunde Farbe. Auf dem unteren Teil des Stabes wächst etwas Myzel. Es heißt, dass die süßen Gifte, die aus dem Stab sickern, ziemlich berauschend sein können und demjenigen, der ihn schwingt, einen gewissen Charme verleihen, und dass das Myzel helfen kann, Mykoniden zu beschwören.
+  
+EIGENSCHAFTEN:
+
+Mykoniden beschwören (1x täglich)
+
+Charisma: +1
+Glück: +1
+
+ETW0-Bonus: –3
+Schaden: 1W6 +3 (Wucht)
+Schadensbonus: +1 (Säure)
+Initiativefaktor: 1
+Fertigkeit: Kampfstab
+Typ: 2-händig
+Mindeststärke: 5
+
+Gewicht: 2~
+@2201 = ~Helm des Meuchelritters~
+@2202 = ~Dieser Helm wurde einst von einem Ritter Vlasnisz getragen, der seine Bruderschaft verließ, nachdem seine Brüder ihm den Rücken gekehrt hatten, als er sein Leben der Rache seiner Geliebten Vracl widmete, die von einer Ritterin, die er einfach nicht lieben konnte, auf grausame Weise getötet wurde. Vlasnisz beschloss, dass dieser Mord niemals vergessen oder verziehen werden konnte. Er wurde selbst zur Bestie, aber … ohne seine Geliebte konnte er einfach keinen anderen Weg einschlagen.
+
+EIGENSCHAFTEN:
+
+Kann nur durch „Fluch brechen“ wieder abgenommen werden.
+
+Schadensmultiplikator für hinterhältigen Angriff: +1
+ETW0-Bonus: –1 im Nahkampf
+Schützt vor kritischen Treffern
+
+Gewicht: 2~
+@2203 = ~Mit-Blut-genährt +2~
+@2204 = ~Dieser blutrünstige, mittelgroße Schild ist als „Mit-Blut-genährt“ bekannt. Wenn man den Erzählungen Glauben schenken darf, wird dieser Schild viel mächtiger, wenn seine Oberfläche mit dem Blut seines Trägers bedeckt ist, und schützt ihn so vor allen erdenklichen Gefahren.
+  
+EIGENSCHAFTEN:
+
+Wenn die Trefferpunkte des Trägers unter 25 % fallen, erhält der Träger einen zusätzlichen RK-Bonus von –2 sowie +1/2 Angriff pro Runde.
+
+Intelligenz: +1
+RK-Bonus: –3
+Mindeststärke: 12
+
+Gewicht: 5~
+@2205 = ~Blitzbehälter~
+@2206 = ~In diesem Behälter wurden Blitze gesammelt. Man sagt, dass diese gefährliche Aufgabe lanthanische Gnome mit ihren Himmelsschiffen vornehmen, indem sie direkt in ein Gewitter fliegen, um die Blitze zu fangen. Wenn man den Behälter öffnet, werden die Blitze entfesselt. Bis zu sechs Ziele können auf diese Weise getroffen werden. Sind alle Blitze aus dem Behälter entwichen, ist der Behälter nutzlos. Es gehört zumindest ein wenig Verständnis für die Funktionsweise des Gegenstandes sowie eine gehörige Portion Fingerfertigkeit dazu, den komplizierten Mechanismus zum Öffnen und Schließen des Behälters zu verstehen, schließlich gelten die Gnome, die solch einen Gegenstand entworfen haben, nicht umsonst als geschickte Tüftler.
+
+EIGENSCHAFTEN:
+
+Blitzstrahl (6 Ladungen)
+  Schaden: 3W6 (Elektrizität)
+  Reichweite: 30,5 m
+  Bereich: Speziell
+  Rettungswurf: 1/2 (gg. Zauberstäbe)
+
+Mindestintelligenz: 9
+Mindestgeschicklichkeit: 13
+
+Gewicht: 1~
+@2207 = ~Verdammter Versager~
+@2208 = ~Die Legende des „Verdammten Versagers“ reicht zurück zu einer Zeit, als sich ein menschlicher Schwertschmied aufmachte, die größte Klinge aller Zeiten zu schaffen. Er war derart eingebildet auf seine Fähigkeiten, dass er glaubte, mit dämonischer Hilfe die perfekte Waffe schmieden zu können – eine Klinge von beeindruckender Macht und unübertroffener Präzision. Seitdem folgt das Schwert einem eigenwilligen Muster. Es erscheint und teleportiert sich, sobald sein Träger im Kampf scheitert oder einen entscheidenden Fehler macht, und sucht nach einem „würdigeren“ Träger, der die Kunst des Schwertes meistern kann. Da jeder Sterbliche Fehler macht, ist es klar, dass die Klinge bisher noch keinen Träger gefunden hat, bei dem sie bleibt. Die Liste der ehemaligen Besitzer ist so lang wie die Feinde, die mit dieser Klinge erschlagen worden sind. Ein weiser Krieger sollte es sich zweimal überlegen, die Fähigkeiten der Waffe in Anspruch zu nehmen, denn die Chancen stehen hoch, bei einem Fehlschlag plötzlich ohne Waffe im Kampfe dazustehen.
+
+EIGENSCHAFTEN:
+
+Verfehlt der Träger das Ziel, verschwindet das Schwert und teleportiert sich an einen anderen, zufälligen Ort des Multiversums.
+
+ETW0-Bonus: –5
+Schaden: 2W4 +5 (Klinge)
+Initiativefaktor: 3
+Fertigkeit: Bastardschwert
+Typ: 1-händig
+Mindeststärke: 11
+
+Gewicht: 5~
+@2209 = ~Die brennende Vision~
+@2210 = ~Wenn die Legenden wahr sind, war dieser Ring einst ein ziemlich gewöhnlicher Ring der Infravision. Dieser spezielle Ring wurde jedoch von einem menschlichen Waldläufer getragen, der in die Neun Höllen verschleppt wurde, wo er bei lebendigem Leibe von den bösen Bestien verbrannt wurde, die diesen Ort ihr Zuhause nennen. Es wird erzählt, dass sich sein Schmerz mit dem Feuer vermischte und den Ring zerspringen ließ, als er schrie. Seine Magie begann zu brennen und veränderte die Natur des Rings für immer.
+
+EIGENSCHAFTEN:
+
+Wenn ein Ziel vom Träger getötet wird, erhält er für 3 Runden +6 % Feuer- und Kältewiderstand. Zudem besteht eine Chance von 25 %, für 3 Runden einen RW-Bonus von –1 auf Rettungswürfe gegen Tod zu erhalten.
+
+Infravision (bis zu 36,5 m)
+Feuerwiderstand: +10 %
+Kältewiderstand: +10 %
+
+Gewicht: 0~
+@2211 = ~Kopf +4~
+@2212 = ~Dieses Kurzschwert gehörte genau wie sein Zwillingsschwert „Zahl +4“ den Auserwählten einer Gottheit des Wohlstandes, welche Kol Korran genannt wird. Kol Korran wird von aufrichtigen Kaufmännern und Händlern, jedoch auch von Dieben und Betrügern, die unehrenhaften Geschäften nachgehen, verehrt. Es existieren viele Erzählungen über diese Schwerter. Einige besagen, dass sie aus einer großen Goldmünze des Gebieters über Welt und Reichtum geschmiedet wurden, die aus seiner persönlichen Schatzkammer stammten. Jene Münze wurde in der Mitte zweigeteilt – so entstanden die beiden dichotomen Klinge „Kopf +4“ und „Zahl +4“. Obwohl dieses Schwert alleine bereits über eine starke Verzauberung verfügt, ist es an sein Zwillingsschwert „Zahl +4“ gebunden. Wenn es getrennt geführt wird, hintergeht es seinen Träger und „verschlingt“ sein Gold. Das Schwert fühlt sich stets warm an. Wenn man den Legenden Glauben schenken darf, wurden beide Schwerter vor längerer Zeit von dämonischen Wesen gestohlen.
+  
+EIGENSCHAFTEN:
+
+Jeder erfolgreiche Treffer gegen den Träger dieser Waffe vernichtet 10 Goldstücke, es sei denn, der Träger trägt auch die Zwillingsklinge „Zahl +4“.
+
+Glück: +1
+Charisma: +1
+RK-Malus: +2 gg. Diebe
+RW-Malus: +2 gg. Diebe
+
+ETW0-Bonus: –3
+Schaden: 1W6 +3 (Klinge)
+Schadensbonus: +1 (Feuer)
+Initiativefaktor: 1
+Fertigkeit: Kurzschwert
+Typ: 1-händig
+Mindeststärke: 5
+
+Gewicht: 2~
+@2213 = ~Zahl +4~
+@2214 = ~Dieses Kurzschwert gehörte genau wie sein Zwillingsschwert „Kopf +4“ den Auserwählten einer Gottheit des Wohlstandes, welche Kol Korran genannt wird. Kol Korran wird von aufrichtigen Kaufmännern und Händlern, jedoch auch von Dieben und Betrügern, die unehrenhaften Geschäften nachgehen, verehrt. Es existieren viele Erzählungen über diese Schwerter. Einige besagen, dass sie aus einer großen Goldmünze des Gebieters über Welt und Reichtum geschmiedet wurden, die aus seiner persönlichen Schatzkammer stammten. Jene Münze wurde in der Mitte zweigeteilt – so entstanden die beiden dichotomen Klinge „Kopf +4“ und „Zahl +4“. Obwohl dieses Schwert alleine bereits über eine starke Verzauberung verfügt, ist es an sein Zwillingsschwert „Kopf +4“ gebunden. Wenn es getrennt geführt wird, hintergeht es seinen Träger und „verschlingt“ sein Gold. Das Schwert fühlt sich stets warm an. Wenn man den Legenden Glauben schenken darf, wurden beide Schwerter vor längerer Zeit von dämonischen Wesen gestohlen.
+  
+EIGENSCHAFTEN:
+
+Jeder erfolgreiche Treffer gegen den Träger dieser Waffe vernichtet 10 Goldstücke, es sei denn, der Träger trägt auch die Zwillingsklinge „Kopf +4“.
+
+Sagenkunde: +12
+Intelligenz: +1
+RK-Malus: +2 gg. Diebe
+RW-Malus: +2 gg. Diebe
+
+ETW0-Bonus: –3
+Schaden: 1W6 +3 (Klinge)
+Schadensbonus: +1 (Magie)
+Initiativefaktor: 1
+Fertigkeit: Kurzschwert
+Typ: 1-händig
+Mindeststärke: 5
+
+Gewicht: 2~
+@2215 = ~Idioten-Ionenstein~
+@2216 = ~Dieser prächtig anzusehende Ionenstein ist verflucht. Wird er angelegt, setzt er die Intelligenz des Trägers herab auf das Niveau eines Dummkopfes.
+
+EIGENSCHAFTEN:
+
+Intelligenz: auf 1 gesetzt
+
+Gewicht: 0~
+@2217 = ~Versilberter Bolzen~
+@2218 = ~Versilberte Bolzen sind gewöhnliche Armbrustbolzen, die mit Silber überzogen, aber nicht aus Silber hergestellt sind. Silber ist in der Regel ein weiches Metall, was bedeutet, dass ein Schwert oder eine Pfeilspitze aus reinem Silber in einem Kampf schnell brechen oder splittern würde. Wenn man jedoch eine Waffe mit Silber beschichtet, erhält man die Vorteile der Festigkeit von Eisen oder Stahl, aber die Eigenschaften von Silber, wenn man sie braucht. Einige Monster, die gegen nichtmagische Waffen immun oder resistent sind, sind anfällig für Silberwaffen. Zu ihnen gehören Dämonen und Teufel, spezielle Untote oder auch Feenwesen wie zum Beispiel Nachthexen. Diese Resistenzen können mit einer versilberten Waffe überwunden werden. Anhänger der Selûne erschaffen die vorliegenden Armbrustbolzen jedoch zu einem ganz anderen Zweck: dem Kampf gegen Lykanthropen wie Werratten und Werwölfen.
+
+EIGENSCHAFTEN:
+
+Trifft wie eine magische Waffe +5 gegen Lykanthropen, Untote und Scheusale der unteren Ebenen wie Baatezu (Teufel) und Tanar’ri (Dämonen).
+
+Schaden: 1W8 (Geschoss)
+Schusswaffe: Armbrust
+
+Gewicht: 0~
+@2219 = ~Rivens Gedicht~
+@2220 = ~Die Endlose Treppe
+
+Ein Gedicht von Riven Windläufer, Barde im Dienste der Mondmaid
+
+„In Schritten endlos, klar und weit,
+erhebt sich die Treppe, in die Ewigkeit.
+Der Mond, ein Licht in dunkler Nacht,
+enthüllt Begierden, noch nicht erwacht.
+
+Im Tanz der Ebenen, im Spiel so reich,
+führt durch die Nacht, den Sternen gleich
+jeder Schritt, ein Echo vergang’ner Zeit,
+ein Wink des Schicksals, ein Lächeln der Mondmaid.
+
+Mond und Sterne, als Wegweiser klar,
+führen den Wanderer, wohin auch immer er fahr’.
+Mögen die Schritte durch Zeit und Raum besteh’n,
+ein Pfad zum Frieden, zur Ruhe, zum Wiederseh’n.“~
+@2221 = ~Schutzring +3~
+@2222 = ~Wenn Zorn nicht weiterhilft, versuche es stattdessen mit Friedfertigkeit.~
+@2223 = ~Diadem~
+@2224 = ~Dieser Kopfschmuck ist mit einem roten Juwel verziert.~
+@2225 = ~Giftschnitter~
+@2226 = ~Dieser mächtige Krummsäbel wurde in einer Ebene der Abyss geschmiedet, welche als „Bohrstöcke“ bekannt ist. In ihr herrscht Tharzax, der Dämonenfürst des Giftes. Seine loyalsten Diener wurden mit Säbeln dieser Art ausgestattet, um das Wort des Herrn des Giftes im Multiversum zu verbreiten.
+
+EIGENSCHAFTEN:
+
+Bei jedem Treffer erleidet das Ziel 1 Schadenspunkt durch Gift pro Sekunde für 6 Sekunden (Rettungswurf gg. Gift).
+
+ETW0-Bonus: –3
+Schaden: 1W8 +3 (Klinge)
+Initiativefaktor: 2
+Fertigkeit: Krummsäbel/Wakizashi/Ninjatō
+Typ: 1-händig
+Mindeststärke: 10
+
+Gewicht: 1~
+@2227 = ~Verins Notizen~
+@2228 = ~Diese Schriftrolle enthält einige Notizen, die Verin verfasst zu haben scheint. Sie sind in einer eleganten, doch boshaft wirkenden Handschrift verfasst. Einige Einträge fallen Euch auf:
+
+„Maretta, intrigant und verführerisch, beherrscht Samora mit eiserner Hand. Sie verbirgt ihre wahren Absichten hinter einem Schleier aus Versuchung und Täuschung und wird Graz’zt alsbald hintergehen. Huldigt insgeheim einem anderen Dämonenfürsten, nur welchem? Vielleicht Orcus?“
+
+„Mefisto, der listige Stadtschreier, kennt die dunkelsten Geheimnisse Samoras. Seine Worte sind wie Dolche, geschärft mit Lügen und Intrigen. Er tanzt nach der Melodie der Macht. Doch derzeit scheint er Graz’zt gegenüber loyal zu sein. Ich habe ihm aufgetragen, seine Augen und Ohren offen zu halten, falls Fremde in der Stadt erscheinen, die nach Graz’zts Gefangener suchen. Er nannte mir zwei Sterbliche: Ein Mensch namens Gildaar und ein <PRO_RACE> namens <CHARNAME>. Er behält beide im Auge und wird mir Bericht erstatten, bevor einer der beiden gefährlich wird.“
+
+„Margrog, der Nalfeshnee-Händler, birgt das Gift des Verrats in seinen finsteren Augen. Handelt mit Seelen wie ein Metzger mit Fleisch. Seine scheinbare Loyalität ist nur ein Schleier für seine eigennützigen Ambitionen. Nicht vertrauensselig.“
+
+„Die Gefangenschaft Waukeens ist eine Quelle der Instabilität in Samora. Wir müssen sicherstellen, dass sie nicht befreit wird. Unsere Bemühungen schwächen ihre göttliche Präsenz, aber sie ist noch immer eine potenzielle Bedrohung.“
+
+„<CHARNAME> ist von ungewöhnlicher Entschlossenheit und Stärke. Halte ihn im Auge, denn <PRO_HISHER> Schicksal könnte das unsere entscheidend beeinflussen. Ist <PRO_HESHE> gekommen, um Waukeen zu befreien? Oder um gemeinsam mit Maretta Graz’zt Samora zu entreißen?“
+~ ~Diese Schriftrolle enthält einige Notizen, die Verin verfasst zu haben scheint. Sie sind in einer eleganten, doch boshaft wirkenden Handschrift verfasst. Einige Einträge fallen Euch auf:
+
+„Maretta, intrigant und verführerisch, beherrscht Samoras mit eiserner Hand. Sie verbirgt ihre wahren Absichten hinter einem Schleier aus Versuchung und Täuschung und wird Graz’zt alsbald hintergehen. Huldigt insgeheim einem anderen Dämonenfürsten, nur welchem? Vielleicht Orcus?“
+
+„Mefisto, der listige Stadtschreier, kennt die dunkelsten Geheimnisse Samoras. Seine Worte sind wie Dolche, geschärft mit Lügen und Intrigen. Er tanzt nach der Melodie der Macht. Doch derzeit scheint er Graz’zt gegenüber loyal zu sein. Ich habe ihm aufgetragen, seine Augen und Ohren offen zu halten, falls Fremde in der Stadt erscheinen, die nach Graz’zts Gefangener suchen. Er nannte mir zwei Sterbliche: Ein Mensch namens Gildaar und ein <PRO_RACE> namens <CHARNAME>. Er behält beide im Auge und wird mir Bericht erstatten, bevor einer der beiden gefährlich wird.“
+
+„Margrog, der Nalfeshnee-Händler, birgt das Gift des Verrats in seinen finsteren Augen. Handelt mit Seelen wie ein Metzger mit Fleisch. Seine scheinbare Loyalität ist nur ein Schleier für seine eigennützigen Ambitionen. Nicht vertrauensselig.“
+
+„Die Gefangenschaft Waukeens ist eine Quelle der Instabilität in Samora. Wir müssen sicherstellen, dass sie nicht befreit wird. Unsere Bemühungen schwächen ihre göttliche Präsenz, aber sie ist noch immer eine potenzielle Bedrohung.“
+
+„<CHARNAME> ist von ungewöhnlicher Entschlossenheit und Stärke. Halte sie im Auge, denn <PRO_HISHER> Schicksal könnte das unsere entscheidend beeinflussen. Ist <PRO_HESHE> gekommen, um Waukeen zu befreien? Oder um gemeinsam mit Maretta Graz’zt Samora zu entreißen?“
+~
+@2229 = ~Blutklinge~
+@2230 = ~Dieser Dolch ist mit dem Saft des Eisenmaul-Baumes bestrichen. Der Eisenmaul-Baum ist ein Gewächs der unteren Ebenen, welches vornehmlich im Abyss gedeiht. Der Saft des Baumes verhindert, dass sich blutende Wunden schnell wieder verschließen – das Opfer blutet lange weiter. Die Klinge ist ständig von frisch erscheinendem, flüssigem Blut benetzt und zeugt so von seiner regelmäßigen Verwendung als Instrument des Mordes.
+
+EIGENSCHAFTEN:
+
+Das Ziel beginnt zu bluten und erleidet 2 zusätzlichen Schaden pro Runde für 5 Runden.
+
+ETW0-Bonus: –3
+Schaden: 1W4 +3 (Stich)
+Initiativefaktor: 0
+Fertigkeit: Dolch
+Typ: 1-händig
+Mindeststärke: 3
+
+Gewicht: 0~
+@2231 = ~Schutz vor Gift~
+@2232 = ~Schutz vor Gift
+
+Grad: 2
+Schule: Bannzauber
+Reichweite: Berührung
+Dauer: 10 Runden
+Zeitaufwand: 3
+Bereich: 1 Wesen
+Rettungswurf: Nein
+
+Durch die Anwendung dieses Zaubers wird die gewählte Kreatur immun gegen Gifte, die über Kontakt mit der Haut, Verschlucken oder Stich verabreicht werden. Gifte anderer Arten wirken weiterhin normal auf das Wesen. Alle Gifte, die sich bereits im Körper befinden, wenn der Zauber gewirkt wird, sind ebenfalls von diesem Zauberspruch nicht betroffen.~
+@2233 = ~Stab des Mutes~
+@2234 = ~Ein Stab des Mutes flößt den Betroffenen Tapferkeit ein und hebt ihre Moral auf ein Höchstmaß. Die Moral des Empfängers wird nach Ablauf der Dauer allmählich auf den Normalzustand zurückgesetzt. Wenn die Empfänger von magischer Furcht betroffen sind, gewinnen sie ihre Fassung zurück. Wie alle Zauberstäbe kann auch der Stab des Mutes nur eine begrenzte Anzahl von Malen verwendet werden, bevor er zerstört wird.
+
+EIGENSCHAFTEN:
+
+Furcht bannen
+  Reichweite: 30,5 m
+  Dauer: 1 Stunde
+  Bereich: 4,5 m Radius
+
+Mindestintelligenz: 9
+
+Gewicht: 1~
+@2235 = ~Schutzamulett gegen Furcht~
+@2236 = ~Dieses herzförmige Amulett hebt die Moral seines Trägers und schützt ihn vor sämtlichen Auswirkungen von Furcht. Gegenstände dieser Art werden in zahlreichen unterschiedlichen Existenzebenen in vielfältigen Varianten angefertigt, schließlich gibt es im Multiversum ständig einen Anlass, voller Angst vor irgendetwas oder irgendwem davonzulaufen.
+
+EIGENSCHAFTEN:
+
+Der Träger ist immun gegen Furcht und Panik.
+
+Gewicht:1~
+@2237 = ~Roststreuer +3~
+@2238 = ~Dieses Wakizashi trägt den Namen „Roststreuer“ und genießt aus gutem Grund einen unheilvollen Ruf. Jeder Treffer, der mit dieser Klinge ausgeführt wird, kann andere mit schleichendem Rost „infizieren“, der den Gegner schwächen kann – aber auch denjenigen, der diese Klinge benutzt.
+
+EIGENSCHAFTEN:
+
+Bei 18 % der Treffer erleidet das Ziel einen Malus von +1 auf seine Rüstungsklasse für 2 Runden.
+Bei 4 % der Treffer erleidet der Träger einen Malus von +1 auf seine Rüstungsklasse für 2 Runden.
+Bei 90 % der Treffer erleidet das Ziel 3W4 Schadenspunkte durch Klinge, wenn es ein Eisengolem ist. 
+
+Säurewiderstand: +5 %
+
+ETW0-Bonus: –3
+Schaden: 1W8 +3 (Stich)
+Initiativefaktor: 0
+Fertigkeit: Krummsäbel/Wakizashi/Ninjatō
+Typ: 1-händig
+Mindeststärke: 5
+
+Gewicht: 2~
+@2239 = ~Gerinnseltartsche~
+@2240 = ~Diese bizarre Tartsche sieht wie ein riesiges Blutgerinnsel aus, an dem ein Griff befestigt ist. Es ist schwer zu sagen, wer oder was einen solchen Gegenstand freiwillig benutzen würde. Aber es muss wohl jemand gewesen sein, denn warum sonst sollte jemand einen Griff an diesem Ding befestigen?
+
+EIGENSCHAFTEN:
+
+RK-Bonus:
+  –1
+  –3 gg. Wuchtwaffen
+Kein Schutz vor Geschoss- und Stichwaffen
+Charisma: –2
+Schadensmultiplikator für hinterhältigen Angriff: +1
+
+Gewicht: 2~
+@2241 = ~Fleisch und Furunkel +4~
+@2242 = ~Diese seltsame Keule ist als „Fleisch und Furunkel +4“ bekannt. Sie sieht aus wie ein eigenartiges Stück Fleisch, das mit einem säurehaltigen Furunkel bedeckt ist. So sonderbar es auch erscheinen mag, kann es in manchen Situationen recht nützlich sein. Aber wie wichtig kann ein Stück Fleisch sein?
+
+EIGENSCHAFTEN:
+
+Bei 4 % der Treffer explodiert die Waffe und fügt dem Ziel 6W10 Schadenspunkte zu. Allerdings wird die Waffe durch die Explosion auch dauerhaft zerstört. 
+
+Charisma: –1
+RW-Bonus: –1 gg. Zauber
+
+EIGENSCHAFTEN:
+
+ETW0-Bonus: –4
+Schaden: 1W6 +4 (Wucht)
+Initiativefaktor: 4
+Fertigkeit: Keule
+Typ: 1-händig
+Mindeststärke: 5
+
+Gewicht: 3~
+@2243 = ~Herzförmiges Rasiermesser +3~
+@2244 = ~Die Klinge dieses kleinen Rasiermessers hat die Form eines Herzens, was dem ohnehin schon grausigen Gegenstand eine beunruhigende Note verleiht. Die Klinge ist sehr scharf, und ihr früherer Benutzer hat damit höchstwahrscheinlich Adern, Haut und Organe durchschnitten. Die dunkle Herkunft der Klinge in Verbindung mit der Inschrift „Man kann ein Herz, das bereits fehlt, nicht brechen“ macht sie sowohl mächtig als auch gruselig.
+
+EIGENSCHAFTEN:
+
+Wenn das Ziel durch einen Treffer getötet wird, erhält der Träger eine Blutsaat, die verbraucht werden kann, um 20 Trefferpunkte wiederzuerlangen und einen Bonus von +1 auf  Stärke für 1 Phase zu gewähren. Wird die Saat nicht verwendet, verschwindet sie nach 8 Stunden.
+
+RK-Bonus: –1 gg. Wuchtwaffen
+
+EIGENSCHAFTEN:
+
+ETW0-Bonus: –3
+Schaden:
+  1W4 +3 (Stich)
+  1W4 +4 (Stich) gg. Humanoide
+Initiativefaktor: 0
+Fertigkeit: Dolch
+Typ: 1-händig
+Mindeststärke: 3
+
+Gewicht: 1~
+@2245 = ~Blutsaat~
+@2246 = ~Die Blutsaat wurde durch den Gegenstand „Herzförmiges Rasiermesser +3“ erzeugt, als ein Ziel durch diese Waffe getötet wurde. Wenn die Saat nicht verbraucht wird, verschwindet sie nach 8 Stunden.
+
+EIGENSCHAFTEN:
+
+Heilt 20 Trefferpunkte.
+
+Stärke: +1
+Dauer: 1 Phase
+
+Gewicht: 0~
+@2247 = ~Fliegenpilzmantel~
+@2248 = ~Dieser verfluchte Mantel ist als Fliegenpilzmantel bekannt und ist so hell, dass es für seine Benutzer ziemlich schwierig ist, sich zu verstecken. Ja, er ist modisch, ja, er sieht ziemlich gut aus, aber ist er seinen Preis wert? Viele würden ohne zu zögern nein sagen.
+
+EIGENSCHAFTEN:
+
+Kann nur durch „Fluch brechen“ wieder abgenommen werden.
+
+Charisma: +1
+Im Schatten verstecken: –10 %
+RK-Malus: +1
+
+Gewicht: 3~
+@2249 = ~Magnetischer Ionenstein~
+@2250 = ~Während die meisten Ionensteine für ihre mächtigen und hilfreichen Eigenschaften bekannt sind, zieht dieser Stein alle Geschosse an, sodass es schwer ist, ihn als hilfreich oder nützlich zu bezeichnen. Er muss als eine Art Scherz erschaffen worden sein. Möglicherweise ein tödlicher Scherz.
+
+EIGENSCHAFTEN:
+
+Kann nur durch „Fluch brechen“ wieder abgenommen werden.
+
+RK-Malus: +3 gg. Geschosswaffen
+
+Gewicht: 0~
+@2251 = ~Goldene Narren~
+@2252 = ~Diese Armbänder sehen zwar sehr schön aus, aber sie sind verflucht. Wahrscheinlich wurden sie so geschaffen, um mögliche Beute anzulocken und sich dann von ihrer Neugier und Unvorsichtigkeit zu ernähren.
+
+EIGENSCHAFTEN:
+
+Kann nur durch „Fluch brechen“ wieder abgenommen werden.
+Jedes Mal, wenn der Träger getroffen wird, verliert er 1 Goldstück.
+
+Gewicht: 1~
+@2253 = ~Kurz-und-knapp~
+@2254 = ~Dieser Lederharnisch wurde verzaubert, um seinen Besitzer wie eine leichte Rüstung zu schützen. Gleichzeitig schränkt er die Bewegungsfreiheit nicht ein, so dass er auch von Schurken und Barden verwendet werden kann, ohne dass diese befürchten müssen, in ihren Künsten eingeschränkt zu werden. Obwohl er recht freizügig ist, können die Eigenschaften dieses Accessoires von all jenen geschätzt werden, die Mobilität und … explizite und unverblümte Direktheit schätzen. Der Harnisch schützt jedoch nicht gut vor frostigem Wetter und akzeptiert nur Träger, die in guter körperlicher Verfassung sind. Wenn er getragen wird, schmiegt er sich an seinen Besitzer und soll ihn in seiner ganzen Pracht präsentieren. Er kann nur mithilfe von Magie abgenommen werden.
+
+EIGENSCHAFTEN:
+
+Bezauberung (1x täglich)
+
+Khelbens parierende Peitsche (1x täglich)
+
+Kann nur durch „Fluch brechen“ wieder abgenommen werden.
+
+Charisma: +1
+Geschicklichkeit: +1
+Kältewiderstand: –20 %
+Blockiert nicht das Wirken von Zaubern
+
+Rüstungsklasse: 4
+RK-Bonus:
+  –1 gg. Geschosswaffen
+  –1 gg. Stichwaffen
+  –2 gg. Klingenwaffen
+Mindeststärke: 6
+Mindestkonstitution: 14
+
+Gewicht: 3~
+@2255 = ~Konzentrierte Säure~
+@2256 = ~Dies ist extrem ätzende Säure, die sich in windeseile durch Haut, Leder und Metall brennt.~
+@2257 = ~Gürtel der drei Zyklopen~
+@2258 = ~Auf einer abgelegenen Insel inmitten der Singenden Felsen vor der Küste Calimshans lebte einst eine Zyklopentriade, die bekannt war für ihre unermessliche Stärke und finsteren Machenschaften. Die drei Zyklopen waren von den Seeleuten, die an dem Eiland vorbeifuhren, gefürchtet, da sie nach vorbeifahrenden Schiffen mit mächtigen Steinen warfen und mehr als eines versenkten. Eines Tages wurden die drei Zyklopen von tapferen Abenteurern getötet. Diese nahmen ihre Augen als Trophäe, um die Belohnung einzufordern. Ein findiger Gnom aus Lantan namens Bilgim der Geschickte beschloss, die Augen in einen magischen Gürtel zu integrieren, um ihren einzigartigen Fähigkeiten neues Leben einzuhauchen. Der Gnom arbeitete monatelang an dem Gürtel, verstärkte ihn schließlich mit den Augen der drei Zyklopen und benutzte viel Magie, um einen für ihn passenden Gürtel zu erschaffen. Seitdem hat der Gürtel viele Besitzer gehabt, von tapferen Helden bis zu skrupellosen Schurken, die seine Macht für ihre eigenen Zwecke nutzen wollten. 
+
+EIGENSCHAFTEN:
+
+Unsichtbares entdecken (1x täglich)
+
+Der Träger ist immun gegen Verzauberung.
+
+Stärke: +1
+
+Gewicht: 2~
+@2259 = ~Der edle Kolben +4~
+@2260 = ~„Der edle Kolben“ ist eine mit Bronzebändern verzierte Keule, welche den Überlieferungen nach von einem Adligen aus Calimshan als Herrschaftszeichen getragen wurde. Einmal täglich kann die Keule einen Regen aus funkelnden Metallspänen auf alle im Wirkungskreis herabregnen lassen. Dies erwies sich in dem von Intrigen gezeichneten Calimshan als besonders wirkungsvoll gegen sich anschleichende Meuchelmörder, kommt jedoch dem Träger in jedem Land entlang der Schwertküste zugute.
+
+EIGENSCHAFTEN:
+
+Feenstaub (1x täglich)
+
+RW-Bonus: –3 gg. Odemwaffen
+
+ETW0-Bonus: –4
+Schaden: 1W6 +4 (Wucht)
+Initiativefaktor: 1
+Fertigkeit: Keule
+Typ: 1-händig
+Mindeststärke: 5
+
+Gewicht: 1~
+@2261 = ~Bolzen der anmutigen Königin +1~
+@2262 = ~Diese mächtigen Bolzen sind mit einer Verzauberung versehen, die sie besonders wirksam gegen Feinde der Rechtschaffenheit macht. Die „Anmutige Königin“, nach der die Bolzen benannt wurden, soll eine uralte Herrscherin der Ordnung gewesen sein, die im Jahr des fallenden Gewebes an den Folgen des dort herrschenden magischen Chaos zugrunde ging.
+
+EIGENSCHAFTEN:
+
+ETW0-Bonus: –1
+Schaden:
+  1W8 (Geschoss)
+  1W8 +3 (Geschoss) gg. nicht rechtschaffene Wesen
+Schusswaffe: Armbrust
+
+Gewicht: 0~
+@2263 = ~Helm des kindlichen Alptraums~
+@2264 = ~Dieser Helm wurde von Anhängern eines Kultes für Wesenheiten, die vor den Göttern herrschten, bei der Auswahl geeignet Jünger angewendet. In tiefen, lichtlosen Räumen führten ihre dunklen Priester Initiationsriten durch, bei denen junge Anwärter den Helm tragen mussten, um ihre Eignung zu beweisen. Der Helm, von uralten Schatten umhüllt, gewährte dem Träger zwar die Macht, einmal am Tag einen Schatten zu beschwören, der dem Willen des Helmträgers dienen sollte. Ungeeignete Anwärter wurden jedoch von ihrer Furcht übermannt, von den Untoten zerfetzt und ihre Seelen in die Finsternis gezogen. Ob der Kult mangels weitere Anhänger oder aus anderen Gründen wieder verschwand, ist im Laufe der Zeit vergessen worden.
+
+EIGENSCHAFTEN:
+
+Schatten beschwören (1x täglich)
+  Dauer: 1 Phase
+
+Infravision (bis zu 36,5 m)
+RK-Bonus: –1
+Schützt vor kritischen Treffern
+
+Gewicht: 2~
+@2265 = ~Hose und Hosenträger des brustfreien Rüpels +1~
+@2266 = ~In den staubigen Gassen von Rel Astra, einer Stadt in einem fernen Reich, wurde diese raue und zähe Rüstung geschaffen, die aus nichts als einer abgenutzten Lederhose und robusten Hosenträgern besteht. Einst von einem hünenhaften Rüpel getragen, der sich gerne in Tavernenschlägereien verwickelte, bot die Lederhose, von zahllosen Narben und Flecken gezeichnet, ihrem Träger eine überraschende Beweglichkeit und Schutz vor den Schlägen und Hieben seiner Gegner. Die Hosenträger, fest und zuverlässig, hielten die Rüstung an Ort und Stelle und schützten den Träger vor unerwarteten Angriffen. Doch die wahre Stärke dieser unkonventionellen Rüstung lag nicht in ihrer äußeren Erscheinung, sondern in der unerschütterlichen Wildheit ihres Trägers, dessen Faustschläge mit gnadenloser Präzision und Geschwindigkeit auf die Gegner einprasselten.
+
+EIGENSCHAFTEN:
+
+ETW0-Bonus: –1
+Angriffe pro Runde: +1
+
+Rüstungsklasse: 7
+RK-Malus:
+  +2 gg. Stichwaffen
+  +2 gg. Geschosswaffen
+Mindeststärke: 4
+
+Gewicht: 3~
+@2267 = ~Triefende Dunkelklinge +2~
+@2268 = ~Diese Klinge steht in der Tradition vieler dunkler Klingen Kara-Turs, einen Teil seiner Lebenskraft zu opfern, um eine Waffe stärker zu machen. Stößt man die Klinge in sein eigenes Fleisch, verwandelt sie sich für die Dauer einer Stunde in eine mächtigere Version eines Katanas.
+
+EIGENSCHAFTEN:
+
+Blutopfer (1x täglich)
+  Der Träger verliert 4W10 +5 seiner Trefferpunkte, um die Waffe für 1 Stunde in ein Katana +4 zu verwandeln. Die magisch erschaffene Waffe kann nicht abgelegt werden und kehrt nach 1 Stunde in die ursprüngliche Form eines Katana +2 zurück.
+
+ETW0-Bonus: –2
+Schaden: 1W10 +2 (Klinge)
+Initiativefaktor: 1
+Fertigkeit: Katana
+Typ: 1-händig
+Mindeststärke: 6
+
+Gewicht: 3~
+@2269 = ~Triefende Dunkelklinge +3~
+@2270 = ~Diese Klinge tropft von Blut – Eurem eigenen Blut. Ihr habt eine beträchtliche Menge davon geopfert, um die Klinge für eine Stunde mächtiger zu machen.
+
+SPEZIFISCHE EIGENSCHAFTEN:
+
+ETW0-Bonus: –3
+Schaden: 1W10 +3 (Klinge)
+Initiativefaktor: 1
+Fertigkeit: Katana
+Typ: 1-händig
+Mindeststärke: 6
+
+Gewicht: 3~
+@2271 = ~Triefende Dunkelklinge +4~
+@2272 = ~Diese Klinge tropft von Blut – Eurem eigenen Blut. Ihr habt eine beträchtliche Menge davon geopfert, um die Klinge für eine Stunde mächtiger zu machen.
+
+EIGENSCHAFTEN:
+
+ETW0-Bonus: –4
+Schaden: 1W10 +4 (Klinge)
+Initiativefaktor: 1
+Fertigkeit: Katana
+Typ: 1-händig
+Mindeststärke: 6
+
+Gewicht: 3~
+@2273 = ~Triefende Dunkelklinge +5~
+@2274 = ~Diese Klinge tropft von Blut – Eurem eigenen Blut. Ihr habt eine beträchtliche Menge davon geopfert, um die Klinge für eine Stunde mächtiger zu machen.
+
+EIGENSCHAFTEN:
+
+ETW0-Bonus: –5
+Schaden: 1W10 +5 (Klinge)
+Initiativefaktor: 1
+Fertigkeit: Katana
+Typ: 1-händig
+Mindeststärke: 6
+
+Gewicht: 3~
+@2275 = ~Die Farben seiner Träume +2~
+@2276 = ~Dieser Schild ist mit zahlreichen verschiedenfarbigen Buntgläsern und minderwertigen Edelsteinen besetzt, die in vielen unterschiedlichen Farben schimmern. Man kann dadurch sehr gut einen Gegner blenden. Der Nachteil ist, dass der Schild ziemlich schwer ist.
+
+EIGENSCHAFTEN:
+
+Lichtreflexion (1x täglich)
+  Alle Wesen im Wirkungsbereich erblinden für 1 Runde (Rettungswurf gg. Zauber).
+
+RK-Bonus:
+  –3
+  –4 gg. Geschosswaffen
+Mindeststärke: 15
+
+Gewicht: 12~
+@2277 = ~Waukeens Verteidiger +2~
+@2278 = ~Dies war der persönliche Schild von Tharundar Olehm, Hohepriester Waukeens. Er hat ihn Euch als Dank dafür überlassen, dass Ihr seine Seele vor dem Nalfeshnee Margrog gerettet habt. Eine Reihe ähnlicher Schilde kann zwar in ganz Faerûn in waukeenschen Tempeln gefunden werden, jedoch selten in dieser hohen Qualität und Verzauberung. Das Schild ziert ein Symbol von Waukeens goldenem Antlitz.
+
+EIGENSCHAFTEN:
+
+RK-Bonus: –3
+RW-Bonus: –2
+Magiewiderstand: +10 %
+Mindeststärke: 4
+
+Gewicht: 4~

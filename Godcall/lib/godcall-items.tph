@@ -1,0 +1,629 @@
+COPY ~godcall/itm/AC#WWSHL.itm~ ~override~ // Waukeen's defender
+  SAY NAME2 @2277
+  SAY DESC  @2278
+
+COPY ~godcall/itm/AC#WCOHD.itm~ ~override~ // Large shield +2 : the colors of his dreams
+  SAY NAME2 @2275
+  SAY DESC  @2276
+
+COPY ~godcall/itm/AC#WDRD5.itm~ ~override~ // Dripping Darkblade +5 magical katana + 5
+  SAY NAME2 @2273
+  SAY DESC  @2274
+  WRITE_LONG 0x34 1000 // price
+
+COPY ~godcall/itm/AC#WDRD4.itm~ ~override~ // Dripping Darkblade +4 magical katana + 4
+  SAY NAME2 @2271
+  SAY DESC  @2272
+
+COPY ~godcall/itm/AC#WDRD3.itm~ ~override~ // Dripping Darkblade +3 magical katana + 3
+  SAY NAME2 @2269
+  SAY DESC  @2270
+  WRITE_LONG 0x34 1000 // price
+
+COPY ~godcall/itm/AC#WDRDB.itm~ ~override~ // Dripping Darkblade +2 lootable base katana +2
+  SAY NAME2 @2267
+  SAY DESC  @2268
+  WRITE_LONG 0x34 1000 // price
+
+COPY ~godcall/itm/AC#WBLKG.itm~ ~override~ // Dripping Darkblade +5 used by Blackguard
+  SAY NAME2 @2267
+  SAY DESC  @2268
+
+COPY ~godcall/itm/AC#WTRSU.itm~ ~override~ // Trousers and Suspenders of Bare-Chested Brute +1
+  SAY NAME2 @2265
+  SAY DESC  @2266
+
+COPY ~godcall/itm/AC#WHLCN.itm~ ~override~ // Helmet of Child's Nightmare
+  SAY NAME2 @2263
+  SAY DESC  @2264
+
+COPY ~godcall/itm/AC#WGQBT.itm~ ~override~ // Bolt of the Graceful Queen +1
+  SAY NAME2 @2261
+  SAY DESC  @2262
+
+COPY ~godcall/itm/AC#WCLNC.itm~ ~override~ // The Noble Cob +4
+  SAY NAME2 @2259
+  SAY DESC  @2260
+
+COPY ~godcall/itm/AC#WBLCY.itm~ ~override~ // Belt of the Three Cyclops
+  SAY NAME2 @2257
+  SAY DESC  @2258
+
+COPY ~godcall/itm/AC#W60AC.itm~ ~override~ // Concentrated acid
+  SAY NAME2 @2255
+  SAY DESC  @2256
+
+COPY ~godcall/itm/AC#WHARN.itm~ ~override~ // Scanty Stride Suit
+  SAY NAME2 @2253
+  SAY DESC  @2254
+  WRITE_LONG 0x34 1100 // price
+
+COPY ~godcall/itm/AC#WGOFO.itm~ ~override~ // ~Golden Fools~
+  SAY NAME2 @2251
+  SAY DESC  @2252
+  WRITE_LONG 0x34 100 // price
+
+COPY ~godcall/itm/AC#WMGIS.itm~ ~override~ // ~Magnetic Ioun Stone~
+  SAY NAME2 @2249
+  SAY DESC  @2250
+  WRITE_LONG 0x34 50 // price
+
+COPY ~godcall/itm/AC#WTDCK.itm~ ~override~ // Toadstool Cloak
+  SAY NAME2 @2247
+  SAY DESC  @2248
+  WRITE_LONG 0x34 50 // price
+
+COPY ~godcall/itm/AC#WBLDS.itm~ ~override~ // Blood seed
+  SAY NAME2 @2245
+  SAY DESC  @2246
+
+COPY ~godcall/itm/AC#WHSRZ.itm~ ~override~ // Heart-Shaped Razor +3
+  SAY NAME2 @2243
+  SAY DESC  @2244
+  WRITE_LONG 0x34 1300 // price
+
+COPY ~godcall/itm/AC#WFLBO.itm~ ~override~ // Flesh and Boils
+  SAY NAME2 @2241
+  SAY DESC  @2242
+  WRITE_LONG 0x34 900 // price
+
+COPY ~godcall/itm/AC#WCTBU.itm~ ~override~ // Clot buckler
+  SAY NAME2 @2239
+  SAY DESC  @2240
+
+COPY ~godcall/itm/AC#WRUSP.itm~ ~override~ // Rust spreader
+  SAY NAME2 @2237
+  SAY DESC  @2238
+  WRITE_LONG 0x34 1300 // price
+
+COPY ~godcall/itm/AC#WAMFE.itm~ ~override~ // amulet against fear
+  SAY NAME2 @2235
+  SAY DESC  @2236
+  WRITE_LONG 0x34 500 // price
+
+COPY ~godcall/itm/AC#WWND7.itm~ ~override~ // Wand of Courage
+  SAY NAME2 @2233
+  SAY DESC  @2234
+  WRITE_LONG 0x34 700 // price
+
+COPY ~godcall/itm/AC#SCRL2.itm~         ~override~  // scroll of protection from poison
+  SAY NAME1 @2231
+  SAY NAME2 @2231
+  SAY DESC @2232
+
+COPY ~godcall/itm/AC#W90DG.itm~ ~override~ // Bloodblade
+  SAY NAME2 @2229
+  SAY DESC  @2230
+  WRITE_LONG 0x34 1500 // price
+
+COPY ~godcall/itm/AC#W90NO.itm~ ~override~ // Verin's notes
+  SAY NAME2 @2227
+  SAY DESC  @2228
+
+COPY ~godcall/itm/AC#W90SC.itm~ ~override~ // Venom Slicer
+  SAY NAME2 @2225
+  SAY DESC  @2226
+  WRITE_LONG 0x34 1300 // price
+
+COPY ~godcall/itm/AC#W74N1.itm~ ~override~ // note in the chamber of wrath
+  SAY DESC  @2222
+
+COPY ~godcall/itm/AC#W30PO.itm~ ~override~ // Riven's poem
+  SAY NAME2 @2219
+  SAY DESC  @2220
+
+COPY ~godcall/itm/AC#WSBLT.itm~ ~override~ // silvery bolts
+  SAY NAME2 @2217
+  SAY DESC  @2218
+
+COPY ~godcall/itm/AC#WIDIO.itm~ ~override~ // Idiot's Ionstone
+  SAY NAME2 @2215
+  SAY DESC  @2216
+
+COPY ~godcall/itm/AC#W902.itm~ ~override~ // The Tails +3
+  SAY NAME2 @2213
+  SAY DESC  @2214
+  WRITE_LONG 0x34 1200 // price
+
+COPY ~godcall/itm/AC#W901.itm~ ~override~ // The Heads +3
+  SAY NAME2 @2211
+  SAY DESC  @2212
+  WRITE_LONG 0x34 1200 // price
+
+COPY ~godcall/itm/AC#W90RI.itm~ ~override~ //The Burning Vision, ring of the nine hells
+  SAY NAME2 @2209
+  SAY DESC @2210
+  WRITE_LONG 0x34 900 // price
+
+COPY ~godcall/itm/AC#WSW50.itm~ ~override~ //bloody scapegoat +5
+  SAY NAME2 @2207
+  SAY DESC @2208
+  WRITE_LONG 0x34 500 // price
+
+COPY ~godcall/itm/AC#W30LB.itm~ ~override~ //flashflask
+  SAY NAME2 @2205
+  SAY DESC @2206
+
+COPY ~godcall/itm/AC#W19SN.itm~ ~override~ // selune's bracers
+  SAY NAME2 @2193
+  SAY UNIDENTIFIED_DESC #6791
+  SAY DESC @2194
+
+COPY ~godcall/itm/AC#W01CP.itm~ ~override~ // selune's cup
+  SAY NAME1 @2195
+  SAY NAME2 @2196
+  SAY UNIDENTIFIED_DESC @2197
+  SAY DESC @2198
+
+COPY ~godcall/itm/AC#W57ST.itm~ ~override~ // Nysara's staff
+  SAY NAME2 @2199
+  SAY DESC  @2200
+  WRITE_LONG 0x34 1900 // price
+
+COPY ~godcall/itm/AC#W4BHM.itm~ ~override~ // abyssal helmet
+  SAY NAME2 @2201
+  SAY DESC  @2202
+  WRITE_LONG 0x34 900 // price
+
+COPY ~godcall/itm/AC#W4BSH.itm~ ~override~     // abyssal shield, feeds-on-blood
+  SAY NAME2 @2203
+  SAY DESC  @2204
+  WRITE_LONG 0x34 1700 // price
+
+COPY ~godcall/itm/AC#WSPHS.ITM~        ~override~     // Heartpiercer, spear
+SAY NAME2 @2191
+SAY DESC @2192
+
+COPY ~godcall/itm/AC#WMSHP.ITM~        ~override~     // Meatshaper, Margrog's weapon
+SAY NAME2 @2189
+SAY DESC @2190
+WRITE_LONG 0x34 1700 // price
+
+COPY ~godcall/itm/AC#WHAL1.ITM~        ~override~     // Halberd Devilsplitter, bonus damage against Baatezu
+SAY NAME2 @2187
+SAY DESC @2188
+
+COPY ~godcall/itm/AC#WDLAR.ITM~        ~override~     // Dlardrageth house insignia
+SAY NAME1 @2183
+SAY UNIDENTIFIED_DESC @2185
+SAY NAME2 @2184
+SAY DESC @2186
+
+COPY ~godcall/itm/AC#WSOPL.ITM~        ~override~     // Cry of desolation, armor
+SAY NAME2 @2181
+SAY DESC @2182
+
+COPY ~godcall/itm/AC#WFEYR.ITM~        ~override~     // Fey'ri circlet
+SAY NAME1 @2223
+SAY UNIDENTIFIED_DESC @2224
+SAY NAME2 @2179
+SAY DESC @2180
+
+COPY ~godcall/itm/AC#WWANB.ITM~        ~override~     // Nabassu's staff
+SAY NAME2 @2177
+SAY DESC @2178
+WRITE_LONG 0x34 1900 // price
+
+COPY ~godcall/itm/AC#WGIL4.ITM~        ~override~     // Gildaar's note
+SAY NAME2 @2173
+SAY DESC @2174
+
+COPY ~godcall/itm/AC#WNHPN.ITM~        ~override~     // Nighthag's potion of tenthousand souls
+SAY NAME2 @2170
+SAY DESC @2171
+ SAY 0xde @2172
+WRITE_LONG 0x34 1900 // price
+
+COPY ~godcall/itm/AC#WNIPW.ITM~        ~override~     // Nighthag's pillow
+SAY NAME2 @2168
+SAY DESC @2169
+
+COPY ~godcall/itm/AC#WGLDG.ITM~        ~override~     // Belthazaar's dagger
+SAY NAME2 @2166
+SAY DESC @2167
+
+COPY ~godcall/itm/AC#WGLAD.ITM~        ~override~     // Drum of the Abyss
+SAY NAME1 @2164
+SAY UNIDENTIFIED_DESC @2165
+SAY NAME2 @2162
+SAY DESC @2163
+WRITE_LONG 0x34 900 // price
+
+COPY ~godcall/itm/AC#WSTYX.ITM~        ~override~     // Bottle with Styx' water
+SAY NAME2 @2160
+SAY DESC @2161
+
+COPY ~godcall/itm/AC#W4SKE.ITM~        ~override~     // Daemevera's cradle key
+SAY NAME2 @2158
+SAY DESC @2159
+
+COPY ~godcall/itm/AC#WDMBB.ITM~        ~override~     // Daemevera's baby
+SAY NAME2 @2156
+SAY DESC @2157
+
+COPY ~godcall/itm/AC#WPAGM.ITM~        ~override~     // Potion of Excruciating memory
+SAY NAME2 @2154
+SAY DESC @2155
+
+COPY ~godcall/itm/AC#WPINE.ITM~        ~override~     // pinecone of Yggdrasil
+SAY NAME1 @2175
+SAY UNIDENTIFIED_DESC @2176
+SAY NAME2 @2152
+SAY DESC @2153
+
+COPY ~godcall/itm/AC#WORMA.ITM~        ~override~     // Amulet of the conjurer
+SAY NAME2 @2150
+SAY DESC @2151
+WRITE_LONG 0x34 2000 // price
+
+COPY ~godcall/itm/AC#WHRN1.ITM~        ~override~     // Horn of Goodness
+SAY NAME2 @2148
+SAY DESC @2149
+
+COPY ~godcall/itm/AC#WPNRE.ITM~        ~override~     // Abyssal potion of restoration
+SAY NAME2 @2146
+SAY DESC @2147
+
+COPY ~godcall/itm/AC#WSKCL.ITM~        ~override~     // Skullclub
+SAY NAME2 @2144
+SAY DESC @2145
+WRITE_LONG 0x34 2000 // price
+
+COPY ~godcall/itm/AC#WMGLT.ITM~        ~override~     // maggot leather
+SAY NAME2 @2142
+SAY DESC @2143
+WRITE_LONG 0x34 800 // price
+
+COPY ~godcall/itm/AC#WROEY.ITM~        ~override~     // robe of eyes
+SAY NAME2 @2140
+SAY DESC @2141
+
+COPY ~godcall/itm/AC#WCHDN.ITM~        ~override~     // charm of darkness
+SAY NAME2 @2138
+SAY DESC @2139
+WRITE_LONG 0x34 800 // price
+
+COPY ~godcall/itm/AC#WALEM.ITM~        ~override~     // alembic of health
+SAY NAME1 @2136
+SAY NAME2 @2134
+SAY UNIDENTIFIED_DESC @2137
+SAY DESC @2135
+
+COPY ~godcall/itm/AC#WPIP2.ITM~        ~override~     // pipe of the abyss
+SAY NAME2 @2000
+SAY DESC @2001
+
+COPY ~godcall/itm/AC#WPOGR.ITM~        ~override~     // pipe of grief
+SAY NAME2 @2002
+SAY DESC @2003
+
+COPY ~godcall/itm/AC#WSCBD.ITM~        ~override~     // carceri dragon scales
+SAY NAME2 @2004
+SAY DESC @2005
+
+COPY ~godcall/itm/AC#WPTBD.ITM~        ~override~     // carceri dragon armor
+SAY NAME2 @2006
+SAY DESC @2007
+
+COPY ~godcall/itm/AC#WDVSP.ITM~        ~override~     // Deva spark
+SAY NAME2 @2008
+SAY DESC @2009
+
+COPY ~godcall/itm/AC#WPOT6.ITM~        ~override~     // bad healing potion
+SAY NAME2 @2010
+SAY DESC @2011
+
+COPY ~godcall/itm/AC#W30RN.ITM~        ~override~     // bounty note
+SAY DESC @2012
+
+COPY ~godcall/itm/AC#W74S1.ITM~        ~override~     // sword; Bad loser
+SAY NAME2 @2013
+SAY DESC @2014
+WRITE_LONG 0x34 800 // price
+
+COPY ~godcall/itm/AC#W70KY.ITM~        ~override~     // key to the chamber of
+SAY NAME2 @2015
+SAY DESC @2016
+
+COPY ~godcall/itm/AC#W70N1.ITM~        ~override~     // note of the mage in area AC#W70
+SAY NAME2 @2017
+SAY DESC @2018
+
+COPY ~godcall/itm/AC#W75SW.ITM~        ~override~     // sword; False pride+3
+SAY NAME2 @2019
+SAY DESC @2020
+WRITE_LONG 0x34 500 // price
+
+COPY ~godcall/itm/AC#WBOFO.ITM~        ~override~     // rose of the abyss
+SAY NAME2 @2021
+SAY DESC @2022
+
+COPY ~godcall/itm/AC#WABRS.ITM~        ~override~     // rose of the abyss
+SAY NAME2 @2023
+SAY DESC @2024
+
+COPY ~godcall/itm/AC#W72BN.ITM~        ~override~     // piece of bone
+SAY NAME2 @2025
+SAY DESC @2026
+
+COPY ~godcall/itm/AC#W71H1.ITM~        ~override~     // piece of heart #1
+SAY NAME2 @2027
+SAY DESC @2028
+
+COPY ~godcall/itm/AC#W71H2.ITM~        ~override~     // piece of heart #12
+SAY NAME2 @2027
+SAY DESC @2028
+
+COPY ~godcall/itm/AC#W71H3.ITM~        ~override~     // heart of the damned
+SAY NAME2 @2029
+SAY DESC @2030
+WRITE_LONG 0x34 700 // price
+
+COPY ~godcall/itm/AC#W73RI.ITM~        ~override~     // Ring of protection+3 for envy test
+SAY NAME2 @2221
+SAY DESC @2031
+WRITE_LONG 0x34 1100 // price
+
+COPY ~godcall/itm/AC#WCLYD.ITM~        ~override~
+  SAY NAME2 @2032
+  SAY DESC @2033
+
+COPY ~godcall/itm/AC#WCHP2.ITM~        ~override~
+  SAY NAME2 @2034
+  SAY DESC @2035
+
+COPY ~godcall/itm/AC#W52H3.ITM~        ~override~
+  SAY NAME2 @2038
+  SAY DESC @2039
+
+COPY ~godcall/itm/AC#W52H2.ITM~        ~override~
+  SAY NAME2 @2036
+  SAY DESC @2037
+
+COPY ~godcall/itm/AC#W52H1.ITM~        ~override~
+  SAY NAME2 @2038
+  SAY DESC @2039
+
+COPY_EXISTING ~godcall/itm/AC#W4GNT.itm~ ~override/AC#W4GNT.itm~
+SAY NAME2 @2040
+  SAY DESC @2040
+
+COPY ~godcall/itm/AC#WGBRI.itm~ ~override/AC#WGBRI.itm~
+SAY NAME2 @2041
+  SAY DESC @2042
+
+COPY ~godcall/itm/AC#W01B1.itm~ ~override/AC#W01B1.itm~
+SAY NAME2 @2043
+  SAY DESC @2044
+
+COPY ~godcall/itm/AC#W01B2.itm~ ~override/AC#W01B2.itm~
+SAY NAME2 @2045
+  SAY DESC @2046
+
+COPY ~godcall/itm/AC#W01B3.itm~ ~override/AC#W01B3.itm~
+SAY NAME2 @2047
+  SAY DESC @2048
+
+COPY ~godcall/itm/AC#WSGAM.ITM~        ~override~
+  SAY NAME2 @2049
+  SAY DESC @2050
+
+COPY ~godcall/itm/AC#WDVFT.ITM~        ~override~
+  SAY NAME2 @2051
+  SAY DESC @2052
+
+COPY ~godcall/itm/AC#WDVWG.ITM~        ~override~
+  SAY NAME2 @2053
+  SAY DESC @2054
+
+COPY ~godcall/itm/AC#PNACD.ITM~        ~override~
+  SAY NAME2 @2055
+  SAY DESC @2056
+
+COPY ~godcall/itm/AC#W4CK4.ITM~        ~override~
+  SAY NAME2 @2057
+  SAY DESC @2058
+
+COPY ~godcall/itm/AC#W4CK3.ITM~        ~override~
+  SAY NAME2 @2057
+  SAY DESC @2058
+
+COPY ~godcall/itm/AC#W4CK2.ITM~        ~override~
+  SAY NAME2 @2057
+  SAY DESC @2058
+
+COPY ~godcall/itm/AC#W4CK1.ITM~        ~override~
+  SAY NAME2 @2057
+  SAY DESC @2058
+
+COPY ~godcall/itm/AC#W4CKY.ITM~        ~override~
+  SAY NAME2 @2059
+  SAY DESC @2060
+
+COPY ~godcall/itm/AC#WBK04.ITM~        ~override~
+  SAY NAME2 @2061
+  SAY DESC @2062
+  SAY 0x16e @2063
+  
+ COPY ~godcall/itm/AC#WBK05.ITM~        ~override~
+  SAY NAME2 @2064
+  SAY DESC @2065
+  SAY 0x16e @2066
+  
+COPY ~godcall/itm/AC#WORM1.ITM~        ~override~
+  SAY NAME2 @2067
+  SAY DESC @2068
+
+  COPY ~godcall/itm/AC#WORM1.ITM~        ~override/AC#WORM2.ITM~
+    SAY NAME2 @2069
+    SAY DESC @2070
+  
+  COPY ~godcall/itm/AC#WORM1.ITM~        ~override/AC#WORM3.ITM~
+    SAY NAME2 @2071
+    SAY DESC @2072
+
+COPY ~godcall/itm/AC#WBKFD.ITM~        ~override~
+  SAY NAME2 @2073
+  SAY DESC @2074
+
+// Shield of the faithless (The Magister / Encyclopedia magica, Vol. IV, p.1294)
+// normal version
+COPY ~godcall/itm/AC#DTSHF.itm~         ~override~
+  SAY NAME2 @2075
+  SAY DESC @2076
+
+// cursed version
+COPY ~godcall/itm/AC#DTSH2.itm~         ~override~
+  SAY NAME2 @2077
+  SAY DESC @2078
+// Staff of Skulls (The Magister / Encyclopedia magica, Vol. IV, p.1294)
+COPY ~godcall/itm/AC#DTSTS.itm~         ~override~
+  SAY NAME1 @2079
+  SAY NAME2 @2080
+  SAY UNIDENTIFIED_DESC @2081
+  SAY DESC @2082
+
+COPY ~godcall/itm/AC#WSKEE.ITM~        ~override~
+  SAY NAME2 @2083
+  SAY DESC @2084
+
+COPY ~godcall/itm/AC#WSPKE.ITM~        ~override~
+  SAY NAME2 @2085
+  SAY DESC @2086
+
+COPY ~godcall/itm/AC#WSPKN.ITM~        ~override~
+  SAY NAME2 @2087
+  SAY DESC @2088
+
+COPY ~godcall/itm/AC#WSPKG.ITM~        ~override~
+  SAY NAME2 @2089
+  SAY DESC @2090
+  
+COPY ~godcall/itm/AC#WIPSK.ITM~        ~override~
+  SAY NAME2 @2091
+  SAY DESC @2092
+  
+COPY ~godcall/itm/AC#WANBL.ITM~        ~override~
+  SAY NAME2 @2093
+  SAY DESC @2094
+
+COPY ~godcall/itm/AC#W50TH.ITM~        ~override~
+  SAY NAME2 @2095
+  SAY DESC @2096
+
+COPY ~godcall/itm/AC#W08PP.ITM~        ~override~
+  SAY NAME1 @2097
+  SAY NAME2 @2098
+  SAY UNIDENTIFIED_DESC @2099
+  SAY DESC @2100
+
+COPY ~godcall/itm/AC#W51OR.ITM~        ~override~
+  SAY NAME2 @2101
+  SAY DESC @2102
+
+COPY ~godcall/itm/AC#W44KY.ITM~        ~override~
+  SAY NAME2 @2103
+  SAY DESC @2104
+
+COPY ~godcall/itm/AC#W61KY.ITM~        ~override~
+  SAY NAME2 @2105
+  SAY DESC @2106
+
+COPY ~godcall/itm/AC#WPNTG.ITM~        ~override~
+  SAY NAME1 @2107
+  SAY NAME2 @2107
+  SAY DESC @2108
+
+COPY ~godcall/itm/AC#WPNT2.ITM~        ~override~
+  SAY NAME1 @2107
+  SAY NAME2 @2107
+  SAY DESC @2109
+
+COPY ~godcall/itm/AC#WPFHE.ITM~        ~override~
+  SAY NAME2 @2110
+  SAY DESC @2111
+
+COPY ~godcall/itm/AC#W01X1.ITM~        ~override~
+  SAY NAME2 @2112
+  SAY DESC @2113
+
+COPY ~godcall/itm/AC#WSMMI.itm~            ~override~  // summon Modrons scroll, Wizard's spell compendium Vol. 4, p896
+  SAY NAME2 @2114
+  SAY DESC @2115
+
+COPY ~godcall/itm/AC#W30BZ.ITM~        ~override~
+  SAY NAME2 @2116
+  SAY DESC @2117
+
+COPY ~godcall/itm/AC#W40LV.ITM~        ~override~
+  SAY NAME2 @2118
+  SAY DESC @2119
+
+COPY ~godcall/itm/AC#W45PS.ITM~        ~override~
+  SAY NAME2 @2120
+  SAY DESC @2121
+
+COPY ~godcall/itm/AC#W_SK1.ITM~        ~override~
+  SAY NAME2 @2122
+  SAY DESC @2123
+
+COPY ~godcall/itm/AC#WCOIN.ITM~        ~override/AC#WCOIN.ITM~
+  SAY NAME2 @2124
+  SAY DESC @2125
+  FOR (i = 0; i < 100; ++i) BEGIN
+    LPF ADD_ITEM_EFFECT
+      INT_VAR
+        opcode = 122    // Create item
+        target = 1      // Self
+        timing = 1      // Permanent
+        parameter1 = i + 1  // # to create
+        probability1 = i
+        probability2 = i
+        // optional:
+        header = 1  // Ability 0
+        type = 3    // Ability type: Magical
+      STR_VAR
+        resource = ~MISC07~ // Gold
+    END
+  END
+
+COPY ~godcall/itm/AC#W#HEA.ITM~        ~override/AC#W#HEA.ITM~
+  SAY NAME1 @2126
+  SAY NAME2 @2126
+  SAY DESC @2127
+
+COPY ~godcall/itm/AC#W80K2.ITM~        ~override~
+  SAY NAME1 @2128
+  SAY NAME2 @2128
+  SAY DESC @2129
+
+COPY ~godcall/itm/AC#WKYMA.ITM~        ~override~
+  SAY NAME1 @2130
+  SAY NAME2 @2130
+  SAY DESC @2131
+
+COPY ~godcall/itm/AC#WTHF1.ITM~        ~override/AC#WTHF1.ITM~
+  SAY NAME1 @2132
+  SAY NAME2 @2132
+  SAY DESC @2133
+

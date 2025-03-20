@@ -1,0 +1,32 @@
+// game: Call of the Lost Goddess
+// date: 2025-01-14, 19:18
+// Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
+
+@0 = ~Willkommen, sterblicher Besucher, in der Kammer meiner Herrlichkeit! Schaut und erstaunt, denn Ihr seid Zeuge wahrer Pracht und Schönheit, die ich allein verkörpere. In meinem glorreichen Wesen spiegelt sich die Vollkommenheit wider, die Ihr nur bewundern vermögt, aber nie erreichen werdet.~ ~Willkommen, sterbliche Besucherin, in der Kammer meiner Herrlichkeit! Schaut und erstaunt, denn Ihr seid Zeugin wahrer Pracht und Schönheit, die ich allein verkörpere. In meinem glorreichen Wesen spiegelt sich die Vollkommenheit wider, die Ihr nur bewundern vermögt, aber nie erreichen werdet.~
+@1 = ~Dieser Raum ist die Bühne meiner Schönheit, auf der meine strahlende Gestalt unendlich reflektiert wird. Ich bin der Auserwählte, der den Gipfel der Makellosigkeit erklommen hat. Der Himmel selbst verneigt sich vor meiner Pracht!~
+@2 = ~Ihr werdet Euch glücklich schätzen dürfen, Sterblicher, denn Ihr habt die Ehre, meine Präsenz zu erleben. Doch seid gewarnt: Hier begegnet Ihr der Schönheit in ihrer reinsten Form, die über alle anderen erhaben ist. Verneigt Euch vor meiner Größe und unterwerft Euch meiner göttlichen Präsenz.~ ~Ihr werdet Euch glücklich schätzen dürfen, Sterbliche, denn Ihr habt die Ehre, meine Präsenz zu erleben. Doch seid gewarnt: Hier begegnet Ihr der Schönheit in ihrer reinsten Form, die über alle anderen erhaben ist. Verneigt Euch vor meiner Größe und unterwerft Euch meiner göttlichen Präsenz.~
+@3 = ~Ich sehe nur ein Wesen, das von seinem eigenen Glanz geblendet ist. Bedenkt, dass Hochmut nicht der richtige Weg ist. Euch mangelt es an Demut und Selbstreflexion.~
+@4 = ~Oh, Erhabener, ich verneige mich vor Eurer Pracht. Ich fühle mich geehrt, in Eurer Anwesenheit sein zu dürfen.~
+@5 = ~Ich werde Euch nicht bewundern.~
+@6 = ~Eure Schönheit mag imposant sein, doch wahre Größe wird durch Taten, nicht durch blendende Erscheinungen gemessen.~
+@7 = ~Eingebildeter Fatzke! (Angreifen.)~
+@8 = ~Demut? Selbstreflexion? Ihr denkt immer noch in den niedrigen Sphären der Sterblichen. Aber keine Sorge, denn durch meine Anwesenheit werdet Ihr die wahre Bedeutung von Herrlichkeit und Größe erfahren. Schaut nur, wie die Spiegel meine Taten und Tugenden widerspiegeln. Ihr könnt nur von meiner Präsenz lernen, denn ich bin der Inbegriff des Unübertrefflichen.~
+@9 = ~Eitler Pfau! (Angreifen.)~
+@10 = ~Eure Ehrerbietung ist angemessen, Sterblicher. Es ist wahr, dass meine Göttlichkeit eine unvergleichliche Herrlichkeit birgt. Ihr seid weise, dass Ihr die Erkenntnis besitzt, meinen Glanz angemessen zu würdigen. Fahrt fort, wie würdet Ihr mich beschreiben?~ ~Eure Ehrerbietung ist angemessen, Sterbliche. Es ist wahr, dass meine Göttlichkeit eine unvergleichliche Herrlichkeit birgt. Ihr seid weise, dass Ihr die Erkenntnis besitzt, meinen Glanz angemessen zu würdigen. Fahrt fort, wie würdet Ihr mich beschreiben?~
+@11 = ~Ich sehe ehrlich gesagt nur ein Wesen, das von seinem eigenen Glanz geblendet ist.~
+@12 = ~Ich kann es kaum in Worte fassen, wie sehr ich Euch bewundere. Euer Anblick lässt mein Herz vor Freude hüpfen und meine Seele in Ehrfurcht erzittern. Ihr seid wahrlich der Inbegriff von Ruhm und Tugend.~
+@13 = ~Ich werde Euch nicht weiter bewundern.~
+@14 = ~Eure Aura ist wie das Aufstoßen nach einem Festmahl, der alle Anwesenden dazu bringt, hastig das Weite zu suchen. Ich kann nicht anders, als vor Eurer einzigartigen Präsenz die Luft anzuhalten.~
+@15 = ~Es ist nur gerecht, dass Ihr meinen unvergleichlichen Ruhm und meine göttliche Tugend erkennt. Ich bin der leuchtende Stern am Himmel. Was noch?~
+@16 = ~Bedenkt, dass wahre Größe nicht durch Hochmut und Überheblichkeit erlangt wird, sondern durch die Fähigkeit, anderen zu helfen.~
+@17 = ~Eure Pracht ist jenseits aller Vorstellungskraft. Euer Glanz blendet mich vor Bewunderung.~
+@18 = ~Eure göttliche Gestalt bringt mein Herz zum Beben und meine Knie zum Wackeln. Euer Atem ist wie ein Hauch des Paradieses, während ich selbst nach einem Japsen Eurer göttlichen Pracht hechle. Verzeiht, dass ich es gewagt habe, in Eurer Nähe die Luft zu verpesten.~
+@19 = ~Eure Präsenz ist wie der frische Windhauch aus dem Hintern eines Sturmriesen, der eine Horde Hügelriesen hinwegfegt.~
+@20 = ~Fanal der Eitelkeit! (Angreifen.)~
+@21 = ~Ja, ja, ich weiß, dass ich schön bin. Mein strahlendes Antlitz und meine göttliche Gestalt sind zweifellos beeindruckend. Aber ich erwarte von Sterblichen wie Euch, dass Ihr mehr Ehrfurcht und Bewunderung – jenseits aller Vorstellungskraft – zum Ausdruck bringt! Gebt Euch gefälligst mehr Mühe, meine Vollkommenheit zu preisen!~
+@22 = ~Ihr müsst erkennen, dass Hochmut ein schmaler Pfad ist, der nur zur Einsamkeit führt. Lasst ab davon!~
+@23 = ~Euer Anblick ist so betörend, dass es mir die Sprache verschlägt. Eure Göttlichkeit ist wahrlich atemberaubend.~
+@24 = ~Eure Worte sind leer und bedeutungslos. Ihr könnt mich nicht mit flüchtigen Komplimenten besänftigen. Euer Mangel an Hingabe ist eine Beleidigung meiner Göttlichkeit.~
+@25 = ~Ihr denkt immer noch in den niedrigen Sphären der Sterblichen. Schaut nur, wie die Spiegel meine Taten und Tugenden widerspiegeln. Ihr könnt nur von meiner Präsenz lernen, denn ich bin der Inbegriff des Unübertrefflichen.~
+@26 = ~Was? Wie könnt Ihr es wagen, mich derart zu diffamieren?~
+@27 = ~Nun habt Ihr meinen Zorn erweckt. Für Eure Frevelei werdet Ihr bitter bezahlen!~

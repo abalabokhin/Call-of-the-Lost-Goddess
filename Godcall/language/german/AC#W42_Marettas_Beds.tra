@@ -1,0 +1,18 @@
+// game: Call of the Lost Goddess
+// date: 2025-01-14, 19:18
+// Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
+
+@0 = ~Seid gegrüßt, Sterblicher, im Freudenhaus Graz’zts, in dem Euch jeder Wunsch erfüllt wird, so sehr dieser auch in Eurem Herzen verborgen sein könnte.~ ~Seid gegrüßt, Sterbliche, im Freudenhaus Graz’zts, in dem Euch jeder Wunsch erfüllt wird, so sehr dieser auch in Eurem Herzen verborgen sein könnte.~
+@1 = ~Welche Dienste bietet Ihr an?~
+@2 = ~Ich hätte ein paar Fragen.~
+@3 = ~Maretta hat mir zugesichert, hier kostenlos übernachten zu dürfen.~
+@4 = ~Ich möchte rasten.~
+@5 = ~Hat sie das? Ja, das macht sie öfter, wenn sie ein Auge auf einen feinen Sterblichen geworfen hat. Dadurch werden sie noch schneller verdorben.~ ~Hat sie das? Ja, das macht sie öfter, wenn sie ein Auge auf eine feine Sterbliche geworfen hat. Dadurch werden sie noch schneller verdorben.~
+@6 = ~Nun gut, Ihr dürft Euch hier ausruhen, so lange Ihr wollt.~
+@7 = ~Ich möchte jetzt noch nicht rasten.~
+@8 = ~Schließt die Augen, und lasst Euch von den zarten Versuchungen verführen, die unsere Wände umgeben. Findet Vergnügen und Ruhe in den Armen der Dunkelheit …~
+@9 = ~Wie schade. In dieser Nacht werden also die Träume und Sehnsüchte anderer in dieser Kammer erblühen.~
+@10 = ~Einen Moment bitte …~
+@11 = ~Keine Fragen, kleiner <PRO_RACE> …~
+@243 = ~Ich suche einen Nalfeshnee namens Margrog.~
+@244 = ~Ach, der. Ihr findet sein merkwürdiges Haus mit Beinen auf der anderen Seite der Stadt, im Westen, gegenüber dem „Haus der Abrechnung“.~

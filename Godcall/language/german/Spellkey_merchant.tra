@@ -1,0 +1,36 @@
+// game: Call of the Lost Goddess
+// date: 2025-01-14, 19:18
+// Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
+
+@0 = ~Seid gegrüßt, Sterblicher. Interesse an arkanen und klerikalen Zauberschlüsseln? Ich habe hier eine ganze Menge davon, zu einem unschlagbaren Preis!~ ~Seid gegrüßt, Sterbliche. Interesse an arkanen und klerikalen Zauberschlüsseln? Ich habe hier eine ganze Menge davon, zu einem unschlagbaren Preis!~
+@1 = ~Zeigt mir Euer Angebot.~
+@2 = ~Derzeit habe ich an so etwas kein Interesse.~
+@3 = ~Ich hätte ein paar Fragen.~
+@4 = ~Tretet einen Schritt vor, damit nicht jeder sehen kann, was ich Euch jetzt anbiete …~
+@5 = ~Solange Ihr im Anschluss daran etwas kauft, beantworte ich Euch jede Frage auf der Welt, Sterblicher.~ ~Solange Ihr im Anschluss daran etwas kauft, beantworte ich Euch jede Frage auf der Welt, Sterbliche.~
+@6 = ~Was sind Zauberschlüssel?~
+@7 = ~Habt Ihr denn noch gar nicht bemerkt, dass viele Eurer Zauber im Abyss nicht den gewünschten Effekt haben?~
+@8 = ~Ja, das ist mir auch schon aufgefallen.~
+@9 = ~Nein, bis jetzt noch nicht.~
+@10 = ~Na eben.~
+@11 = ~Dann seid Ihr entweder ein großer Glückspilz oder ein magischer Versager.~ ~Dann seid Ihr entweder ein großer Glückspilz oder eine magische Versagerin.~
+@12 = ~Der Abyss hat seine eigenen Regeln, was Zauberei anbelangt. Und da komme ich ins Spiel, denn es ist möglich, diese Regeln zu Euren Gunsten zu verändern – mit speziellen magischen Schlüsseln.~
+@13 = ~Diese Zauber- oder Machtschlüssel geben Euch Sicherheit beim Zaubern, weil sie einen Teil der gewirkten Magie kanalisieren und die ungewünschten Effekte unterdrücken.~
+@14 = ~Fahrt fort.~
+@15 = ~Warum schlagen göttliche Zauber fehl?~
+@16 = ~Warum schlagen Veränderungszauber fehl?~
+@17 = ~Weil der Abyss völlig chaotisch ist. Alles ist windet sich, verändert sich – von einem Atemzug auf den nächsten.~
+@18 = ~Stellt Euch vor, Ihr wollt einen kleinen Stärkezauber wirken. Was macht die chaotische Natur des Abyss daraus? Einen Zauber, der Euch schwächer macht! Derlei Beispiele gibt es wie Portale in Pazunia, noch weitaus schlimmer, als Ihr es Euch vorstellen könnt! Das bedeutet, dass Ihr verdammt vorsichtig sein müsst, wann immer Ihr versucht, es mit Eurer Magie zu verändern.~
+@19 = ~Außer, ich habe einen Eurer Zauberschlüssel?~
+@20 = ~Außer, Ihr habt einen meiner Zauberschlüssel.~
+@21 = ~Ich hätte ein paar weitere Fragen.~
+@22 = ~Klingt gut. Zeigt mir Euer Angebot.~
+@23 = ~Und wo ist der Haken?~
+@24 = ~Bei den Säurewolken von Malignebula! Muss ich Euch denn noch die Funktion des ganzen Multiversums erklären?~
+@25 = ~Jede Gottheit sucht sich eine äußere Ebene zum Leben, die gut zu dem, was diese Gottheit eben verkörpert, passt. Es wäre wohl sehr befremdlich, wenn ein edler Weichling wie Torm die Neun Höllen seine Heimat nennen würde.~
+@26 = ~Problem dabei: dort, wo immer Torm wohnt, ist ganz schön weit weg von hier. Wenn Ihr seine göttliche Gunst mit Euren Zaubern anzapfen möchtet, wird er Euch bei all dem Geheule und Wehklagen im Abyss kaum hören. Und die Dämonenherrscher WOLLEN wahrscheinlich auch gar nicht, dass so etwas passiert. Also müsst Ihr mit einem Gegenstand die Verbindung zu Eurer Gottheit stärken. Und da komme ich mit meinen Machtschlüsseln ins Spiel.~
+@27 = ~Ist alles gar nicht so schwer, oder? Ihr kauft Euch einfach den passenden Schlüssel bei mir und könnt mit Euren gewohnten Zaubern loslegen.~
+@28 = ~Der Haken? Dass sich nicht viele Leute meine Schlüssel leisten können, Dummkopf! Also, was ist?~
+@29 = ~Wie Ihr wollt. Aber wenn Ihr erstmal von einem „Steinhaut“-Zauber zu Stein verwandelt worden seid, ist es zu spät, nach meinen Zauberschlüsseln zu fragen.~
+@30 = ~Magier verwenden Zauberschlüssel, um Veränderungsmagie wirken zu können oder Wesen der Inneren Ebenen heraufzubeschwören. Kleriker schaffen durch das Tragen von Machtschlüsseln eine sichere Verbindung zu der Machtbasis ihres Gottes, wodurch ihre göttlichen Zauber nicht mehr fehlschlagen.~
+@31 = ~Ach verflucht. Warum gibt es so etwas nicht auch für die Materielle Ebene?~

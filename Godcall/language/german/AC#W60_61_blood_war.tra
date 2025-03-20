@@ -1,0 +1,52 @@
+// game: Call of the Lost Goddess
+// date: 2025-01-14, 19:18
+// Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
+
+@0 = ~Verflucht sollt Ihr sein, Sterbliche, dass Ihr Euch in diesen ewigen Krieg einmischt! Diese Schlacht wird nicht durch Euresgleichen entschieden.~ [AC#W60C1]
+@1 = ~Habt Ihr den Schlüssel für das Portal nach Samora bei Euch?~
+@2 = ~Ja, ich habe den Portalschlüssel.~
+@3 = ~Nein. Ich habe stattdessen beschlossen, Euch zu töten.~
+@4 = ~Noch nicht.~
+@5 = ~Dann sucht weiter.~
+@6 = ~Sehr gut. Wir werden beobachten und warten. Wenn in der Stadt das Chaos ausbricht, werden wir unseren Nutzen daraus ziehen. Kommt, Abishai, verlassen wir diesen Ort und ziehen uns in unser Versteck zurück!~
+@7 = ~So sieht man sich wieder, <PRO_RACE>.~
+@8 = ~Kennen wir uns?~
+@9 = ~Man trifft sich immer zweimal. Ein drittes Mal aber nicht mehr! (Angreifen)~
+@10 = ~Ihr schon wieder! Euch habe ich doch auf der Treppe getroffen, oder nicht?~
+@11 = ~Was wollt Ihr?~
+@12 = ~Ja. Ihr habt uns auf der Endlosen Treppe die Schlachtpläne ausgehändigt, mit deren Hilfe wir nun tief im Reich der verhassten Tanar’ri stehen.~
+@13 = ~Viel gebracht hat es Euch scheinbar nicht.~
+@14 = ~Das ist gut, dass wir uns wieder begegnen. Ich wollte Euch schon damals töten, das kann ich jetzt nachholen.~
+@15 = ~Doch. Wir stehen hier, und Ihr seid hier. Das gereicht uns beiden zum Vorteil.~
+@16 = ~Wir möchten Euch einen Vorschlag machen – wir können uns gegenseitig helfen. Wir haben beobachtet, wo Ihr hergekommen seid. In diesem Dämonenturm gibt es ein Portal nach Samora. Findet heraus, wie man es aktiviert und gebt uns den Schlüssel zu diesem Portal, damit wir in die Stadt eindringen und die Garnison Tanar’ri vernichten können.~
+@17 = ~Ich habe einen besseren Vorschlag: Ihr haltet kurz still und ich kehre mit drei zusätzlichen Baatezu-Köpfen nach Samora zurück.~
+@18 = ~Vergesst es.~
+@19 = ~Und was habe ich davon?~
+@20 = ~Wir wissen nicht, was Ihr in Samora sucht. Aber Ihr seid keine wahren Verbündeten Graz’zts, wenn Ihr mit Margrog, dem Nalfeshnee Geschäfte macht. Ihr werdet den Abyss irgendwann wieder schnell verlassen müssen. So, wie wir das sehen, wird Eure Flucht sicher überstürzt ablaufen. Dieses Chaos werden wir uns zunutze machen. Und Euch nutzt unser Erscheinen, lenkt es doch die zornigen Tanar’ri von Eurer Fährte ab!~
+@21 = ~Das ist eine gute Idee. Ich willige ein.~
+@22 = ~Ihr wisst, was gut für Euch ist. Findet den Schlüssel für dieses Portal und bringt ihn uns. Wir warten hier auf Euch.~
+@23 = ~Das ist bedauerlich. Aber so ist. Kommt, Abishai, wir verlassen diesen unordentlichen Ort und kehren in unsere Heimat zurück!~
+@24 = ~Schade, Ihr wäret uns lebendig mehr nütze gewesen. Aber seis drum, Sterblicher, Eure Lebenszeit ist nun zu Ende …~ ~Schade, Ihr wäret uns lebendig mehr nütze gewesen. Aber seis drum, Sterbliche, Eure Lebenszeit ist nun zu Ende …~
+@25 = ~Ihr habt den Kopf! Das hätte ich nicht gedacht. Schon lange habe ich ein Auge auf die süße Maretta geworfen, und dieser Kopf wird mir endlich den Weg zu ihrem dämonischen Herzen öffnen!~ [OGREM01]
+@26 = ~Worauf wartet Ihr denn noch? Für Ruhm, Ehre oder Eure gottverdammte Mutter, springt dem Baatezu endlich in die Arme!~ [OGREM01]
+@27 = ~Na, wurde aber auch Zeit, dass endlich Verstärkung eintrifft! Diese stinkenden Teufel treiben uns unten ganz schön in die Enge!~ [OGREM01]
+@28 = ~Was ist zu tun?~
+@29 = ~Hat man Euch das in Samora nicht gesagt? Ihr seid der Stoßtrupp, den ich angefordert habe, klar? Ihr stürmt durch die feindlichen Linien und eliminiert den Baatezu-General!~
+@30 = ~Woran erkenne ich diesen General?~
+@31 = ~Ihr Sterblichen? Keine Ahnung. Wir Tanar’ri erkennen die höheren Teufel an ihrem Gestank. Haltet einfach nach einem gehörnten Teufel Ausschau, der die Befehle gibt. Von hier oben kann man in der Ferne ein rotes Zelt sehen. Ich denke, dies ist der Kommandostand dieses Feiglings.~
+@32 = ~Wie lautet die Taktik?~
+@33 = ~Die Taktik ist die aller glorreichen Tanar’ri-Schlachten – vorstürmen und draufhauen, bis entweder der Gegner oder man selbst in die Dornen beißt.~
+@34 = ~Alles klar. Los gehts!~
+@35 = ~Worauf wartet Ihr dann noch? Springt da das Loch hinunter und werft Euch die Schlacht!~
+@36 = ~Ich soll ernsthaft diesen dunklen Schlund herunterspringen?~
+@37 = ~Natürlich! Das ist unser Blutschacht. Auf diese Weise gelangen wir schneller zum Feind, ohne dass er zu uns herauf kann.~
+@38 = ~Woher weiß ich, was mich da unten erwartet?~
+@39 = ~Ich müsste noch einmal zurück nach Samora.~
+@40 = ~Also gut, auf in die Schlacht!~
+@41 = ~Das wollen viele, wenn sie erst einmal hier angelangt sind. Doch es gibt kein Zurück mehr. Ab in den Schacht, Ihr Wichte!~
+@42 = ~Vielleicht ist es ja besser, wenn Ihr es nicht wisst, bevor Ihr nicht gesprungen seid.~
+@43 = ~Wie komme ich wieder herauf?~
+@44 = ~Bis jetzt mussten noch nicht allzu viele wieder den Schacht nach oben zurückkehren. Wenn Ihr Euch an den Tentakeln entlanghangelt, solltet Ihr es aber schaffen.~
+@45 = ~Dann springt mal schön. Und wagt es nicht, ohne den Kopf des Generals zurückzukehren! Und damit Ihr nicht auf falsche Gedanken kommt, schließe ich jetzt das Portal. Für Euch geht es ab jetzt nur noch nach unten und nicht mehr zurück!~
+@46 = ~Sprecht mit unserem Höheren, nicht mit mir, Sterblicher!~ ~Sprecht mit unserem Höheren, nicht mit mir, Sterbliche!~
+@47 = ~Ich werde Eure Seelen mit nach Baator als Beutegut mitnehmen, wenn ich Euch vernichtet habe!~ [AC#W60C2]

@@ -1,0 +1,36 @@
+// game: Call of the Lost Goddess
+// date: 2025-01-14, 19:18
+// Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
+
+@0 = ~Wie schade, dass unsere Zeit so schnell vorüberging.~
+@1 = ~Wir hoffen, Ihr habt sie ebenso genossen wie unsereins. Wir fühlen uns erfrischt … und stärker!~
+@2 = ~Als kleinen Dank für all die Energie, die Ihr uns geschenkt habt, gebe ich Euch meinen Teil eines Talismans …~
+@3 = ~Oh ja, Ihr habt Recht, Vohraris. Hier, nehmt auch meinen Teil der Kette. Und nun lasst uns verschwinden, Geliebter.~
+@4 = ~Lebt wohl, stattlicher <PRO_RACE>.~
+@5 = ~Zumindest noch ein klein wenig …~
+@6 = ~Seid gegrüßt, großer, starker <PRO_RACE>! Ihr seht müde aus. Wollt Ihr Euch nicht ein wenig zu uns legen? Wir haben warme, weiche Kissen, und Eure Gesellschaft wäre uns sehr willkommen. So können wir die grauen Stunden der Nacht durch ein wenig Freude erhellen.~
+@7 = ~Oh ja, meine bezaubernden Freunde, wir sind hier, um Euch in unseren Bann der Verlockungen zu ziehen. Spüret die Leidenschaft, die in der Luft liegt.~
+@8 = ~Lasst <CHARNAME> in Ruhe! Ihr seid unser nicht wert.~
+@9 = ~Ihr seid nichts weiter als billige Flittchen. Wenn das die vielgerühmten Verführungskünste der Sukkubi sein sollen, brauchen wir uns um die Zukunft des Multiversums keine Sorgen zu machen.~
+@10 = ~Unheilige Wesen, Eure Verführungskünste mögen mächtig sein, doch unser Herz ist der Wahrheit und der Gerechtigkeit gewidmet. Eure Versuchungen werden auf keinen fruchtbaren Boden fallen.~
+@11 = ~Eure Verlockungen sind nichtig vor der Macht meines Glaubens. Unsere Pflicht ist klar, und wir werden standhaft bleiben und nicht Euren Verheißungen erliegen.~
+@12 = ~Was für ein armseliger Versuch, einen Sterblichen um den Finger zu wickeln. Das mag vielleicht bei einem niederen Menschen funktionieren, aber bei einer Drow nicht!~ ~Was für ein armseliger Versuch, eine Sterbliche um den Finger zu wickeln. Das mag vielleicht bei einem niederen Menschen funktionieren, aber bei einer Drow nicht!~
+@13 = ~Kein Interesse.~
+@14 = ~In dieser hässlichen Kammer komme ich nicht recht in Stimmung.~
+@15 = ~Ich bin hier, um die Prüfung zu bestehen und mich nicht von Versuchungen ablenken zu lassen.~
+@16 = ~Die Leidenschaft, die Ihr mir in Aussicht stellt, ist nichts als ein Vorwand, um meine Seele zu korrumpieren, widerliche Scheusale!~
+@17 = ~Die einzige Verlockung, die ich verspüre, ist, Euch zu vernichten, bösartige Dämonen!~
+@18 = ~Nichts lieber als das.~
+@19 = ~Ach, aber warum dem Wunsch nach Zärtlichkeit und Vergnügen widerstehen? Ihr könntet all Eure Sorgen und Pflichten vergessen und Euch einfach in unsere Arme fallen lassen.~
+@20 = ~Wir könnten Euch eine Welt zeigen, in der nur Lust und Verlangen regieren. Alles, was Ihr tun müsst, ist, Euch uns hinzugeben.~
+@21 = ~Ich werde nicht von meinem Weg abweichen. Mein Fokus liegt auf der Bewältigung meiner Aufgabe und nicht auf sinnlicher Zerstreuung.~
+@22 = ~Eure süßen Worte können nicht Euer schwarzes Herz verbergen, Scheusale!~
+@23 = ~Dann mal los!~
+@24 = ~Aber denkt doch nur an die Ekstase, die Euch erwartet. Keine Sorgen, keine Verantwortung. Nur grenzenloses Vergnügen.~
+@25 = ~Eure Widerstandskraft ist bewundernswert, doch das Verlangen pulsiert in Euch, wir können es spüren. Warum es unterdrücken?~
+@26 = ~Immer noch kein Interesse.~
+@27 = ~Weil ich erkannt habe, dass wahre Stärke darin liegt, Versuchungen zu widerstehen und mein inneres Gleichgewicht zu bewahren. Ich werde mich nicht von meinen Trieben beherrschen lassen.~
+@28 = ~Ihr wagt es, unsere Verführungskünste abzuweisen und Euch standhaft zu zeigen, elender Sterblicher? Das werden wir nicht dulden!~ ~Ihr wagt es, unsere Verführungskünste abzuweisen und Euch standhaft zu zeigen, elende Sterbliche? Das werden wir nicht dulden!~
+@29 = ~Eure Stärke wird sich als schwach erweisen, wenn wir unsere dämonische Kraft gegen Euch entfesseln!~
+@30 = ~Ihr habt die Chance verpasst, im Rausch unserer Liebkosungen zu schwelgen, nun müsst Ihr in Eurem eigenen Blut ertrinken!~
+@31 = ~So ists recht. Legt Euch zu uns, schließt die Augen, gebt Euch Euren Gefühlen hin …~

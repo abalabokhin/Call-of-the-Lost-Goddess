@@ -1,0 +1,277 @@
+// game: Call of the Lost Goddess
+// date: 2025-01-14, 19:18
+// Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
+
+@0 = ~Hallo! Habt Ihr meine Seelenverträge zurückerlangen können?~
+@1 = ~Ich habe Euch doch schon alle Verträge gegeben.~
+@2 = ~Nein, noch nicht.~
+@3 = ~Ich habe eine Nachricht von dem Glabrezu Belthazaar. Ihr sollt Euch mit diesem Dolch hier einen kleinen Schnitt beifügen, dann ist der Vertrag mit ihm aufgelöst.~
+@4 = ~Ich habe eine Nachricht von der Nachthexe Zhelamiss. Ihr sollt Euch mit diesem Kissen schlafen legen, dann ist der Seelenvertrag hinfällig.~
+@5 = ~Ich habe den Vertrag des Glabrezu Belthazaar bei mir.~
+@6 = ~Ich habe den Vertrag der Sukkubus Zaehvielle bei mir.~
+@7 = ~Ich habe den Vertrag der Nachthexe Zhelamiss bei mir.~
+@8 = ~Belthazaar möchte den Seelenvertrag nicht annullieren, und ich kann ihn in der Stadt nicht einfach aus dem Weg räumen. Er scheint den Vertrag woanders aufzubewahren und hat mir ein Rätsel mit auf den Weg gegeben.~
+@9 = ~Ein Kissen? Was für ein gruseliger Gedanke, auf dem Kissen einer Nachthexe zu schlafen.~
+@10 = ~Immer noch besser, als neben einer Nachthexe zu schlafen, oder?~
+@11 = ~Nichts für ungut. Zurück zu den Verträgen.~
+@12 = ~Ach, vergesst es. Es war eine dumme Idee.~
+@13 = ~Doch dieses Kissen beherbergt sicher eine böse Magie.~
+@14 = ~Vertraut mir, Ormad. Ihr könnt ja einfach zunächst daran riechen.~
+@15 = ~Dann versucht es. Ich bin ja bei Euch, was kann dann schon passieren?~
+@16 = ~Dann eben nicht. Zurück zu den Verträgen.~
+@17 = ~Nun gut, wenn Ihr meint …~
+@18 = ~Hmm… das Kissen riecht gar nicht schlecht …nach … Blumen von der Materiellen Ebene …~
+@19 = ~Gnnn… arrrgh… Kann … nicht … mehr … atmen …~
+@20 = ~Mmmmpf… mmmm…!~
+@21 = ~Was? Von so etwas habe ich ja noch nie gehört. Ich soll das wirklich glauben?~
+@22 = ~Wollt Ihr nun von den Verträgen freikommen oder nicht? Wenn ja, nehmt den Dolch.~
+@23 = ~Aber was, wenn der Dolch verflucht ist? Oder ich dadurch erst recht meine Seele verlieren könnte?~
+@24 = ~Vertraut mir, Ormad. Nehmt den Dolch, es ist nur ein kleiner Schnitt.~
+@25 = ~Ich verliere langsam die Geduld. Jetzt nehmt schon den Dolch!~
+@26 = ~Und ich soll nur einen kleinen Schnitt machen, sagt Ihr? Das wird nicht so schwer sein …~
+@27 = ~Oh! Das sind ja fabelhafte Neuigkeiten! Habt dank, ich nehme den Vertrag gleich zu mir.~
+@28 = ~Habt Ihr noch weitere Verträge bei Euch?~
+@29 = ~Habe ich Euch nicht schon alle Verträge gegeben?~
+@30 = ~Hmm. Was? Bei so vielen Verträgen kann man leicht durcheinanderkommen. Muss einmal nachsehen …~
+@31 = ~Nein, ich habe noch nicht alle Verträge, die ich brauche, um wirklich frei zu sein.~
+@32 = ~Dann werde ich wohl oder übel weitersuchen müssen.~
+@33 = ~Aber ja!~
+@34 = ~Damit habt Ihr mir alle Verträge überbracht. Ich bin frei … frei, FREI! Ich kann Euch gar nicht genug danken für Eure heldenhafte Tat! Hier, wie versprochen, der einzige magische Gegenstand, der mir noch geblieben ist. Ich hoffe, er ist Euch nütze.~
+@35 = ~Ich habe eine Überfahrt über den Fluss Styx gebucht, die mich über Acheron wieder auf die Materielle Ebene bringen wird. Ich kann es kaum erwarten, dieses Ort hinter mir zu lassen. Lebt wohl.~
+@36 = ~Ein Rätsel? Das ist schlecht. Könnt Ihr es mir einmal zeigen?~
+@37 = ~Sicher, hier ist es.~
+@38 = ~Eine Hand, mit Blut vermischt, des Schicksals sanfter Schlag,
+Öffnet die Pforten zum Unheil, den Weg ins finstere Grab.
+Ein Rätsel ists, das ich dir gebe, Sterblicher wagemutig und klug,
+Errate den Zauber der Hand, und die Tür wird sich öffnen genug.
+Eine Berührung mit Blut, ein Zittern im Fleisch,
+Mit dieser Hand als Schlüssel enthülle des Glabrezus Reich.
+Finde den Pfad, den die Hand dir weist,
+Lies die Zeichen, in ihr verborgen, doch heiß.
+Dann, oh Sterblicher, öffnet sich das Tor,
+In das Reich des Glabrezu, für immer und fürwahr.
+Nun, Sterblicher, wage den Schritt, entschlüssle das Rätsel mit Bedacht,
+Denn im Angesicht des Glabrezus wirst Du dich beweisen müssen, Tag und Nacht.~ ~Eine Hand, mit Blut vermischt, des Schicksals sanfter Schlag,
+Öffnet die Pforten zum Unheil, den Weg ins finstere Grab.
+Ein Rätsel ists, das ich dir gebe, Sterbliche wagemutig und klug,
+Errate den Zauber der Hand, und die Tür wird sich öffnen genug.
+Eine Berührung mit Blut, ein Zittern im Fleisch,
+Mit dieser Hand als Schlüssel enthülle des Glabrezus Reich.
+Finde den Pfad, den die Hand dir weist,
+Lies die Zeichen, in ihr verborgen, doch heiß.
+Dann, oh Sterbliche, öffnet sich das Tor,
+In das Reich des Glabrezu, für immer und fürwahr.
+Nun, Sterbliche, wage den Schritt, entschlüssle das Rätsel mit Bedacht,
+Denn im Angesicht des Glabrezus wirst Du dich beweisen müssen, Tag und Nacht.~
+@39 = ~Oh weh, was soll denn das für ein Rätsel sein?~
+@40 = ~Irgendetwas mit einer Hand und einem Schlüssel?~
+@41 = ~Hmm. Ich hörte bereits, dass dieser Belthazaar ein Faible für abgetrennte, blutige Hände seiner Kontrahenten hat. Vielleicht öffnet eine blutige Hand die Tür in seine geheime Kammer?~
+@42 = ~Wo könnte diese Kammer denn sein?~
+@43 = ~Das weiß ich nicht. Ich hörte jedoch, dass der Glabrezu häufiger einem scheinbar verfallenen Lagerhaus im Osten der Stadt einen Besuch abstattet. Vielleicht ist dort sein Versteck?~
+@44 = ~Dann werde ich es dort einmal versuchen.~
+@45 = ~Bitte sucht weiter! Ich flehe Euch an!~
+@46 = ~Oh! Ihr seid die, von denen mir mein Vertrauter sagte, er hätte Euch aus der Behausung der Nachthexe kommen sehen. Ihr seht mir obendrein wie fähige Abenteurer aus, und ich brauche Eure Hilfe. Mein Name ist Ormad Sulpar.~
+@47 = ~Was soll ich denn für Euch tun?~
+@48 = ~Ihr steckt in Schwierigkeiten?~
+@49 = ~Kein Interesse.~
+@50 = ~Bitte Ihr müsst mir helfen! Ich FLEHE Euch an!~
+@51 = ~Nun gut,was soll ich denn für Euch tun?~
+@52 = ~Ich glaube, ich habe mich klar genug ausgedrückt. Auf Wiedersehen.~
+@53 = ~Wenn Ihr Eure Meinung ändert – ich bin hier und warte auf jemanden wie Euch.~
+@54 = ~Ich … ich habe ein großes Problem. Ein riesengroßes Problem. Ein wirklich furchtbares Problem. Schon allein wenn ich daran denke, schnürt es mir den Hals zu. Also passt auf!~
+@55 = ~Ich kam nach Samora, um mit Sklaven zu handeln, und blieb des großen Geldes und der vielen Laster wegen, wie wahrscheinlich jeder Reisende an solch einem Ort. Ich trank, verspielte mein Geld, hurte herum … kurz, ich verprasste mein gesamtes Vermögen.~
+@56 = ~Viel zu spät merkte ich, dass ich mich bei einigen … unangenehmen Zeitgenossen in dieser Stadt hoffnungslos überschuldet hatte. Aber ich spielte weiter. Da erschien mir Zhelamiss, die Nachthexe, wie meine Rettung. Sie bot mir Gold, viel Gold, im Austausch für … eigentlich nicht viel für den Moment. Für meine Seele.~
+@57 = ~Ihr habt des Goldes wegen einer Nachthexe Eure Seele versprochen?~
+@58 = ~Das tat ich, ja … ohne groß darüber nachzudenken!~
+@59 = ~Und ich soll jetzt die Nachthexe „überzeugen“, von Euch abzulassen, stimmts?~
+@60 = ~Fahrt fort.~
+@61 = ~Ja, etwas in der Art. Ich bin aber noch nicht ganz fertig mit meinen Erzählungen.~
+@62 = ~Nach dem Handel mit Zhelamiss hatte ich wieder massig Gold. Doch ich änderte mein Verhalten nicht. Ich quartierte mich in „Marettas Betten“, diesem verfluchten Bordell, ein. Dort erfüllen einem die Mädchen jeden noch so absonderlichen Wunsch. Als ich kein Geld mehr hatte, sie zu bezahlen, war es ihnen egal. Sie sagten, dass sie sich sogar umsonst um mich „kümmern“ würden, weil ich ihnen so gut gefalle. Auf eine hatte ich es ganz besonders abgesehen – Zaehvielle, das süße Früchtchen. So ein junges Ding findet man auf der Materiellen Ebene selten.~
+@63 = ~Ihr widert mich an.~
+@64 = ~Und weiter?~
+@65 = ~Viel zu spät merkte ich, dass ihre Liebenswürdigkeit nur gespielt und sie in Wirklichkeit ein böser Sukkubus war.~
+@66 = ~Welch Überraschung an solch einem Ort.~
+@67 = ~Ihr seid wirklich ein Idiot.~
+@68 = ~Das bedeutet?~
+@69 = ~Um meine Schulden zu begleichen, forderte sie von mir nichts weniger als meine Seele. Also willigte ich ein …~
+@70 = ~Moment. Ich dachte, Ihr hättet Eure Seele schon der Nachthexe versprochen?~
+@71 = ~Ein zweites Mal?~
+@72 = ~Was hätte ich denn tun sollen? Hätte ich nicht eingewilligt, hätten sie mich auf der Stelle zerfleischt. Wisst Ihr, wie ein Sukkubus aussieht, wenn er sein niedliches Antlitz fallen lässt? Der Anblick verfolgt mich immer noch in meinen Träumen!~
+@73 = ~Dass Ihr überhaupt noch schlafen könnt, ist ein Wunder.~
+@74 = ~Und jetzt?~
+@75 = ~Mit nichts als meinen Kleidern am Leibe flüchtete ich aus dem Bordell. Draußen sprach mich ein monströses Scheusal an, ein Glabrezu namens Belthazaar. Er sagte mir, dass die Nachthexe von meinem Wortbruch erfahren habe und mir nach dem Leben trachte. Aber … er könne mich beschützen. Alles, was ich machen müsse, sei, seinen Vertrag zu unterschreiben.~
+@76 = ~Ihr habt auch ihm Eure Seele verkauft.~
+@77 = ~Was hat er verlangt?~
+@78 = ~Also habe ich auch ihm meine Seele versprochen. Jetzt trachten mir Zhelamiss und Zaehvielle nach dem Leben, und ich werde beschützt von Belthazaar, der nur auf meine Seele wartet.~
+@79 = ~Ihr sitzt ziemlich in der Patsche.~
+@80 = ~Wie konntet Ihr nur so dumm sein, drei Dämonen Eure Seele zu verkaufen?~
+@81 = ~Ich sitze sowas von in der Klemme, das könnt Ihr mir glauben. Und da hörte ich, dass Ihr mit der Nachthexe gesprochen habt. Deshalb bitte ich Euch, mir zu helfen, mein elendes Schicksal abzuwenden.~
+@82 = ~Wie um alles in der Welt soll ich das denn machen? Eine Nachthexe, einen Sukkubus und einen Glabrezu erschlagen? Hier, mitten in Samora?~
+@83 = ~Und was schwebt Euch so vor?~
+@84 = ~Das wäre … eine Möglichkeit, ja. Aber es gibt noch eine bessere.~
+@85 = ~Ein jeder der Dämonen verlangte, dass ich einen Vertrag unterzeichne. Damit besiegelte ich mein Schicksal. Ihr müsst die Scheusale nicht töten. Ihr müsst nur an ihre Verträge kommen. An alle drei dieser Verträge. Wenn Ihr sie mir bringt und ich dann schnell das Weite suche, wäre ich gerettet. Ich habe kein Gold mehr, aber ich habe einen Gegenstand, ein Familienerbstück voller Magie, das ich Euch im Austausch für Eure Dienste geben werde. Also, was sagt Ihr?~
+@86 = ~Ihr seid ein durch und durch verachtenswerter Mann, der sich sein Schicksal selbst eingebrockt hat. Ich werde Euch nicht helfen.~
+@87 = ~Also gut, ich kann einmal sehen, was ich tun kann.~
+@88 = ~Eigentlich wäre es die gerechte Strafe für Euer selbstsüchtiges Leben, Euch hier in ewiger Qual zurückzulassen. Aber das kann ich nicht zulassen. Ich helfe Euch so gut es geht, diesem Schicksal zu entkommen.~
+@89 = ~Das ist mir alles zu aufwändig. Damit möchte ich nichts zu tun haben. Sucht Euch jemand anderen.~
+@90 = ~Großartig! Also passt auf, Ihr müsst mir alle drei Verträge bringen. Einer befindet sich bei Zhelamiss, der Nachthexe, im Westen der Stadt, einer bei Zaehvielle, dem Sukkubus, die ihre Behausung gegenüber von „Marettas Betten“ hat, und der dritte ist bei Belthazaar, dem Glabrezu. Er steht an einem Seelenstand vor dem Bordell „Marettas Betten“.~
+@91 = ~Ich komme mit allen drei Verträgen zurück.~
+@92 = ~Schon jetzt tausend Dank, <SIRMAAM>! Ihr gebt mir zum ersten Mal seit Langem wieder Hoffnung!~
+@93 = ~Oh, nein! Das könnt Ihr doch nicht machen. Ich spüre, wie meine Zeit abläuft, und ich möchte nicht als Sklave eines Dämonen enden.~
+@94 = ~Das hättet Ihr Euch vorher überlegen sollen. Auf Wiedersehen.~
+@95 = ~Oh nein! Bitte, kommt zurück! Ich werde hier auf Euch warten, <SIRMAAM>!~
+@96 = ~Tut mir leid, aber ich habe gerade andere Sorgen, als mich mit Euch zu unterhalten!~
+@97 = ~He! Was soll das? Seht Euch doch nur diese Sauerei an, die Ihr hier veranstaltet habt! Aber wenigstens können wir jetzt wieder Hühnchen auf die Speisekarte setzen. Sagt den Köchen, dass sie ordentlich Kaelthar Düsterwares Gehenna-Pfeffer beimengen sollen, um den verdorbenen Geschmack zu überdecken. Und Euch, <RACE>, eine Warnung: Wenn das nochmal vorkommt, hetze ich Euch meine Tanarrukks auf den Hals! Und jetzt haut alle ab und sauft gefälligst weiter!~
+@98 = ~Willkommen in meinem Gasthaus „Zum Besudelten Solar“! Ich habe gerade eben wieder frisches Halblingsfleisch hereinbekommen. Es ist gut abgehangen und mit einigen Gewürzen ein echter Wohlgenuss.~
+@99 = ~Also was ist? Wollt Ihr es probieren?~
+@100 = ~Ihr bietet Halblingsfleisch an? Das ist ja widerlich!~
+@101 = ~Ääh… ich nehme lieber nur ein Getränk.~
+@102 = ~Ich gehe wieder.~
+@103 = ~Willkommen in meinem Gasthaus „Zum Besudelten Solar“! Kann ich Euch einen feurigen Drink anbieten oder seid Ihr mehr an etwas Essbarem interessiert?~
+@104 = ~Äh … nein danke, ich nehme nur das Getränk.~
+@105 = ~He, was seid Ihr denn für ein <GIRLBOY>? Ich biete hier das an, was meine Kundschaft wünscht, und wenn Euch das nicht passt, zieht gefälligst ab!~
+@106 = ~Genau das werde ich auch tun. Auf Wiedersehen.~
+@107 = ~Ich würde gerne Eure Getränke sehen.~
+@108 = ~Gut. Ich zeige Euch vorsichtshalber mal nur die Sachen, die Ihr überleben könntet, denn viele Drinks hier würden Euch vom Fleck weg in einen Alkilith verwandeln.~
+@109 = ~Denkt daran, frischere Ware als hier werdet Ihr in ganz Azzagrat nicht bekommen.~
+@110 = ~Hört auf, mich so dämlich anzustarren, <RACE>!~
+@111 = ~Wenn hier einer dumm in der Gegend herumschaut, dann seid es ja wohl Ihr.~
+@112 = ~Hütet Eure Zunge, <RACE>! An einem anderen Ort würde ich Euch sofort zu Stein verwandeln!~
+@113 = ~Ebene drei – das vergessene Land …~
+@114 = ~Ebene vier – der große Abyss …~
+@115 = ~Ebene fünf – Wurmblut …~
+@116 = ~Hallo?~
+@117 = ~(Weggehen.)~
+@118 = ~Ebene zehn – Höllenloch …~
+@119 = ~Ebene elf – Grubenratten …~
+@120 = ~Was macht Ihr da?~
+@121 = ~Ebene achtzehn – Schleimstrudel … oder … ach nein …~
+@122 = ~Ebene 27 … Malignebula …~
+@123 = ~In was für einer Ebene befinden wir uns hier?~
+@124 = ~Hm? Was? Hier? Ebene 47, Teil von Azzagrat, Voorz’zt.~
+@125 = ~Dann lasse ich Euch einmal wieder allein.~
+@126 = ~Wo war ich? Ebene 32 – die Felder der Verzehrung … Aber was war 31? Oh weh …~
+@127 = ~He da, Materier. Nix für ungut, hab aber trotzdem keine Zeit, mit Euch zu reden.~
+@128 = ~Hoffnungsloser Fall. Vergesst ihn einfach.~
+@129 = ~Er versucht, alle Ebenen des Abyss auswendig zu lernen.~
+@130 = ~Dann lasse ich ihn lieber einmal allein.~
+@131 = ~Was ist daran so falsch?~
+@132 = ~Kapiert Ihr’s nicht? Er versucht ALLE Ebenen des Abyss auswendig zu lernen. Davon gibt es unendlich viele! Er wird damit nie fertig. Was für ein Trottel.~
+@133 = ~Warum tut er das?~
+@134 = ~Verlorene Wette. Mit einem Scheusal. Ging um nichts Wichtigeres als seine Seele. Wie man sich so leicht übertölpeln lassen kann, wenn man drei, vier Baator-Bier intus hat … So, jetzt lasst mich allein, ich muss nachdenken.~
+@135 = ~Ihr seid die Sterblichen, nach denen ich suchen soll! Auf die Knie, Ihr Würmer, denn Shamúrz wird Euch einen qualvollen Tod bereiten!~
+@136 = ~Fort mit Euch! Tanarruks nicht sprechen mit Euresgleichen! Müssen trinken auf Sieg.~
+@137 = ~Was für eine Orkrasse seid Ihr denn? Ihr seht irgendwie nicht nach normalen Orks aus.~
+@138 = ~Entschuldigt die Störung, ich gehe sofort.~
+@139 = ~He! Wollt Ihr mich etwa beleidigen? Ich lasse mich doch von ein paar Orks nicht herumkommandieren!~
+@140 = ~Nein, sind keine ORKS. Sind TANARUKKS! Väter mächtige Dämonen gewesen, Mütter stolze Orks!~
+@141 = ~Eure Väter sind Dämonen? Seid Ihr also so etwas wie orkische Tieflinge?~
+@142 = ~Wir mächtiger als Tieflinge! Stärker und wilder!~
+@143 = ~Ja. Wir hier warten auf Marschbefehl in Teufelland. Und nun haut ab!~
+@144 = ~Los, Brüder! <RACE> hat stolze Tanarruks beleidigt!~
+@145 = ~(Die orkähnliche Kreatur grunzt nur kurz und wendet sich dann von Euch ab. Offensichtlich ist sie nicht an einem Gespräch interessiert.)~
+@146 = ~Jetzt wir Söldner für Blutkrieg! Kämpfen gegen böse Teufel!~
+@147 = ~Ihr habt Euch für den Blutkrieg anheuern lassen?~
+@148 = ~Ein frisches Gesicht in dieser sündigen Stadt! Ihr seid neu hier, das ist offensichtlich. Gerade erst angekommen, nehme ich an?~
+@149 = ~Ja, ich bin erst seit Kurzem an diesem Ort.~
+@150 = ~Vielleicht.~
+@151 = ~Das geht Euch überhaupt nichts an. Lasst mich in Ruhe!~
+@152 = ~Mit Eurer Einstellung werdet Ihr hier unten nicht lange überleben, Fremde. Aber das kann nicht mehr mein Problem sein. Und nun lebt wohl, ich habe mich ohnehin viel zu lange mit Euch aufgehalten.~
+@153 = ~Dann lasst mich Euch vorstellen. Mein Name ist Warwick, ich bin Ebenenreisender. Ich verdinge mich als Ratgeber für die Unbedarften durch die verschlungenen Gassen von Samora. Von den geheimen Genüssen in „Marettas Betten“ bis hin zu den dunklen und verführerischen Ecken des „Verfluchten Glücks“ – ich habe sie alle gesehen.~
+@154 = ~Nur ein erfahrener Kenner wie ich könnte Euch sicher durch diese Lasterstadt leiten.~
+@155 = ~Was könnt Ihr mir über diesen Ort berichten?~
+@156 = ~Ihr könnt mich durch diese Stadt führen?~
+@157 = ~Was bietet Ihr mir also an?~
+@158 = ~Ich habe kein Interesse an jemandem wie Euch.~
+@159 = ~Führen? Nein, ich fürchte, ich kann Euch nicht wirklich durch die finsteren Gassen von Samora führen. Doch lasst mich Euch versichern, dass ich bereit bin, meinen Erfahrungsschatz zu teilen und Euch wertvolle Ratschläge mit auf den Weg zu geben. Für einen Preis, versteht sich.~
+@160 = ~Das hängt davon ab, was Ihr erwartet. Das ist der Abyss! Allerdings habt Ihr Euch einen der angenehmsten Plätze der unteren Ebenen ausgesucht, wenn man das so sagen kann. Samora ist das Handelszentrum des Dämonenfürsten Graz’zt, insofern versuchen diese Wesen zumindest, einen leisen Anschein von „Zivilisation“ zu wahren.~
+@161 = ~Das reicht fürs Erste. Ich werde später wieder zurückkommen.~
+@162 = ~Ganz wie Euch beliebt, <PRO_RACE>. Die Dunkelheit der Versuchungen ruft weiter. Mögen Eure Entscheidungen weise sein und Eure Neugier niemals erlöschen.~
+@163 = ~Halt, wartet noch einen Moment …~
+@164 = ~Für einen kleinen Betrag könnt Ihr mich als einen weisen Berater anwerben, der Euch mit Wissen und Rat zur Seite steht. Ich kenne die versteckten Gefahren und geheimen Verlockungen dieser Stadt. Außerdem bin ich im Besitz einiger Zauberschlüssel, welche ich Euch – ebenfalls für eine geringe Summe – verkaufen könnte.~
+@165 = ~Zauberschlüssel?~
+@166 = ~Welchen Rat könntet Ihr mir geben?~
+@167 = ~Keinen, der umsonst ist, meine Freunde. 100 Goldmünzen öffnen meinen Mund und Euch die Augen für diesen Ort.~
+@168 = ~Gut, hier sind die 100 Goldmünzen.~
+@169 = ~So viel Gold habe ich nicht.~
+@170 = ~Darüber muss ich erst noch nachdenken.~
+@171 = ~Eine gute Wahl.~
+@172 = ~Dann wäre es vielleicht an der Zeit, etwas Gold zu verdienen, wenn Ihr hier im Abyss überleben möchtet.~
+@173 = ~Wo kann ich an diesem Ort denn Gold verdienen?~
+@174 = ~Ihr erwähntet Zauberschlüssel?~
+@175 = ~Das werde ich beherzigen. Lebt wohl.~
+@176 = ~Hier und dort. Aber ich bin nicht so närrisch, Euch diesen Rat umsonst zu geben. Kehrt zurück, wenn Ihr genügend Gold beisammen habt.~
+@177 = ~Seid gegrüßt, Ebenenreisende. Was kann ich für Euch tun, um Euer Überleben an diesem Ort zu verlängern?~
+@178 = ~Ich benötige einen Zauberschlüssel für 5.000 Goldmünzen.~
+@179 = ~Ich benötige weitere Zauberschlüssel. Habt Ihr noch welche?~
+@180 = ~Ich habe einige Fragen.~
+@181 = ~Welchen Rat könnt Ihr mir an diesem Ort geben?~
+@182 = ~Ich muss mich wieder verabschieden.~
+@183 = ~Margrog, der Nalfeshnee, ist verschwunden. Wisst Ihr, wo er hingegangen sein könnte?~
+@184 = ~Na und? Eigentlich ist doch eine gute Nachricht, dass dieser Schuft seine üblen Machenschaften nicht mehr in dieser Stadt ausübt, oder?~
+@185 = ~Trotzdem wüsste ich gerne, wo er jetzt ist.~
+@186 = ~Das ist schwierig. Viele schon, die von Margrog geprellt wurden, haben sich an seine Fersen geheftet, doch niemand konnte ihn je aufspüren. Er erscheint erst dann wieder in der Stadt, wenn sich die Situation wieder beruhigt hat. Das könnte ein Menschenleben oder länger dauern. Er ist sehr gut darin, seine Spuren zu verwischen. Wenn Ihr keinen überzeugenden Fährtenleser habt, könnt Ihr Eure Suche vergessen.~
+@187 = ~Was für ein Wesen könnte seine Fährte verfolgen?~
+@188 = ~Es gibt viele Jäger des Abyss, die in Frage kämen, doch sie würden Euch verspeisen, ehe Ihr sie um Hilfe bitten könntet.~
+@189 = ~Lasst stattdessen ab von Eurer Suche und begrabt Euren Groll gegen Margrog. Nichts ist soviel Wert, dass Ihr Euch seinetwegen in Gefahr bringen solltet. Das ist der einzige Rat, den ich Euch geben kann.~
+@190 = ~Was möchtet Ihr von mir wissen, <PRO_RACE>?~
+@191 = ~Was könnt Ihr mir allgemein über Samora erzählen?~
+@192 = ~Welche Orte in Samora muss ich kennen?~
+@193 = ~Ich suche den Nalfeshnee Margrog.~
+@194 = ~Was könnt Ihr mir über den Nalfeshnee Margrog berichten?~
+@195 = ~Was hat es mit den Zauberschlüsseln auf sich?~
+@196 = ~Der Nalfeshnee Margrog, der mit seinem laufenden Haus von Ort zu Ort zieht? Ihr findet ihn im Westen der Stadt, gegenüber dem Haus der Abrechnung.~
+@197 = ~Ich möchte über etwas anderes reden.~
+@198 = ~Ah, der Nalfeshnee Margrog, ein zwielichtiger Händler, der mit seinem laufenden Haus von Ort zu Ort zieht! Ich kann nicht leugnen, dass er eine gewisse Faszination auf die Bewohner von Samora ausübt. Margrog ist bekannt für seine exotischen Waren und Drogen, die er aus den entlegensten Winkeln des Abyss beschafft. Sein Haus, das auf mysteriöse Weise über die Landschaft schreitet, ist ein Anblick, den man nicht so schnell vergisst. Man munkelt, dass es in seinem Inneren unzählige Behälter mit den verbotensten Substanzen gibt, die man im Abyss herstellen kann. Als Nalfeshnee hat er die Fähigkeit, über die Seelen der Verstorbenen zu richten und sie entweder in niedere Dämonen zu verwandeln oder für immer auszulöschen.~
+@199 = ~Während Margrog von vielen mit einem gewissen Argwohn betrachtet wird, empfinde ich dennoch eine gewisse Bewunderung für seine Machenschaften. Er ist ein Nalfeshnee, ein Dämon von beträchtlicher Macht und Raffinesse. Seine Absichten sind selten durchschaubar, und man kann nie sicher sein, welche Preise er für seine Waren verlangt. Solltet Ihr Euch mit ihm einlassen wollen, empfehle ich Euch äußerste Vorsicht. Er mag Respekt verdienen, aber verliert nie den Blick für den Wert hinter seinen Angeboten. Handelt mit ihm auf eigene Gefahr, denn im Reich der Sünde kann selbst der verlockendste Handel einen hohen Preis haben.~
+@200 = ~Ah, Ihr wollt es also genauer wissen, wo Ihr Eure Seele verspielen könnt? Lasst mich Euch von den verschiedenen Orten erzählen, die in Samora existieren.~
+@201 = ~Zuerst haben wir „Marettas Betten“, ein Bordell, das von der verführerischen Sukkubus Maretta, der Herrin Samoras selbst, betrieben wird. Sie lockt die Unvorsichtigen in ihre Arme und erfüllt ihre dunkelsten Gelüste. Vorsicht, denn wer sich den Reizen ihrer Kurtisanen hingibt, kann leicht seine Seele verlieren.~
+@202 = ~Dann haben wir das „Verfluchtes Glück“, eine Spielhalle, in dem das Glück der Spieler auf dem Spiel steht. Die Spiele sind manipuliert, die Karten gezinkt und die Würfel verhext. Hier können Sterbliche ihre Seelen gegen den Hauch des Reichtums und des Vergnügens eintauschen. Doch seid gewarnt, denn der Preis kann zu hoch sein, um ihn noch genießen zu können.~
+@203 = ~Was gibt es noch? Der Händlermarkt ist ein Ort der seltsamen und düsteren Handelsangebote. Hier werden Devaflügel und Einhornköpfe feilgeboten, magische Artefakte von zweifelhafter Herkunft und unheimliche Elixiere. Die Händler sind Geschöpfe des Abyss, die den Sterblichen ihre Wünsche erfüllen können, wenn der Preis stimmt.~
+@204 = ~Zu guter Letzt haben wir das „Haus der Abrechnung“. Hier herrscht Maretta, die Sukkubus des Verderbens, über die Stadt. Sie sitzt auf ihrem Thron des Leids, badet in ihrem Becken des Blutes und bestimmt das Schicksal derjenigen, die sich ihrem Willen widersetzen. An diesem finsteren Ort werden Intrigen gesponnen, Pakte geschlossen und Schicksale besiegelt. Es ist ein Ort der Macht und der Grausamkeit, und Maretta ist die unangefochtene Herrscherin.~
+@205 = ~Dies sind nur einige Beispiele für die zahlreichen lasterhaften Orte, die Samora zu bieten hat. Die Stadt ist ein brodelnder Kessel der Sünde, und jeder Schritt auf ihren Straßen kann Euch tiefer in die Abgründe der Verdorbenheit führen.~
+@206 = ~Samora wird nicht umsonst als Stadt der Sünde bezeichnet. Sie ist seit Jahrhunderten bekannt als Hochburg der Lasterhaftigkeit und moralischen Verkommenheit. Sie liegt in den Tiefen Azzagrats, Graz’zts Reich, und wurde gezielt geschaffen, um Sterbliche in ihren Bann zu ziehen und ihre Seelen zu korrumpieren.~
+@207 = ~Manche sagen, Samora sei einst eine Stadt der Sterblichen irgendeiner Materieller Ebene gewesen, die durch ihre Verdorbenheit dermaßen auf den Pfad des Bösen abgedriftet ist, dass es Graz’zt gelungen ist, sie sich in sein Reich einzuverleiben. Der Boden der Stadt soll mit den Körpern der verdammten Bewohner gepflastert worden sein, und manch ein Bauwerk erinnert noch an seine frühere, irdische Existenz. Doch davon ist nach all den Jahrhunderten unter Graz’zts Joch nicht mehr viel übrig.~
+@208 = ~Die Straßen der Stadt sind jetzt ein Labyrinth aus dunklen Gassen und verruchten Etablissements, in denen sich die Händler der Sünde tummeln. Hurentum, Glücksspiel, Drogenhandel und alle erdenklichen Ausschweifungen finden hier ihren Platz.~
+@209 = ~Die schlimmsten Sünden herrschen hier in all ihrer Pracht und Gefahr. Die Herrschaft von Graz’zt über Samora ist unbestreitbar, und seine Macht erstreckt sich auf jedes dunkle Geheimnis, das in den Straßen dieser Stadt verborgen liegt.~
+@210 = ~Aber seid gewarnt, die Sünden sind allgegenwärtig und die Versuchung ist stark. Möge Euer Mut und Eure Entschlossenheit Euch leiten, wenn Ihr Euch dieser dunklen Stadt stellt.~
+@211 = ~Leider nein. Ich habe Euch alle verkauft, die ich besitze.~
+@212 = ~Wenn Ihr möchtet, kann ich Euch einen weiteren Zauberschlüssel für 5.000 Gold verkaufen.~
+@213 = ~Gut, hier sind die 5.000 Goldmünzen.~
+@214 = ~Wie Ihr vielleicht schon bemerkt habt, verlaufen manche Zaubereien nicht ganz so, wie man sich das wünschen würde. Insbesondere Veränderungszauber haben manchmal … unschöne Begleiterscheinungen.~
+@215 = ~Wie meint Ihr das?~
+@216 = ~Nein, das ist mir noch nicht aufgefallen.~
+@217 = ~Hier, in dieser verdorbenen Domäne, sind die Gesetze der Magie verzerrt und verändert. Zauber, die einst zuverlässig waren, können unvorhersehbare Folgen haben.~
+@218 = ~Die Mächte, die im Abyss walten, sind eigenwillig und launisch. Sie spotten der traditionellen Magie und lachen über Versuche, sie zu beherrschen. Selbst die erfahrensten Zauberer können hier an ihre Grenzen stoßen.~
+@219 = ~Doch verzagt nicht. Der Abyss hat seine eigenen Quellen der Macht und des Wissens. Wenn Ihr bereit seid, Euch auf andere Wege einzulassen, werden sich Euch neue Möglichkeiten eröffnen. Ich verkaufe hier Zauberschlüssel, die Eure Veränderungszauber wieder richtig funktionieren lassen.~
+@220 = ~Das klingt interessant.~
+@221 = ~Habe ich Euer Interesse an einem Zauberschlüssel geweckt? Für 5.000 Goldmünzen gehört solch ein Gegenstand Euch.~
+@222 = ~Gut, hier sind 5.000 Goldmünzen.~
+@223 = ~5.000 Goldmünzen? Das ist eine unverschämt hohe Summe!~
+@224 = ~Wie wirken diese Zauberschlüssel?~
+@225 = ~Das mag auf den ersten Blick so erscheinen, aber bedenkt, dass nur diese Schlüssel allein Euch Zugang zu Macht und Einfluss im Abyss verschaffen können. Kein Zauberschlüssel, keine Zauber … so einfach ist das!~
+@226 = ~Diese Schlüssel sind von uralten Kräften gesegnet. Sie sind ein Bindeglied zwischen den irdischen Magiern und den verschleierten Energien dieser verdorbenen Domäne. Wenn Ihr einen solchen Schlüssel besitzt und ihn bei der Ausführung Eurer Zauber einsetzt, wird der Schlüssel als Überträger magischer Macht wirken und die Chancen Eures Erfolgs erhöhen.~
+@227 = ~Verstanden.~
+@228 = ~Wirken diese Zauberschlüssel auch bei Priestern und Anwendern göttlicher Magie?~
+@229 = ~Leider nein. Die Zauberschlüssel, die ich Euch feilbiete, sind von ihrem Wesen her den arkanen Künsten zugewandt. Ihre Macht erstreckt sich nicht auf die göttlichen Zauber, die von frommen Priestern gewirkt werden. Die mystische Natur der Schlüssel harmoniert nicht mit den heiligen Energien, die ein Diener des Göttlichen kanalisiert. Diese Zauberei wurzelt in einer gänzlich anderen Quelle der Macht und bedarf einer zusätzlichen Stütze – nicht durch die Zauberschlüssel, sondern durch Machtschlüssel.~
+@230 = ~Wo bekomme ich einen Machtschlüssel?~
+@231 = ~Ich hätte gerne einen Machtschlüssel.~
+@232 = ~Mehr wollte ich nicht wissen.~
+@233 = ~Die Machtschlüssel werden in Samora von einem finsteren Wesen namens Malashrihi verkauft. Dieses Scheusal ist draußen in der Stadt vor dem „Solar“ zu finden und hat einen Ruf als Halsabschneider erlangt.~
+@234 = ~Gut.~
+@235 = ~Dann werde ich diesem Malashrihi einmal einen Besuch abstatten müssen.~
+@236 = ~Wie Ihr wünscht. Solltet Ihr Eure Meinung ändern und später erkennen, dass Ihr Hilfe benötigt, stehe ich jederzeit bereit, Eure Bedürfnisse zu erfüllen. Ihr wisst, wo ich zu finden bin, wenn Ihr meine Hilfe oder die meiner Zauberschlüssel benötigt.~
+@237 = ~Das werde ich beherzigen.~
+@238 = ~Eine weise Entscheidung. Hier ist der Zauberschlüssel. Stinkt ein bisschen, muss aber so sein. Achtet darauf, dass er sich bei dem, der den Zauber sprechen möchte, im Gepäck befindet, um richtig zu wirken.~
+@239 = ~Kann ich sonst noch etwas für Euch tun?~
+@240 = ~Nein, das wäre alles.~
+@241 = ~Vielleicht sehen wir uns wieder, wenn Ihr dem Ruf der Sünde nicht widerstehen könnt. Passt auf Euch auf, meine Freunde, und möge der Glanz der Verlockungen stets an Eurer Seite sein.~
+@242 = ~Wenn Ihr uns das noch ein einziges Mal anbietet, werde ich Euch persönlich auf einen Grillspieß stecken!~
+@243 = ~Ich suche einen Nalfeshnee namens Margrog.~
+@244 = ~Ihr findet sein merkwürdiges Haus mit Beinen auf der anderen Seite der Stadt, im Westen, gegenüber dem „Haus der Abrechnung“.~
+@245 = ~Wieder einmal der beste Beweis, dass man sich auf Magie im Allgemeinen und auf Magier im Besonderen niemals verlassen sollte.~
+@246 = ~Der Glabrezu Belthazaar ist tot.~
+@247 = ~Das ist gut. Habt Ihr auch seinen Seelenvertrag mit meinem Namen?~
+@248 = ~Nein, habe ich nicht.~
+@249 = ~Ich brauche den Vertrag, selbst, wenn Belthazaar tot ist. Sonst reißt sich vielleicht ein anderes Scheusal meinen Vertrag unter den Nagel! Habt Ihr irgendeinen Anhaltspunkt, wo er sein könnte?~
+@250 = ~Ich habe bei ihm eine Art Rätsel gefunden.~

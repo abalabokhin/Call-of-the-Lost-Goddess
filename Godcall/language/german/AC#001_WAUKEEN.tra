@@ -1,0 +1,20 @@
+// game: Call of the Lost Goddess
+// date: 2025-01-14, 19:18
+// Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
+
+@0 = ~So, das ist leider die einzige Hilfe, die ich Euch anbieten kann. Und nun nichts wie fort von hier.~
+@1 = ~Nun ist es also wieder an der Zeit, ein anderes Gefängnis für mich zu suchen, Ihr Scheusale? Oder seid Ihr gekommen, um mich erneut zu …~ [AC#WWAU5]
+@2 = ~Wartet, ich rieche den Duft Torils an Euch! Ihr seid keine Diener Graz’zts! Haben die Visionen, die ich der jungen Priesterin Halanna senden konnte, meinen treuen Diener Tharundar dazu bewogen Euch herzuschicken?~ [AC#WWAU6]
+@3 = ~Wir sind gekommen, um Euch zu befreien. Ich bin <CHARNAME>, und ich wurde von Tharundar Olehm geschickt, um Euch zu retten.~
+@4 = ~Ich kann verstehen, dass Ihr viele Fragen habt, <CHARNAME>, doch wir sollten erst aus dem Abyss verschwinden, bevor wir uns auf ein Schwätzchen einlassen.~ [AC#WWAU0]
+@5 = ~Ihr seid bis in den Abyss gegangen, um mich zu retten? Dann müsst Ihr wahrhaft mächtig sein. Schon viele Male habe ich versucht, von hier zu entfliehen, doch jeder Versuch ist bis jetzt gescheitert, denn Graz’zt hat mich meiner gesamten göttlichen Energie beraubt, und so bin ich nicht viel mehr als eine einfache, schwache Sterbliche.~
+@6 = ~Ich danke Euch von ganzem Herzen, dass Ihr mich gerettet habt, doch ich fürchte, dass lediglich der erste Teil Eurer Mission erfolgreich war, denn es wird viel schwieriger sein, gemeinsam mit mir diesen Ort zu verlassen, als alleine hier hereinzukommen. Graz’zt lässt sämtliche Ausgänge aus seinem Reich bewachen.~
+@7 = ~Er bewacht viele Ausgänge, doch einen nicht. Ich bin über die Endlose Treppe hierhergelangt, und auf dem gleichen Weg werden wir wieder sicher von hier fortkommen.~
+@8 = ~Die Endlose Treppe? Es war mir bis jetzt nicht bewusst, dass sie an diesen fürchterlichen Ort führt. Ich habe eine Menge Fragen an Euch, genau wie Ihr sicher eine Menge Fragen an mich habt, doch ich bitte Euch, beeilt Euch und bringt mich von hier fort, denn meine Befreiung ist mit Sicherheit nicht unbemerkt geblieben.~
+@9 = ~Ehrlich gesagt hatte ich gedacht, gleich hier von Euch belohnt zu werden, schließlich seid Ihr die Göttin des Reichtums.~
+@10 = ~Ja, lasst uns schleunigst von hier verschwinden.~
+@11 = ~Einige meiner Gruppe sind verletzt und brauchen dringend Ruhe. Wir müssen zunächst rasten, um wieder zu Kräften zu kommen und unsere Zauber aufzufrischen.~
+@12 = ~Außer den Kleidern, die besitze, sind mir all mein Reichtum und meine Fähigkeiten genommen worden. Ich kann Euch nichts geben außer dem Versprechen, Euch zu einem späteren Zeitpunkt reich zu belohnen.~
+@13 = ~Gut, dann lasst uns gehen. Ich nehme Euch beim Wort.~
+@14 = ~Auch wenn wir alle am Rande unserer Kräfte sind, sollten wir hier keinen Moment länger als nötig verbringen, <CHARNAME>, wenn wir eine Chance haben wollen zu fliehen. Ich werde versuchen, ein klein wenig der göttlichen Magie, die mir noch geblieben ist, aufzubringen, um Euch zu helfen, doch dann sollten wir schleunigst von hier verschwinden.~
+@15 = ~Ich werde versuchen, dicht hinter Euch zu bleiben, aber ich fürchte, ich werde Euch im Kampf keine große Hilfe sein. Lasst uns gehen.~ [AC#WWAU7]

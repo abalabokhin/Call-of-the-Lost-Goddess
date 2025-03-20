@@ -1,0 +1,358 @@
+// game: Call of the Lost Goddess
+// date: 2025-01-14, 19:18
+// Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
+
+@100001 = ~Die Befreiung Waukeens
+
+Ich habe Waukeen aus den Fängen des Dämonenherrschers Graz’zt gerettet und sicher aus dem Abyss geleitet. Was könnte es Schöneres geben, als die Gunst einer Göttin des Wohlstandes zu genießen?~
+@100010 = ~Der Auftrag der Kirche Waukeens
+
+Ich habe den Tempel der Waukeen im Regierungsviertel besucht und mit dem dortigen Priester gesprochen. Er konnte mir leider keine genauen Angaben zu der Aufgabe, die man für mich hat, machen, doch er bat mich, die Abtei der Goldspitzen nördlich von Athkatla aufzusuchen. Dort würde ich erfahren, worum es genau bei dem Auftrag geht.~
+@100030 = ~Der Ruf der verschollenen Göttin
+
+Ich habe von Tharundar Olehm, dem Hohepriester Waukeens, den Auftrag angenommen, die Göttin Waukeen aus den Fängen des Dämonenfürsten Graz’zt im Abyss zu befreien. Mit Hilfe von Kyriani, einer Priesterin Selunes, werde ich mich über einen Tempel in Tiefwasser zu einem Bauwerk namens „Endlose Treppe“ aufmachen, welches mich durch das ganze Multiversum bis hinab in den Abyss bringt. Dort soll ich in Samora, einer Dämonenstadt, den Aufenthaltsort Waukeens herausfinden und sie sicher aus Graz’zts Kerker zurück zur Endlosen Treppe geleiten. Tharundar und Kyriani haben mir geraten, mich für diese Reise gut auszurüsten. Sie warten im ersten Stock der Abtei der Goldspitzen auf mich, bis ich startklar für das Abenteuer bin.~
+@100031 = ~Der Ruf der verschollenen Göttin
+
+Vom Tempel in Tiefwasser muss ich meinen Weg über die Endlose Treppe zu der Plattform finden, welche mich nach Samora bringt. Dort muss ich mich mit einem Nalfeshnee namens Margrog treffen, der meine Kontaktperson in der Dämonenstadt ist.~
+@100200 = ~Ein Dieb in den Goldspitzen
+
+Ich bin vor der Abtei Waukeens auf Maendir, einen Dieb, gestoßen. Ich habe zugestimmt, ihm bei seinem zweifelhaften Plan zu helfen, die Schatzkammer der Abtei um einige Goldmünzen zu erleichtern. Meine Aufgabe ist es, den Tresorschlüssel zu stehlen, welchen die Priesterin Faerthae Garblueth im Tempelinneren bei sich tragen soll. Wenn ich den Schlüssel habe, muss ich ihn zu Maendir nach draußen bringen. Er wird sich dann um alles Weitere kümmern.~
+@100201 = ~Ein Dieb in den Goldspitzen
+
+Ich habe der Waukeen-Priesterin den Schlüssel zum Tresorraum gestohlen und muss ihn jetzt dem Dieb Maendir außerhalb der Abtei der Goldspitzen bringen.~
+@100203 = ~Ein Dieb in den Goldspitzen
+  
+Ich habe Maendir den Schlüssel gebracht. Er ist sofort damit verschwunden, um sich seiner „Aufgabe“ zu widmen. Ich werde ihn in einem Tag wieder treffen, hoffe ich.~
+@100204 = ~Ein Dieb in den Goldspitzen
+  
+Der Diebstahl in der Abtei der Goldspitzen ist nicht gut ausgegangen. Der Dieb hat sich in eine goldenen Statue verwandelt. Ein Glück, dass ich nicht selbst etwas von dem Gold in Besitz genommen hatte.~
+@100210 = ~Ein Dieb in den Goldspitzen
+  
+Ich habe den Dieb, der sich das Gold der Kirche Waukeens aneignen wollte, den Wachen gemeldet. Damit sollte die Abtei der Goldspitzen ein wenig sicherer werden.~
+@110000 = ~Intrigen gegen die Waukeen-Kirche
+
+Ich bin nach meinem Besuch im Waukeen-Tempel einem seltsamen Mann begegnet, der mich von meinem Vorhaben abbringen wollte, der Kirche zu helfen. Ich weiß weder, wer er war, noch welche Gruppe dahintersteckt, doch ich sollte bei meinem weiteren Vorgehen vorsichtig sein, denn die Kirche scheint nicht nur Freunde in Athkatla zu haben.~
+@110001 = ~Intrigen gegen die Waukeen-Kirche
+
+Ein Händler in der Abtei Waukeens wollte mich des Diebstahls bezichtigen. Er hat gestanden, von dem Mann angeheuert worden zu sein, der mich schon vor dem Tempel Waukeens im Regierungsviertel von meiner Mission abbringen wollte.~
+@110002 = ~Intrigen gegen die Waukeen-Kirche
+
+Auf den Stufen der Endlosen Treppe bin ich einigen Magiern begegnet, die offensichtlich auch von dem dunkel gekleideten Mann aus Athkatla angeheuert worden sind, um mich aufzuhalten. Irgendwie hat es dieser Kerl wohl geschafft, meine Spur bis auf die Endlose Treppe zu verfolgen. Ich sollte vorsichtig sein.~
+@110003 = ~Intrigen gegen die Waukeen-Kirche
+
+Gildaar scheint kurz davor zu stehen, Maretta über meine Pläne berichten zu können. Ich sollte mich auf eine Konfrontation mit dem Priester einstellen – wenn es schlecht läuft in Marettas Thronsaal. Ich sollte unbedingt verhindern, dass er meine Ziele ausplaudert, da dies die ganze Stadt gegen mich aufbringen würde. Insofern sollte ich mir eine Taktik überlegen, Gildaar schnell auszuschalten oder mundtot zu machen.~
+@110010 = ~Intrigen gegen die Waukeen-Kirche
+
+Auf der Endlosen Treppe bin ich wieder dem Mann begegnet, den ich bereits in Athkatla getroffen hatte und der mich von meinem Vorhaben abbringen wollte, in den Abyss zu reisen. Er hat sich mir als Gildaar, Priester des Cyric, offenbart und ist in Richtung Samora verschwunden. Ich sollte in der Dämonenstadt nach ihm suchen, denn ich fürchte, dass er weiterhin versuchen wird, meine Mission zu unterbinden.~
+@110011 = ~Intrigen gegen die Waukeen-Kirche
+
+Der Cyric-Priester Gildaar wollte mich bei der Stadtwache der Stadt, der Lanzengarde, anschwärzen. Glücklicherweise haben ihm die Scheusale nicht geglaubt. Ich muss jedoch schleunigst eine Möglichkeit finden, diesen Gildaar zu beseitigen, da es nur eine Frage der Zeit sein wird, bis er jemandem den wahren Grund erzählt, warum ich hier bin.~
+@110012 = ~Intrigen gegen die Waukeen-Kirche
+
+Margrog, der Nalfeshnee, hat vorgeschlagen, mit dem Stadtschreier Mefisto über Gildaar zu sprechen. Das klingt nach einem waghalsigen Unterfangen, aber eine andere Möglichkeit scheint es nicht zu geben.~
+@110013 = ~Intrigen gegen die Waukeen-Kirche
+
+Ich habe mit Mefisto gesprochen. Bevor er mir gegen Gildaar hilft, soll ich ihm einen Säugling, dessen Mutter eine Sukkubus namens Daemevera ist, bringen. Ihr Haus befindet sich im Westen der Stadt, am Platz, an dem für den Blutkrieg rekrutiert wird.~
+@110014 = ~Intrigen gegen die Waukeen-Kirche
+
+Mefisto hat vorgeschlagen, Gildaar mit dem Wasser des Styx seine Erinnerungen zu rauben. Ein Merrenoloth namens Az’zelbath, der den Fluss Styx bereist, hält sich in der Taverne „Zur Wimmernden Göttin“ im Norden der Stadt auf und könnte uns ein Fläschchen besorgen. Ich weiß zwar nicht, wie ich es anwenden soll, aber ein Versuch scheint es wert zu sein.~
+@110015 = ~Intrigen gegen die Waukeen-Kirche
+
+Az’zelbath, der Merrenoloth, hat mir eine Flasche mit dem Wasser des Styx gegeben. Nun muss ich darauf warten, bis ich Gildaar begegne, um ihm die Flüssigkeit ins Gesicht zu schleudern, damit er vergisst, warum er gegen mich intrigieren wollte.~
+@110016 = ~Intrigen gegen die Waukeen-Kirche
+
+Ich habe eine Flasche mit Styx-Wasser. Nun muss ich darauf warten, bis ich Gildaar begegne, um ihm die Flüssigkeit ins Gesicht zu schleudern, damit er vergisst, warum er gegen mich intrigieren wollte.~
+@110017 = ~Intrigen gegen die Waukeen-Kirche
+
+Gildaar ist tot. Vielleicht finde ich bei seiner Leiche einen Anhalt für seine Auftraggeber.~
+@110018 = ~Intrigen gegen die Waukeen-Kirche
+
+Bei Gildaars Leiche habe ich einen Brief gefunden, der darauf hinweist, dass es eine Mitwisserin in der Abtei der Goldspitzen gibt. Ich sollte Tharundar Olehm darauf ansprechen.~
+@110019 = ~Intrigen gegen die Waukeen-Kirche
+
+Ich habe Tharundar Olehm den Brief gegeben, den Gildaar bei sich trug. Er will sich um die Verräterin kümmern. Ich sollte ihn im ersten Stock der Abtei aufsuchen, um mehr über den Stand der Ermittlungen zu erfahren.~
+@110020 = ~Intrigen gegen die Waukeen-Kirche
+
+Die Verräterin wurde gefasst und ihrer gerechten Strafe zugeführt. Damit ist das Rätsel um den Cyric-Priester Gildaar, der mir bis in den Abyss folgte, gelöst.~
+@110021 = ~Intrigen gegen die Waukeen-Kirche
+
+Ich habe den Säugling von dem Sukkubus Daemevera erhalten. Ich muss das Kind zu Mefisto bringen, damit er mir helfen kann, Gildaar loszuwerden.~
+@190000 = ~Treppenverse
+
+Die Priesterin Elandra Mondlied hat mich gebeten, auf meinem weiteren Weg nach einem Barden namens Riven Windläufer Ausschau zu halten, der sich auf den Weg gemacht hat, die Endlose Treppe zu erkunden, und nicht mehr zurückgekehrt ist. Er hatte auch beabsichtigt, ein Gedicht über die Treppe zu verfassen. Ich soll ihn sicher zurück zur Treppenbasis geleiten.~
+@190001 = ~Treppenverse
+
+Der Barde Riven Windläufer ist tot. Ich habe bei seiner Leiche am Rande der Endlosen Treppe sein Gedicht gefunden. Ich sollte dieses Gedicht zurück zu Elandra Mondlied an der Treppenbasis bringen und ihr die traurige Nachricht über seinen Tod mitteilen.~
+@190002 = ~Treppenverse
+
+Ich habe das Gedicht von Riven Windläufer zurück zu Elandra Mondlied an der Treppenbasis gebracht und ihr mitgeteilt, dass der Barde tot ist.~
+@400000 = ~Der Ruf der verschollenen Göttin
+
+Ich bin in der Stadt Samora im Abyss angekommen. Jetzt muss ich mich auf die Suche nach einem Nalfeshnee-Dämon namens Margrog machen. Ich hoffe, dieser kann mir bei der Suche nach Waukeen weiterhelfen.~
+@400001 = ~Der Ruf der verschollenen Göttin
+
+Mein erster Teil der Reise ist geschafft. Ich habe Margrog gefunden und muss nun in Samora mit aller gebotenen Vorsicht herausfinden, wo Waukeen gefangen gehalten wird.~
+@400010 = ~Die Befreiung Waukeens
+
+Ich habe von Maretta das Pentakel erhalten, welches die Funktion der Feueröfen steuert. Wenn ich jetzt noch in Erfahrung bringen kann, wo Waukeens Aufenthaltsort ist, kann ihre Befreiung beginnen.~
+@400011 = ~Die Befreiung Waukeens
+
+Maretta erwähnte einen Verräter, der in die „Säuretümpel von Yemach“ geworfen wurde. Wenn von ihm noch etwas übrig ist, könnte ich einen Hinweis darauf erhalten, wie ich in Waukeens Gefängnis gelange. Dies sollte ich mit dem Nalfeshnee Margrog in seiner Behausung gleich gegenüber des Hauses der Abrechnung besprechen.~
+@400012 = ~Die Befreiung Waukeens
+
+Ein ehemaliger Wächter Waukeens namens Clyddis, ein Vrock, der in Ungnade gefallen ist, weiß, wie man über die Portale der Feueröfen in Waukeens Gefängnis gelangt. Er befindet sich momentan an einem Ort, den man die „Säuretümpel von Yemach“ nennt, wo er langsam zu Tode gefoltert wird. Allerdings benötige ich noch einen Gegenstand, um die Feueröfen aktivieren zu können.~
+@400013 = ~Die Befreiung Waukeens
+
+Ein ehemaliger Wächter Waukeens namens Clyddis, ein Vrock, der in Ungnade gefallen ist, weiß, wie man über die Portale der Feueröfen in Waukeens Gefängnis gelangt. Margrog hat herausgefunden, dass er sich momentan an einem Ort befindet, den man die „Säuretümpel von Yemach“ nennt, wo er langsam zu Tode gefoltert wird. Mithilfe des Pentakels, das mir Maretta gegeben hat, kann ich den westlichen Feuerofen in den Seelenfeldern benutzen, um zu Clyddis’ Gefängnis zu gelangen und ihn über den Aufenthaltsort Waukeens zu befragen.~
+@400020 = ~Die Befreiung Waukeens
+
+Der ehemalige Wächter Waukeens – Clyddis, der Vrock – erklärte mir die Funktion der grünen Feueröfen in Samora. Man muss die Öfen in einer ganz bestimmten Reihenfolge durchschreiten, um in Waukeens Gefängnis zu gelangen, und dabei die Form eines umgedrehten Pentagramms nachvollziehen. Beginnen muss ich bei der Statue Graz’zts, und wenn ich durch einen Ofen springe, durch den ich gerade gekommen bin, lande ich an einem anderen. Clyddis trug eine Zeichnung an seinem Körper, welche die richtige Reihenfolge der Öfen darstellt. Eine Zeichnung auf dem Boden der Stadt kann mir ebenfalls die korrekte Reihenfolge zeigen.~
+@400021 = ~Die Befreiung Waukeens
+
+Ich bin durch den letzten Feuerofen in Samora gesprungen und scheine nun tatsächlich in dem Gefängnis, in welchem Waukeen gefangen gehalten wird, angekommen zu sein. In einer der Zellen vor mir muss sich die Göttin befinden, die ich befreien soll.~
+@400022 = ~Die Befreiung Waukeens
+
+Ich habe Waukeen aus ihrer Gefängniszelle befreit. Nun muss ich schleunigst aus Samora verschwinden und kann nur hoffen, dass mir nicht allzu viele Scheusale auf den Fersen sind.~
+@400023 = ~Die Befreiung Waukeens
+
+Ich bin durch die Tür im „Haus der Abrechnung“ gegangen und scheine nun endlich in dem Gefängnis angekommen zu sein, in welchem Waukeen gefangen gehalten wird. Mir bleibt nicht mehr viel Zeit, um Waukeen zu befreien, denn durch den Kampf mit Maretta wurde mein Eindringen bemerkt, und es ist nur eine Frage der Zeit, bis ich von wütenden Dämonen überrannt werde.~
+@400100 = ~Das verschwundene Amulett
+
+Der Bebilith-Dämon hat mir das Amulett, ein Pentakel, gegeben, das Maretta zurückhaben möchte. Nun muss ich es zu Maretta ins Haus der Abrechnung zurückbringen.~
+@400120 = ~Das verschwundene Amulett
+
+Ich habe den Bebilith getötet. Da der Dämon viele Diener Marettas gefressen hat, sollte ich seine Leiche durchsuchen, ob ich dort das Amulett finde, nach dem der Sukkubus Maretta sucht.~
+@400121 = ~Das verschwundene Amulett
+
+Ich habe bei der Leiche des Bebilith-Dämons das Amulett gefunden. Nun muss ich es zu Maretta ins „Haus der Abrechnung“ zurückbringen.~
+@400122 = ~Das verschwundene Amulett
+
+Ich habe das Amulett zurück zu Maretta gebracht.~
+@400200 = ~Die Deva-Feder
+
+Maretta möchte eine Deva-Feder für ihr Gemälde haben. Ich hoffe, ich finde auf dem Marktplatz einen Händler, der so etwas verkauft.~
+@400201 = ~Die Deva-Feder
+
+Ich habe eine Deva-Feder erhalten. Nun muss ich sie zurück zu Maretta ins „Haus der Abrechnung“ bringen.~
+@400202 = ~Die Deva-Feder
+
+Ich habe Maretta die Deva-Feder übergeben, wie sie es gewünscht hat.~
+@400300 = ~Verin
+
+Im „Haus der Abrechnung“ habe ich eine merkwürdige Person getroffen – ein Wesen namens Verin. Er scheint mir zu misstrauen.~
+@400301 = ~Verin
+
+Verin war der Wächter in Waukeens Kerker. Mit seinem Tod dürfte eine der letzten Hürden zur Befreiung der Göttin aus dem Wege geräumt sein.~
+@400400 = ~Der Nabassu-Seelendieb
+
+Ein Nabassu-Dämon namens Trar’gezal stiehlt Seelen. Ich soll mit Hilfe des östlichen Feuerofens, der als Portal fungiert, in die Nähe seiner Behausung reisen und ihn zur Strecke bringen. Das Portal befindet sich in den Seelenfeldern südlich von Samora in der Nähe eines Blutbaumes. Danach muss ich Maretta im „Haus der Abrechnung“ wieder Bericht erstatten. Allerdings muss ich diesen Auftrag nicht mehr ausführen, da ich mittlerweile auch zügig weiter an der Befreiung Waukeens arbeiten sollte.~
+@400401 = ~Der Nabassu-Seelendieb
+
+Der Nabassu Trar’gezal ist tot. Ich sollte Maretta von meinem Erfolg berichten.~
+@400402 = ~Der Nabassu-Seelendieb
+
+Ich habe Maretta von dem toten Nabassu berichtet. Sie hat nun keine Verwendung mehr für mich. Ich sollte sehen, dass ich mich nun schleunigst um die Befreiung Waukeens kümmere.~
+@400500 = ~Magie im Abyss
+
+Einige Magierzauber scheinen im Abyss nicht mehr richtig zu funktionieren. Ich muss sehen, ob ich in Samora jemanden finde, der sich damit auskennt.~
+@400501 = ~Magie im Abyss
+
+Mithilfe von Zauberschlüsseln für Magier und Machtschlüsseln für Priester ist es mir möglich, Zauber im Abyss zu wirken, ohne zu riskieren, dass diese fehlschlagen. Warwick im „Besudelten Solar“ verkauft Zauberschlüssel, ein Wesen namens Malashrihi in einem Laden in der Stadt Samora vor dem „Besudelten Solar“ Zauber- und Machtschlüssel.~
+@400502 = ~Magie im Abyss
+
+Ich wurde Zeuge davon, wie im Abyss der Zauberspruch eines Magiers korrumpiert wurde. Dies hat der Magier nicht überlebt. Ich sollte mit den eigenen Zaubern vorsichtig sein, damit mir nicht das Gleiche passiert.~
+@400600 = ~Die Flasche mit dem Lachen eines Narren
+
+Für seine Dienste verlangt Mefisto, dass ich ihm eine Flasche, die das Lachen eines Narren enthält, besorge. Die Flasche scheint sich im Besitz eines Dretch, eines niederen Dämons, zu befinden, welcher sich in einem verlassenen Lagerhaus nördlich von „Marettas Betten“ neben der Taverne „Die Bauern des Herrn“ und gleich gegenüber des „Verfluchten Glücks“ versteckt hält.~
+@400601 = ~Die Flasche mit dem Lachen eines Narren
+
+Ich habe die Flasche an mich genommen. Nun muss ich sie zu Mefisto an der Statue Graz’zts in Samora bringen und hoffe, dass er seinen Teil der Abmachung einhält.~
+@400900 = ~Ormad Sulpar
+
+Ich soll einen Magier namens Ormad Sulpar in der Taverne „Zum besudelten Solar“ in Samora treffen. Nach allem, was sein Vertrauter andeutete, ist er in Not und benötigt meine Hilfe.~
+@410000 = ~Die dreifach verkaufte Seele
+
+Im „Besudelten Solar“ bin ich auf den Menschen Ormad Sulpar getroffen. Er hat seine Seele gleich drei Scheusalen auf einmal versprochen – der Nachthexe Zhelamiss im Westen der Stadt, dem Sukkubus Zaehvielle, die ihre Behausung gegenüber von „Marettas Betten“ hat, und Belthazaar, dem Glabrezu. Er steht an einem Seelenstand vor dem Bordell „Marettas Betten“. Ich habe zugestimmt, die drei Seelenverträge, die Ormad unterschrieben hat, von den drei Scheusalen zu beschaffen und ihm diese zu bringen. Damit hätte Ormad Sulpar seine Seele wieder.~
+@410001 = ~Die dreifach verkaufte Seele
+
+Ich habe Ormad Sulpar dazu gebracht, das Kissen der Nachthexe zu verwenden, was ihn das Leben gekostet hat. Nun kann ich zu Zhelamiss, der Nachthexe, zurückkehren und mir meine Belohnung abholen.~
+@410002 = ~Die dreifach verkaufte Seele
+
+Ich habe von der Nachthexe meine Belohnung für den Tod Ormad Sulpars erhalten.~
+@410005 = ~Die dreifach verkaufte Seele
+
+Ich habe zugestimmt, im Auftrag des Glabrezu Belthazaar einen Dolch an Ormad Sulpar zu übergeben. Wenn ich es schaffe, Ormad dazu zu bringen, sich mit diesem Dolch zu verletzen, wird ihn das sein Leben kosten und mir eine hohe Belohnung einbringen.~
+@410006 = ~Die dreifach verkaufte Seele
+
+Ich habe Ormad Sulpar dazu gebracht, den Dolch des Glabrezu zu verwenden, was ihn das Leben gekostet hat. Nun kann ich zu Belthazaar, dem Glabrezu, zurückkehren und mir meine Belohnung abholen.~
+@410007 = ~Die dreifach verkaufte Seele
+
+Ich habe meine Belohnung vom Glabrezu Belthazaar für den Tod von Ormad Sulpar erhalten.~
+@410010 = ~Die dreifach verkaufte Seele
+
+Ich habe Ormad Sulpar alle drei Verträge gebracht. Er zeigte sich dankbar und hat gleich das Weite gesucht. Ich hoffe, er ändert seinen Weg und gerät nicht wieder in Schwierigkeiten.~
+@410100 = ~Belthazaars Seelenvertrag
+
+Der Glabrezu Belthazaar will mir Ormad Sulpars Seelenvertrag nicht so einfach geben. Er hat mir ein Rätsel aufgetragen, mit dem ich alleine wahrscheinlich wenig anfangen kann. Ich sollte Ormad Sulpar im „Besudelten Solar“ zu diesem Rätsel befragen, schließlich ist es seine Seele, die ich retten soll.~
+@410101 = ~Belthazaars Seelenvertrag
+
+Ormad Sulpar meint, der Glabrezu Belthazaar suche häufiger ein verfallenes Lagerhaus im Osten der Stadt auf. Außerdem scheint er häufiger mit den blutigen Händen seiner Opfer gespielt zu haben. Vielleicht finde ich in besagtem Lagerhaus eine Möglichkeit, in das Lager des Glabrezu zu gelangen?~
+@410102 = ~Belthazaars Seelenvertrag
+
+Ich konnte in dem Lagerhaus eine Tür öffnen und sollte schauen, ob sich dahinter der Seelenvertrag des Glabrezu Belthazaar befindet.~
+@410103 = ~Belthazaars Seelenvertrag
+
+Ich habe den Glabrezu Belthazaar getötet und bei seiner Leiche ein merkwürdiges Rätsel gefunden. Vielleicht weiß Ormad Sulpar, was es damit auf sich hat.~
+@410110 = ~Belthazaars Seelenvertrag
+
+Ich habe den Seelenvertrag des Glabrezu Belthazaar erhalten. Nun muss ich diesen nur noch mit den beiden anderen Verträgen in den „Besudelten Solar“ zu Ormad Sulpar bringen.~
+@410111 = ~Belthazaars Seelenvertrag
+
+Ich habe den Seelenvertrag des Glabrezu Belthazaar an Ormad Sulpar übergeben.~
+@440000 = ~Der Bebilith-Dämonenjäger 
+
+In den Bezirken vor der Stadt treibt ein Tanar’ri-jagender Spinnendämon, ein sogenannter Bebilith, sein Unwesen. Der Sukkubus Maretta, Herrin von Samora, hat mich beauftragt, ihn zur Strecke zu bringen, um die Gegend für ihre Tanar’ri wieder sicherer zu machen. Sobald ich den Bebilith erledigt habe, soll ich ihr im „Haus der Abrechnung“ im Nordwesten Samoras wieder Bericht erstatten.~
+@440010 = ~Erholung in Samora 
+
+Der Sukkubus Maretta hat mir erlaubt, ab sofort kostenlos in ihrem Freudenhaus „Marettas Betten“ im Zentrum von Samora nächtigen zu dürfen.~
+@440070 = ~Die Rose des Abyss 
+
+Um meine Loyalität zu beweisen, fordert Maretta von mir eine Blume, welche „Rose des Abyss“ genannt wird. Sie wächst in der „Kammer der Versuchung“, einem Bereich unterhalb von Samora. Der Zugang zu dieser Kammer liegt direkt neben der Taverne „Zur Wimmernden Göttin“ im Norden der Stadt.~
+@440071 = ~Die Rose des Abyss 
+
+Ich habe die Rose geborgen und muss sie jetzt zurück zu Maretta in das „Haus der Abrechnung“ bringen.~
+@460010 = ~Die Hausinsignien des Fey’ri 
+
+Ich traf in Samora in der Taverne „Zur Wimmernden Göttin“ auf Val’kreen, einen Fey’ri. Er beauftragte mich, seine gestohlene Hausinsignien von einem Maurezhi, der sich vor den Toren Samoras in den Seelenfeldern herumtreiben soll, zurückzubringen. Obwohl Val’kreen arrogant ist, habe ich mich bereit erklärt, diesen Auftrag anzunehmen.~
+@460011 = ~Das Hausinsignium des Fey’ri 
+
+Ich habe das Hausinsignium in meinen Besitz gebracht. Nun muss ich es zu Val’kreen, den Fey’ri, in die Taverne „Zur Wimmernden Göttin“ in Samora zurückbringen.~
+@460012 = ~Das Hausinsignium des Fey’ri 
+
+Ich habe Val’kreens gestohlene Hausinsignien erfolgreich zurückgebracht und die Belohnung erhalten. Val’kreen zeigte wenig Dankbarkeit und ließ seine Arroganz durchblicken, aber ich habe gelernt, dass es in diesem Ort der Welt nicht um Dankbarkeit geht.~
+@470000 = ~Ein Larvenwurm für Margrog
+
+Ich habe den Nalfeshnee Margrog in Samora getroffen. Bevor er mir etwas über den Aufenthaltsort Waukeens verraten möchte, soll ich ihm von der Nachthexe Zhelamiss, deren Haus gegenüber Margrogs liegt, einen Larvenwurm besorgen.~
+@470001 = ~Ein Larvenwurm für Margrog
+
+Die Nachthexe verlangt 1.000 Goldstücke für eine Larve.~
+@470002 = ~Ein Larvenwurm für Margrog
+
+Ich habe einen Pfandschein von der Nachthexe Zhelamiss erhalten, mit dessen Hilfe ich bei ihrem Diener Saarixal, der oben am Ausgang ihrer Absteige neben den Larvenwürmern wartet, einen Larvenwurm erhalten kann.~
+@470003 = ~Ein Larvenwurm für Margrog
+
+Der Larvenwurm ist in meinem Besitz. Ich sollte die Kreatur zurück zu Margrog in seinem Haus im Westen Samoras bringen, um zu erfahren, wo ich Waukeen finden kann.~
+@470004 = ~Ein Larvenwurm für Margrog
+
+Ich habe Margrog den Larvenwurm gebracht.~
+@470010 = ~Ein weiterer Botengang für Margrog
+
+Margrog möchte mir immer noch nichts über den Verbleib Waukeens sagen. Zunächst soll ich für ihn ein kleines Gefäß zu einem Wesen namens „Aphul“ bringen, welches auf der Endlosen Treppe in der Nähe der Plattform, die nach Samora führt, auf mich wartet.~
+@470011 = ~Ein weiterer Botengang für Margrog
+
+Ich habe den Behälter dem Scheusal Aphul auf der Endlosen Treppe übergeben. Nun sollte ich zu Margrog zurückkehren und endlich darauf pochen, mir den Aufenthaltsort Waukeens zu nennen.~
+@470020 = ~Söldner im Blutkrieg
+
+Maretta hat mich aufgefordert, mich als Söldner im Blutkrieg zu verdingen. Ich soll einen Babau namens Garnuth im Südwesten der Stadt neben einem großen Schild aufsuchen, der in der Stadt der Rekrutierer für den Blutkrieg ist.~ ~Söldnerin im Blutkrieg
+
+Maretta hat mich aufgefordert, mich als Söldnerin im Blutkrieg zu verdingen. Ich soll einen Babau namens Garnuth im Südwesten der Stadt neben einem großen Schild aufsuchen, der in der Stadt der Rekrutierer für den Blutkrieg ist.~
+@470021 = ~Söldner im Blutkrieg
+
+Ich habe mich bei dem Babau Garnuth für den Blutkrieg anwerben lassen. Sobald ich bereit bin, öffnet er ein Portal und ich kann mich in die Schlacht stürzen.~ ~Söldnerin im Blutkrieg
+
+Ich habe mich bei dem Babau Garnuth für den Blutkrieg anwerben lassen. Sobald ich bereit bin, öffnet er ein Portal und ich kann mich in die Schlacht stürzen.~
+@470022 = ~Söldner im Blutkrieg
+
+Ich soll durch ein Portal in Samora zu einem Tanar’ri-Außenposten gelangen. Dort ist es meine Aufgabe, den Kopf eines Baatezu-Kommandanten vom Rest des Teufels zu trennen und dem Babau Garnuth in Samora als Trophäe zu überbringen. Vielleicht gewinne ich so weiteres Vertrauen bei Maretta und komme näher an Waukeens Aufenthaltsort heran.~ ~Söldnerin im Blutkrieg
+
+Ich soll durch ein Portal in Samora zu einem Tanar’ri-Außenposten gelangen. Dort ist es meine Aufgabe, den Kopf eines Baatezu-Kommandanten vom Rest des Teufels zu trennen und dem Babau Garnuth in Samora als Trophäe zu überbringen. Vielleicht gewinne ich so weiteres Vertrauen bei Maretta und komme näher an Waukeens Aufenthaltsort heran.~
+@470023 = ~Söldner im Blutkrieg
+
+Ich habe den Kopf des Baatezu-Kommandanten. Nun muss ich durch das Portal zurück nach Samora, um dem Babau Garnuth von meiner Trophäe zu berichten.~ ~Söldnerin im Blutkrieg
+
+Ich habe den Kopf des Baatezu-Kommandanten. Nun muss ich durch das Portal zurück nach Samora, um dem Babau Garnuth von meiner Trophäe zu berichten.~
+@470030 = ~Eine Audienz bei Maretta
+
+Ich sollte Maretta den Kopf des Baatezu-Generals als Zeichen meines Sieges präsentieren.~
+@470040 = ~Das verschwundene Amulett
+
+Maretta gab mir den Auftrag, in den Gebieten südlich Samoras, die man die „Seelenfelder“ nennt, nach einer Horde Tanar’ri zu suchen, die in ihren Diensten stand und nun verschollen sind. Anscheinend macht etwas Jagd auf Dämonen. Ob das jetzt eine gute oder schlechte Nachricht ist, werde ich wohl an Ort und Stelle herausfinden müssen. Jedenfalls soll ich die Stadt Richtung Süden verlassen und ein Amulett bergen, welches einer ihrer Offiziere bei sich trug – ein Anhänger in Form eines Pentagramms.~
+@470041 = ~Das verschwundene Amulett
+
+In den „Seelenfeldern“ soll sich im Osten der Gegend in einer kleinen Höhle ein Portal befinden, aus dem ein spinnenartiges Untier Jagd auf Tanar’ri macht. Wenn ich das Horn eines Tanar’ri in dem Bereich ablege, könnte sich vielleicht das Portal aktivieren lassen und ich kann sehen, was sich dahinter verbirgt. Bleibt zu hoffen, dass das Untier mehr Appetit auf Dämonen als auf einen <PRO_RACE> hat.~
+@470042 = ~Das verschwundene Amulett
+
+Ich habe das Portal, durch das der Dämonenjäger gekommen ist, geöffnet. Nun kann ich hindurchtreten und sehen, was es mit dem Wesen auf sich hat. Mein Auftrag ist, ein Amulett zu bergen, welches einer der verschollenen Tanar’ri bei sich trug. Der Anhänger hat die Form eines Pentagramms.~
+@470043 = ~Das verschwundene Amulett
+
+In den „Seelenfeldern“ soll sich im Osten der Gegend in einer kleinen Höhle ein Portal befinden, aus dem ein spinnenartiges Untier Jagd auf Tanar’ri macht. Wenn ich einen Gegenstand eines höheren Tanar’ri dort platziere, sollte sich das Portal aktivieren lassen. Zumindest behauptet das ein Gebilde, das sich selbst „Baum der Feiglinge“ nennt. Es bot mir an, mir ein Stück eines Tanar’ri zu geben, wenn ich es für eine kurze Zeit von seiner immerwährenden Furcht befreien würde.~
+@470100 = ~Margrog schickt nach mir
+
+Der Nalfeshnee Margrog hat mich zu seinem Haus zitiert. Es scheint dringend zu sein.~
+@470500 = ~Eine Audienz bei Maretta
+
+Ich muss entweder Meister der Arena Samoras im „Verfluchten Glück“ werden oder den Stadtschreier Mefisto dazu bringen, so überzeugend über mich zu berichten, dass die Herrin Samoras auf mich aufmerksam wird, damit sie mir eine Audienz gewährt. Da der Weg zu Waukeen von Maretta kontrolliert wird, muss ich mir vorsichtig deren Vertrauen erschleichen, bis sich mir eine Möglichkeit bietet, in den Kerker der Göttin vorzudringen.~ ~Eine Audienz bei Maretta
+
+Ich muss entweder Meisterin der Arena Samoras im „Verfluchten Glück“ werden oder den Stadtschreier Mefisto dazu bringen, so überzeugend über mich zu berichten, dass die Herrin Samoras auf mich aufmerksam wird, damit sie mir eine Audienz gewährt. Da der Weg zu Waukeen von Maretta kontrolliert wird, muss ich mir vorsichtig deren Vertrauen erschleichen, bis sich mir eine Möglichkeit bietet, in den Kerker der Göttin vorzudringen.~
+@470501 = ~Eine Audienz bei Maretta
+
+Mefisto hat seinen Teil der Vereinbarung eingehalten, und ich wurde tatsächlich zu Maretta in das „Haus der Abrechnung“ im Westen Samoras zitiert.~
+@470502 = ~Eine Audienz bei Maretta
+
+Als Champion der Arena Samoras wurde ich zu der Herrin der Stadt, dem Sukkubus Maretta, in das „Haus der Abrechnung“ im Westen Samoras zitiert.~
+@470503 = ~Eine Audienz bei Maretta
+
+Als Meister stehen die Chancen gut, dass ich bald zum „Haus der Abrechnung“ vorgeladen werde.~ ~Eine Audienz bei Maretta
+
+Als Meisterin stehen die Chancen gut, dass ich bald zum „Haus der Abrechnung“ vorgeladen werde.~
+@470601 = ~Margrog, der Nalfeshnee
+
+Margrog hat mitsamt seines skurrilen Hauses das Weite gesucht und Samora scheinbar fluchtartig verlassen. Ich hoffe, dass niemand Verdacht schöpft.~
+@470700 = ~Eine Seele für die Göttin
+
+Tharundar Olehm, der Priester Waukeens, hat dem Nalfeshnee Margrog nichts Geringeres als seine eigene Seele als Lohn für die Hilfe bei Waukeens Befreiung versprochen. Vielleicht gibt es eine Möglichkeit, diesen Pakt zu verhindern. Allerdings dürfte es schwierig werden, solange Margrog in der Stadt ist.~
+@470701 = ~Eine Seele für die Göttin
+
+Nun, da Margrog die Stadt verlassen hat, bietet sich mir vielleicht eine Gelegenheit, ihn zu beseitigen, um den Pakt, den er mit Waukeens Priester Tharundar Olehm geschlossen hat, zu verhindern. Wer könnte wissen, wo der Nalfeshnee hingegangen ist?~
+@470702 = ~Eine Seele für die Göttin
+
+Ich benötige ein Wesen, das gut in der Jagd ist, um Margrog aufzuspüren. Wenn ich eine solche Kreatur finde, könnte ich sie auf den Nalfeshnee ansetzen, um den Seelenvertrag, den dieser mit Waukeens Priester Tharundar Olehm geschlossen hat, rückgängig zu machen.~
+@470703 = ~Eine Seele für die Göttin
+
+Ich habe den Bebilith auf Margrog angesetzt, der sofort begeistert die Jagd aufgenommen hat. Ich soll in der Höhle des Bebilith warten, bis dieser mit Margrog im Schlepptau zurückkehrt.~
+@470704 = ~Eine Seele für die Göttin
+
+Mithilfe des Bebilith habe ich Margrog, den Nalfeshnee, besiegt. Tharundar Olehm, der Hohepriester Waukeens, wird dankbar sein, seine Seele behalten zu dürfen.~
+@500000 = ~Annia Graustiefel
+
+Ich habe in den Weiten des Abyss einen Paladin getroffen. Sie war dankbar, dass ich Ihr den Weg zur Endlosen Treppe gezeigt habe.~
+@510000 = ~Der Bebilith-Dämonenjäger
+
+Ich habe den Bebilith gefunden. Anstatt gegen ihn zu kämpfen, habe ich jedoch zugestimmt, ihm beim Eindringen in Samora zu helfen. Ich soll eine magische Kugel an der Statue Graz’zts am Eingang Samoras platzieren, die es ihm ermöglicht, sich in die Stadt zu teleportieren. Dies könnte noch nützlich sein, wenn mir die Stadtbewohner nicht mehr wohlgesonnen sind – spätestens, wenn ich die Stadt nach der Befreiung Waukeens wieder verlassen muss.~
+@510001 = ~Der Bebilith-Dämonenjäger
+
+Ich habe die Kugel an der Statue Graz’zts platziert. Jetzt bleibt nur zu hoffen, dass sich der Bebilith an die Abmachung hält und erst dann losschlägt, sobald ich Waukeen befreit habe.~
+@510002 = ~Der Bebilith-Dämonenjäger
+
+Ich habe mich umentschieden und dem Bebilith nun doch den Garaus gemacht. Damit entfällt die Aufgabe, ihm den Zugang zur Stadt zu ermöglichen.~
+@540000 = ~Gefangener und Wärter zugleich
+
+Der Zugang zu Waukeens ehemaligem Wärter, dem Vrock Clyddis, wird von dem Drachen Daugralluvidan bewacht, der berichtet, dass er aus der Ebene Carceri stammt. Er scheint selbst nicht freiwillig an diesem Ort zu sein. Ich habe versprochen, nach dem Zauber „Freiheit“ Ausschau zu halten – entweder als Zauber oder als Schriftrolle – und dem tarterischen Drachen dadurch die Freiheit zu schenken. Dies würde es mir ermöglichen Clyddis aufzusuchen, ohne gegen den Drachen kämpfen zu müssen.~
+@540004 = ~Gefangener und Wärter zugleich
+
+Ich habe den tarterischen Drachen Daugralluvidan getötet, anstatt ihn zu befreien.~
+@540005 = ~Gefangener und Wärter zugleich
+
+Ich habe dem tarterischen Drachen Daugralluvidan die Freiheit geschenkt. Ich hoffe, er weiß sie zu nutzen.~
+@600000 = ~Teuflische Verbündete
+
+Eine Gruppe Abishai möchte mit meiner Hilfe in die Dämonenstadt Samora eindringen. Ich soll deren Anführer Aphul einen Portalschlüssel überbringen, der das Portal von dem Außenposten der Tanar’ri zurück in die Stadt steuert.~
+@600001 = ~Teuflische Verbündete
+
+Ich habe den Abishai den Portalschlüssel überbracht und hoffe, dass mir deren Sturm auf die Stadt bei meiner späteren Flucht zum Vorteil gereicht.~
+@800010 = ~Das Leuchten eines Devas
+
+Ein gefangener Deva in Graz’zts Verlies hat mich darum gebeten, ihm sein Leuchten wieder zurückzubringen. Es soll sich irgendwo in diesem Verlies befinden.~
+@800011 = ~Das Leuchten eines Devas
+
+Ich habe das Leuchten des Devas zurückgebracht.~

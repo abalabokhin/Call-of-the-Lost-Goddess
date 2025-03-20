@@ -1,0 +1,443 @@
+// game: Call of the Lost Goddess
+// date: 2025-01-14, 19:18
+// Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
+
+@0 = ~Call of the lost goddess~
+@100 = ~Kummerwolke~
+@101 = ~Graz’zts Schmählied~
+@102 = ~Graz’zts Schmählied
+
+Grad: 1
+Schule: Bannzauber
+Domäne: Charme
+Reichweite: 9 m
+Dauer: 1 Stunde
+Zeitaufwand: 1
+Bereich: 4,5 m Radius
+Rettungswurf: Nein
+
+
+Mit diesem Schmähgesang kann sich der Anwender Mut machen, da das Lied den Dämonenfürsten Graz’zt in einem derart schlechten Licht darstellt, dass es ihn der Lächerlichkeit preisgibt. Dadurch haben alle freundlichen Kreaturen weniger Angst vor den Schergen des Dämonenprinzen und sind für die Wirkdauer immun gegen Furcht und Moralversagen. Außerdem sind alle betroffenen Wesen vor Bezauberung geschützt. Das Lied steht Euch nur in Graz’zts Reich im Abyss zur Verfügung. An einem anderen Ort verliert es seine Wirkung.~
+@103 = ~Modronen beschwören~
+@104 = ~Modronen beschwören
+
+Grad: 3
+Schule: Beschwörung
+Reichweite: 9 m (Sichtfeld)
+Dauer: 4 Phasen
+Zeitaufwand: 3
+Bereich: 15 m Radius
+Rettungswurf: Nein
+
+Innerhalb einer Runde nach dem Wirken dieses Zaubers beschwört der Zauberer 4 monodrone Modronen (extraplanare Kreaturen aus der äußeren Ebene Mechanus) herbei.
+Die Monodronen erscheinen an einem beliebigen Ort im Wirkungsbereich des Zaubers, der vom Zauberer festgelegt wird. Sie greifen die Gegner des Zaubernden nach Kräften an, bis der Zaubernde entweder befiehlt, die Angriffe einzustellen, die Dauer des Zaubers abläuft oder die Kreaturen getötet werden. Diese Wesen haben kein Moralversagen, aber sie verschwinden, wenn sie getötet werden. Wenn kein Gegner zum Kämpfen vorhanden ist, können die Modronen, wenn der Zauberer mit ihnen kommunizieren kann und sie körperlich dazu in der Lage sind, andere Dienste leisten. Bekannt wurde dieser Zauber durch den Magier Argramund vom Felsen, dessen derzeitiger Aufenthaltsort unbekannt ist.
+
+EIGENSCHAFTEN:
+
+Trefferwürfel: 2
+Intelligenz: 2–4
+Rüstungsklasse: 7
+
+Angriffe pro Runde: 1
+ETW0: 19 oder 20
+Schaden: 1W4
+
+Spezialfähigkeiten:
+– kann alle Arten der Illusion und Unsichtbarkeit durchschauen und damit bannen
+– immun gegen Bezauberung, Beherrschung, Festhalten, Lähmung, Furcht und Schlaf
+– immun gegen Moralversagen
+– immun gegen Angriffe, die auf die Positive und Negative Ebene abzielen, wie Stufenentzug
+– immun gegen Psi-Schläge~
+@105 = ~Sporenauswurf~
+@106 = ~Kreischen~
+@107 = ~Energiebolzen~
+@108 = ~Kugel der Dunkelheit~
+@109 = ~Tödlicher Blick~
+@110 = ~Schrei der Vargouille~
+@111 = ~Kuss der Vargouille~
+@112 = ~Abyss-Basar~
+@113 = ~Händler der Planaren Gilde~
+@114 = ~Schlafstatt der Planaren Gilde~
+@115 = ~Abtei der Goldspitzen~
+@116 = ~Zauberschlüssel-Markt~
+@117 = ~Arcanaloths Arkanes~
+@118 = ~Marettas Betten~
+@119 = ~Wilburs Tränke~
+@120 = ~Nocticulas Tränke~
+@121 = ~Sternenschweifs Umtrunk~
+@122 = ~Honigmet aus Ysgard~
+@123 = ~Stachelbeerwein aus Bytopia~
+@124 = ~Kirschperle aus Alzar~
+@125 = ~Baatorsches Blutbier~
+@126 = ~Schwefelfeuer~
+@127 = ~Der besudelte Solar~
+@128 = ~Blutbier~
+@129 = ~Flüssiger Schmerz~
+@130 = ~Deva-Tränen~
+@131 = ~Blutdornessenz~
+@132 = ~Heiler der Planaren Gilde~
+@133 = ~Billigladen des Glücklichen Aello~
+@134 = ~Brennendes Netz~
+@135 = ~Schreckensnimbus~
+@136 = ~Mariliths Versuchung~
+@137 = ~Yugoloths Dunkelbier~
+@138 = ~Seelenschlucker~
+@139 = ~Abyss-Brise~
+@140 = ~Bauernopfer-Bräu~
+@141 = ~Metall erhitzen~
+@142 = ~Zu hohe Stufe für Todesstecken~
+@143 = ~Säurestrahl~
+@144 = ~Silberlicht-Oase~
+@145 = ~Malefiz-Met~
+@146 = ~Baatezu-Blutwein~
+@147 = ~Deva-Galle~
+@148 = ~Harpyiengesang~
+@149 = ~Schutz vor Gift~
+@150 = ~Schutz vor Gift
+
+Grad: 2
+Schule: Bannzauber
+Reichweite: Berührung
+Dauer: 10 Runden
+Zeitaufwand: 3
+Bereich: 1 Wesen
+Rettungswurf: Nein
+
+Durch die Anwendung dieses Zaubers wird die gewählte Kreatur immun gegen Gifte, die über Kontakt mit der Haut, Verschlucken oder Stich verabreicht werden. Gifte anderer Arten wirken weiterhin normal auf das Wesen. Alle Gifte, die sich bereits im Körper befinden, wenn der Zauber gewirkt wird, sind ebenfalls von diesem Zauberspruch nicht betroffen.~
+@151 = ~Odem zerschmetternder Verzweiflung~
+@152 = ~Säureexplosion~
+@153 = ~Blutsaat erschaffen~
+@154 = ~Nein, <CHARNAME>, das werde ich niemals ausrüsten!~
+@155 = ~Mystischer Wundermarkt~
+@156 = ~Farbenreflektion~
+@157 = ~Blutopfer~
+@1000 = ~Steingesicht~
+@1001 = ~Maryel~
+@1002 = ~Daugralluvidan~
+@1003 = ~Neidzehrer~
+@1004 = ~Roter Abishai~
+@1005 = ~Kriegsveteran~
+@1006 = ~Verstoßene Waise~
+@1007 = ~Verzweifelter Vater~
+@1008 = ~Kranke Witwe~
+@1009 = ~Verarmter Bauer~
+@1010 = ~Grimsnag~
+@1011 = ~Träumende~
+@1012 = ~Träumender~
+@1013 = ~Palrethee~
+@1014 = ~Traumschleicher~
+@1015 = ~Kaiphas der Verblendete~
+@1016 = ~Gulga die Maßlose~
+@1017 = ~Gulgathrix~
+@1018 = ~Wyliniesh, die Sukkubus~
+@1019 = ~Vohraris, der Inkubus~
+@1020 = ~Alter Mann~
+@1021 = ~Aranoth~
+@1022 = ~Eldrin~
+@1023 = ~Lyra~
+@1024 = ~Theron~
+@1025 = ~Morgrath der Verderber~
+@1026 = ~Schattenklang~
+@1027 = ~Kastighur~
+@1028 = ~Alistair Vonhardt~
+@1029 = ~Verdammte Seele~
+@1030 = ~Ätzender Schrecken~
+@1031 = ~Emer der Verrückte~
+@1032 = ~Kaelthar Düsterware~
+@1033 = ~Ludovic, der Spielmeister~
+@1034 = ~Nysara die Verwelkte~
+@1035 = ~Bharava~
+@1036 = ~Arsid~
+@1037 = ~Vulgrim Dunkelmähne~
+@1038 = ~Belthazaar~
+@1039 = ~Trar’gezal~
+@1040 = ~Flinkbert Wippelschwanz~
+@1041 = ~Wilbur Iparos~
+@1042 = ~Schrittweberspinne~
+@1043 = ~Lanzengarde~
+@1044 = ~Armanit~
+@1045 = ~Malashrihi~
+@1046 = ~Spielmeister~
+@1047 = ~Markenverkäuferin~
+@1048 = ~Piscoloth~
+@1049 = ~Bar-Lgura~
+@1050 = ~Cambion-Baron~
+@1051 = ~Dretch~
+@1052 = ~Tanarukk~
+@1053 = ~Sternenschweif~
+@1054 = ~Alkilith~
+@1055 = ~Jenkin~
+@1056 = ~Zaehvielle~
+@1057 = ~Zeep~
+@1058 = ~Ormad Sulpar~
+@1059 = ~Sannak, der Arcanaloth~
+@1060 = ~Masun~
+@1061 = ~Fürst Jessel~
+@1062 = ~Zakhum, der Gewürzhändler~
+@1063 = ~Maschine~
+@1064 = ~Garnuth, der Babau~
+@1065 = ~Babau~
+@1066 = ~Kampfrichter~
+@1067 = ~Frostriese~
+@1068 = ~Faerthae Garblueth~
+@1069 = ~Daerea Ethgil~
+@1070 = ~Hamatula~
+@1071 = ~Lemure~
+@1072 = ~Gazgothan~
+@1073 = ~Xag-Ya~
+@1074 = ~Bodak~
+@1075 = ~Halanna~
+@1076 = ~Kyriani~
+@1077 = ~Tharundar Olehm~
+@1078 = ~Barasta Cleeith~
+@1079 = ~Mondritter~
+@1080 = ~Igraflyn~
+@1081 = ~Rhyssa~
+@1082 = ~Adonia~
+@1083 = ~Helena~
+@1084 = ~Waukeen~
+@1085 = ~Nasmaerae~
+@1086 = ~Seltsamer Mann~
+@1087 = ~Gildaar~
+@1088 = ~Demidicus~
+@1089 = ~Zabrina~
+@1090 = ~Lestiulus~
+@1091 = ~Maendir~
+@1092 = ~Assol~
+@1093 = ~Kayur~
+@1094 = ~Larvenwurm~
+@1095 = ~Maretta~
+@1096 = ~Shamurz~
+@1097 = ~Tentakel~
+@1098 = ~Zzrakh, der Bebilith~
+@1099 = ~Margrog~
+@1100 = ~Urkag, der Flügelverkäufer~
+@1101 = ~Vrock~
+@1102 = ~Zhelamiss~
+@1103 = ~Saarixal~
+@1104 = ~Mefisto~
+@1105 = ~Gorzengral~
+@1106 = ~Vargouille~
+@1107 = ~Clyddis~
+@1108 = ~Annia Graustiefel~
+@1109 = ~Faylah~
+@1110 = ~Verin~
+@1111 = ~Blutelementar~
+@1113 = ~Qyriesh~
+@1114 = ~Glücklicher Aello~
+@1115 = ~Wächter~
+@1116 = ~Amnischer Händler~
+@1117 = ~Monodron~
+@1118 = ~~
+@1119 = ~Amlech~
+@1120 = ~Dammir~
+@1121 = ~Lillend~
+@1122 = ~Warwick~
+@1123 = ~Aphul~
+@1124 = ~Kayurs Lehrling~
+@1125 = ~Barde~
+@1126 = ~Daemevera~
+@1127 = ~Az’zelbath~
+@1128 = ~Bezmodan~
+@1129 = ~Amnischer Händler~
+@1130 = ~Zombie-Ausrufer~
+@1131 = ~Baphitaurus~
+@1132 = ~Baphitaurus-Schmied~
+@1133 = ~Zhornack Gruulhuf~
+@1134 = ~Val’kreen~
+@1135 = ~Elandra Mondlied~
+@1136 = ~Seelensirene~
+@1137 = ~Krankwirt Mutz~
+@1138 = ~Sariila Tebrentan~
+@1139 = ~Zaldranis Quixtor~
+@1140 = ~Erinnyen-Baronin~
+@1141 = ~Nuksheid Rheshan~
+@1142 = ~Morloth Dunkelschwert~
+@1143 = ~Grimwald Zornfaust~
+@1144 = ~Vexthor Bluthauer~
+@1145 = ~Zardrak Schreckschild~
+@1146 = ~Diirmdliin Scharfschnitter~
+@1147 = ~Blutkrieg-Söldner~
+@1148 = ~Jünger Baalzebuls~
+@1149 = ~Zombie-Frostriese~
+@1150 = ~Lodernde Knochen~
+@1151 = ~Rottenknecht~
+@1152 = ~Hezrou~
+@1153 = ~Gestank~
+@1154 = ~ETW0 durch Gestank gesenkt~
+@1155 = ~Mezzoloth~
+
+@1180 = ~Eure Seele ist meine Macht.~ [AC#WNIH1]
+@1181 = ~Träumt ein wenig von mir, Sterblicher!~ [AC#WNIH2] ~Träumt ein wenig von mir, Sterbliche!~ [AC#WNIH2]
+@1182 = ~Ich bin Macht, Lust und Verderben.~ [AC#WMAR1]
+@1183 = ~Willkommen im Reich der Verzweiflung, wo kein Trost zu finden ist, Sterblicher. Ich bin Maretta, die Herrin von Samora.~ [AC#WMAR2] ~Willkommen im Reich der Verzweiflung, wo kein Trost zu finden ist, Sterbliche. Ich bin Maretta, die Herrin von Samora.~ [AC#WMAR2]
+@1184 = ~Seht meine Schönheit oder verschwindet.~ [AC#WMAR3]
+@1186 = ~Seid gegrüßt, Sterbliche.~ [AC#WMEF1]
+@1187 = ~Heil, Sterbliche.~ [AC#WMEF1]
+@1188 = ~Oh, Ihr seid es wieder.~ [AC#WMEF3]
+@1190 = ~Geld spricht. Wohlstand singt.~ [AC#WTHA2]
+@1191 = ~Ein gutes Geschäft.~ [AC#WTHA5]
+@1195 = ~Seid gegrüßt, ich bin Kyriani Agrivar, Priesterin Selûnes aus Tiefwasser.~ [AC#WKYR1]
+@1210 = ~Steht still, Sterblicher!~ [AC#WBAB2] ~Steht still, Sterbliche!~ [AC#WBAB2]
+@1211 = ~Ohne Sterbliche keine Opfer!~ [AC#WBAB1]
+@1212 = ~Ich bin in einer schlechten, schlechten Stimmung.~ [AC#WDEM1]
+@1213 = ~Meine Preise sind die besten südlich von Höllenloch.~ [AC#WMER1]
+@1214 = ~Meine Taverne ist so dreckig wie ein Deva-Popo.~ [AC#WSOL1]
+@1215 = ~Fürchtet mich, denn ich verfluche Euch.~ [AC#WDEM2]
+@1216 = ~In diesem Spiel der Seelen gewinnt das Gesetz immer.~ [AC#WAPH1]
+@1217 = ~Ich habe viele abscheuliche Waren.~ [AC#WMER2]
+@1218 = ~Ich bin herrlich glorreich!~ [AC#W75S1]
+@1219 = ~Zeigt mir, was Ihr drauf habt!~ [AC#W74W3]
+@1220 = ~Tretet hervor und entfesselt Euren Zorn.~ [AC#W74W4]
+@1221 = ~Offenbart Euren Zorn und zeigt Eure Macht.~ [AC#W74W5]
+@1222 = ~Besser mit ’nem Scheusal ein wenig Kurzweil als im Rücken einen Wurfpfeil.~ [AC#WDWR1]
+@1223 = ~So viele Ebenen, so viel zu lernen.~ [AC#WDWR2]
+@1224 = ~Zum Ruhme Baators!~ [AC#WAPH2]
+@1225 = ~Magie ist hier unten kein einfacher Zaubertrick.~ [AC#WMSV1]
+@1226 = ~Man kann Magie nicht handhaben wie einen einfachen Kartentrick.~ [AC#WMSV2]
+@1227 = ~Macht Platz, große Leute!~ [AC#WSQRL]
+@1230 = ~Ich bin die Göttin des Reichtums. Ja, das bin ich!~ [AC#WWAE0]
+@1240 = ~Warum sollte man seine eigene Kraft nutzen, wenn man andere dazu bringen kann, ihre Kraft zu verschwenden?~ [AC#WVER0]
+@1250 = ~Wer tritt auf mein Netz?~ [AC#WBEB0]
+@1251 = ~Spürt meinen giftigen Biss!~ [AC#WBEB2]
+@1255 = ~Passt auf, wo Ihr hintretet.~ [AC#WLIL1]
+@1256 = ~Das Mondlicht weist mir den Weg.~ [AC#WLIL2]
+@1260 = ~Ahhh… so dunkel …~ [AC#WHALA]
+@1270 = ~Wir grüßen Euch, Fleischling.~ [AC#WMONA]
+@1271 = ~Ein Auge, eine Richtung.~ [AC#WMON0]
+@1272 = ~Feindseliges, isoliertes Subjekt entdeckt …~ [AC#WMONB]
+@1273 = ~Es gibt kein besseres Individuum als uns.~ [AC#WMONC]
+@1274 = ~Wir denken als Einheit.~ [AC#WMOND]
+@1275 = ~Ein einfacher Schlag gegen uns alle.~ [AC#WMONE]
+@1276 = ~Verlasse die mentale Gemeinschaft …~ [AC#WMONF]
+@1280 = ~Ich bösartig.~ [AC#WBAP1]
+@1281 = ~Ich stark. Ihr schwach!~ [AC#WBAP2]
+@1285 = ~Schicksal oder nicht … ich bin nicht für diesen Ort bestimmt.~ [AC#WNYS1]
+@1286 = ~Ich muss frei sein.~ [AC#WNYS2]
+@1290 = ~~ [AM1900B1]
+@1300 = ~Mögen Reichtum und Wohlstand Euch auf Schritt und Tritt folgen.~ [AC#WWAUX]
+@1311 = ~Der Wille der Hölle wird geschehen!~ [AC#W60M1]
+@1312 = ~Zum Ruhme Baators!~ [AC#W60M2]
+@1313 = ~Für die Hierarchie!~ [AC#W60M3]
+@1314 = ~Die infernalische Macht regiert!~ [AC#W60M4]
+@1320 = ~Keine gute Tat bleibt ungesühnt!~ [AC#W4CF1]
+@1330 = ~Ihr habt gerufen und ich habe geantwortet. Lasst uns gemeinsam eine Schneise der Verwüstung durch die Lande ziehen!~
+@3000 = ~Aus dieser Tür strömt ein gleißendes, unglaublich helles Licht. Auch, wenn das Leuchten nicht Böse zu sein scheint, wisst Ihr, dass es Euch beim Betreten des Gebietes jenseits der Türe durch seine Intensität vernichten würde.~
+@3001 = ~Planare Gilde~
+@3002 = ~Zurück zum Fuß der Treppe~
+@3003 = ~Tür zum Abyss~
+@3004 = ~Modron-Maschine~
+@3005 = ~Dieses Standbild stellt die Göttin Waukeen dar. Es scheint aus purem Gold gefertigt worden zu sein.~
+@3006 = ~Von diesem Erker aus könnt Ihr das geschäftige Treiben in der Abtei beobachten.~
+@3007 = ~Zurück nach Faerûn~
+@3008 = ~Beginn der Endlosen Treppe~
+@3009 = ~Elandra Mondlied~
+@3010 = ~Diese Tür scheint aus dem Turm herunter in den Tempel zu führen. Sie ist von der anderen Seite verriegelt, und ein Blick der Wachen sagt Euch, dass es keine gute Idee wäre, die Tür aufzubrechen.~
+@3011 = ~Ein blauer Kristallsockel~
+@3012 = ~Ein grüner Kristallsockel~
+@3013 = ~Ein roter Kristallsockel~
+@3014 = ~Ein gelber Kristallsockel~
+@4000 = ~Verfluchtes Glück~
+@4001 = ~Die Bauern des Herrn~
+@4002 = ~Marettas Betten~
+@4003 = ~Der besudelte Solar~
+@4004 = ~Die wimmernde Göttin~
+@4005 = ~Zur Endlosen Treppe~
+@4006 = ~Zum Abyss~
+@4007 = ~Platz des Graz’zt~
+@4008 = ~Platz der Händler~
+@4009 = ~Haus der Nachthexe~
+@4010 = ~Margrogs Haus~
+@4011 = ~Haus der Abrechnung~
+@4012 = ~Qualfeuer-Schmiede~
+@4013 = ~Kammer der Versuchung~
+@4014 = ~Daemeveras Haus~
+@4015 = ~Zhaevielles Haus~
+@4016 = ~Blutkrieg-Rekrutierungsplatz~
+@4017 = ~Belthazaars Versteck~
+@4018 = ~Grimsnags Schlupfwinkel~
+@4019 = ~Die Statue einer Göttin, die mit schmerzverzerrtem Gesicht flehentlich ihre Hände in die Höhe reckt. Ein konstantes Wehklagen und Wimmern ist aus ihrem Inneren zu hören.~
+@5000 = ~Baum der Feiglinge~
+@5001 = ~Östlicher Feuerofen~
+@5002 = ~Westlicher Feuerofen~
+@5201 = ~Ihr müsst näher herantreten, um Euch mit dem Geschöpf unterhalten zu können.~
+@7000 = ~Das Symbol einer Axt.~
+@7001 = ~Das Symbol eines Geldsackes.~
+@7002 = ~Das Symbol eines brennenden Herzens.~
+@7003 = ~Das Symbol einer Krone.~
+@7004 = ~Dies ist die Statue eines Marilith-Dämons, der eine sterbliche Seele in die Lava taucht. Auf einer kleinen Tafel am Rande der Statue steht geschrieben:
+„Dem Stolz ergeben, dem Zorn verfallen,
+die Seele brennt in Lavastrahlen.
+Verlockungen des Abgrunds, tief und heiß
+versinken hier im ew’gen Kreis.“~
+@7005 = ~Das Symbol einer Schlange.~
+@7006 = ~Das Symbol eines Bierkruges.~
+@7007 = ~Ein unbekanntes Symbol.~
+@8090 = ~Der weitere Durchgang ist durch eine ekelhafte Tür versperrt.~
+@8100 = ~Mich hierherzubringen ist ziemlich lächerlich. Ihr solltet froh sein, dass ich noch ein paar Karten in meinem teuflischen Ärmel habe.~
+@8101 = ~Das sollte sie daran hindern zu sehen, wer oder – noch wichtiger – WAS ich bin. Dämonen, Teufel … es wird keine Rolle spielen. Ich habe mich entschieden das auszusitzen.~
+@8102 = ~Aber lasst uns nicht zu lange hier bleiben, Bhaalkind. Das wäre sehr unklug.~
+@8103 = ~Das wird langsam ziemlich problematisch, Bhaalkind. Ich werde weiterhin verbergen, wer ich bin, aber Ihr spielt hier ein gefährliches Spiel.~
+@8104 = ~Ihr Narr! In dieser Gestalt kann ich mich nicht vor ihnen verstecken …~ ~Ihr Närrin! In dieser Gestalt kann ich mich nicht vor ihnen verstecken …~
+@8105 = ~Ihr habt wirklich gedacht, wir würden Euch nicht bemerken, Teufel?~
+@8106 = ~Ich weiß nicht, was Ihr mit ihm vorhattet, aber Vorsicht ist besser als Nachsicht, hahaha!~
+@9000 = ~Lesen~
+@9001 = ~Langsam steigt Ihr die Stufen der Endlosen Treppe empor. Je weiter Ihr geht, desto wirrer und unübersichtlicher wird der Weg, und schon bald wisst Ihr nicht mehr, wo Ihr hergekommen seid. Die Treppenstufen scheinen sich in Form und Bauweise ständig zu verändern, so als ob die verschiedensten Kulturen an ihrer Entstehung beteiligt gewesen wären. Ihr passiert einige seltsam wirkende Portale, doch Ihr wagt es nicht, durch sie hindurchzuschreiten, denn es ist ungewiss, was Euch dahinter erwarten könnte. Mit der Zeit gewöhnt Ihr Euch an diese seltsame, fremdartige Umgebung, und Euer Schritt wird wieder sicherer. Verbissen denkt Ihr an die Aufgabe, die vor Euch liegt, und trotz Eurer Müdigkeit treibt Euch die Ungewissheit immer weiter.~ [AC#WNAR1]
+@9002 = ~Ihr habt es tatsächlich geschafft. Waukeen ist befreit und als Göttin ins Pantheon zurückgekehrt. Ihr könnt die Tragweite dieser Tat noch nicht ermessen, und so erfreut Ihr Euch zunächst an den Feierlichkeiten, die in der Abtei zu Ehren der Rückkehr der Göttin abgehalten werden. Ein rauschendes Fest, viel Jubel und ein strahlendes Feuerwerk lassen Euch die Strapazen der vergangenen Tage vergessen. Nach dem Fest kehrt wieder Ruhe in die Abtei ein, und jeder geht wieder seinem Geschäft nach. Es ist Zeit für Euch, zu neuen Aufgaben aufzubrechen – auch wenn Ihr wisst, dass Ihr in der Abtei Waukeens stets willkommen sein werdet.~ [AC#WNAR2]
+@9003 = ~Ihr seid mit der Befreiung Waukeens gescheitert. Die Qualen, die Ihr im Abyss erleiden werdet, werden unvorstellbar sein. Dennoch war Euer Versuch ehrenhaft und Eure Taten werden in den Reichen der Sterblichen noch eine Weile nachklingen. Welches Schicksal Graz’zt schlussendlich mit Euch vorhat, bleibt abzuwarten, es wird jedoch kein gutes sein.~ [AC#WNAR3]
+@10000 = ~Hilfe! Was geschieht mit mir? Mein Körper wird ganz schwer …~
+@19000 = ~Dieses Portal scheint nur in eine Richtung zu funktionieren. Ihr müsst Euch anderen Weg zurück nach Faerûn suchen.~
+@30000 = ~Die Tür wurde bereits geöffnet. Sonst gibt es an der Maschine nichts mehr zu tun.~
+@30001 = ~Achtung, <PRO_HESHE> kommt! Macht Euch bereit!~
+@40000 = ~Dieser Ausgang führt in die Außenlande vor der Stadt. Ohne ein genaues Ziel vor Augen wäre ein Abstecher in diese Gegenden Euer sicherer Tod.~
+@40002 = ~Ihr tretet durch den Feuerofen in der Hoffnung, dass dieser Euch in Waukeens Gefängnis bringt.~
+@43000 = ~Bei genauerem Hinsehen bemerkt Ihr, dass an dieser Stelle die Wand mehrmals abgewischt wurde. Ihr meint, die schemenhaften Umrisse einer Hand erkennen zu können.~
+@43001 = ~Ihr schneidet Euch in die Handfläche und malt mit Eurem eigenen Blut das Symbol einer Hand an die Wand. Dadurch scheint sich eine Art Mechanismus zu aktivieren.~
+@43002 = ~Ein Teil dieser Wand scheint kürzlich manipuliert worden zu sein …~
+@43003 = ~In dieser Taverne erklingt ein unaufhörliches Wehklagen, das eine beklemmende Unruhe in Euch auslöst und schwer auf Eurem Gemüt lastet.~
+@48000 = ~Nun, da alle Mitglieder der Planaren Gilde tot sind, habt Ihr einen sicheren Ort zum Rasten.~
+@49000 = ~Die Schlüsselteile formen sich zu einem vollständigen Schlüssel.~
+@49100 = ~Achtung, es geht los! Runde eins …~
+@49101 = ~ Runde zwei …~
+@49102 = ~ Runde drei!~
+@50000 = ~Euer Zauber wurde durch den Abyss korrumpiert.~
+@50001 = ~Diese Höhle führt nur einige fußbreit in den Fels hinein und endet dort. Dennoch sieht es so aus, als sei häufig ein großes Wesen ein und aus gegangen.~
+@50002 = ~Dies scheint der Bereich zu sein, aus dem der Dämonenjäger gekommen ist. Zahlreiche Netze zeugen von seiner regen Aktivität. Vielleicht könnt Ihr das Tanar’ri-Horn so platzieren, dass sich das Portal öffnet.~
+@50003 = ~Ohne das Pentakel in Eurem Inventar scheint der Feuerofen nicht aktiviert werden zu können.~
+@50004 = ~Zum Nabassu-Unterschlupf~
+@50005 = ~Nach Yemach~
+@50006 = ~Schrei~ [AC#VARGS]
+@51000 = ~Die Wände und der Boden dieses Ganges sind mit dicken, klebrigen Fäden ausgekleidet, die Euch im Vorankommen sehr behindern und an die Netze einer Spinne erinnern. Allerdings muss das Wesen, das diese Fäden gesponnen hat, wesentlich größer sein.~
+@52000 = ~Endlich Frieden …~
+@52001 = ~Ihr füllt ein wenig der konzentrierten Säure in den Helm.~
+@52002 = ~Ihr gießt die Säure aus dem Helm über das Metall, welches sofort zu schmelzen beginnt.~
+@52003 = ~Ihr gießt die Säure über das Metall, welches sofort zu schmelzen beginnt.~
+@52004 = ~Der Käfig hat zwar keine erkennbare Tür, scheint aber von der Säure dieses Ortes in der Vergangenheit bereits angegriffen worden zu sein.~
+@52005 = ~In diesem Tümpel befindet sich starke Säure. Mit dem richtigen Gegenstand könntet Ihr gefahrlos ein wenig davon einsammeln, ansonsten müsstet Ihr die Säure mit den bloßen Händen aufnehmen, was Euch ziemlich schnell die Haut verätzen würde.~
+@70000 = ~Das Portal scheint nur in eine Richtung zu funktionieren.~
+@70001 = ~Das Portal ist noch inaktiv. Vielleicht müsst Ihr erst eine Aufgabe abschließen, bevor Ihr diesen Weg nehmen könnt.~
+@70002 = ~Ihr pflückt die Rose. Da sie voller Stacheln ist, stecht Ihr Euch dabei in den Finger.~
+@70003 = ~Dies scheint die Rose des Abyss zu sein. Ihr müsst näher herantreten, um sie pflücken zu können.~
+@70004 = ~Dies scheint die Rose des Abyss zu sein. Wenn Ihr wollt, könnt Ihr sie pflücken.~
+@71000 = ~Die zwei Teile der Kette verbinden sich auf magische Weise zu einem vollständigen Anhänger. Ihr habt das Gefühl, dass der Anhänger es Euch ermöglichen könnte, die Kammer wieder zu verlassen.~
+@71001 = ~Durch den Besitz des Anhängers hat sich das Ausgangsportal geöffnet.~
+@72000 = ~Ihr werft das Stück Knochen in den Bottich. Die Brühe kocht kurz auf, dann öffnet sich das Ausgangsportal.~
+@80000 = ~Das Portal scheint nur in einer Richtung zu funktionieren. Ihr müsst Euch einen anderen Ausgang suchen.~
+@80001 = ~Dieser frisch sezierten Leiche hat man das Herz herausgeschnitten. Irgendetwas scheint in dem dadurch entstandenen Loch im Brustkorb zu stecken.~
+@80002 = ~Diese widerliche Maschine ist mit zahlreichen Leichen verschiedener Form und Größe gefüllt. Welchen Zweck sie hat, entzieht sich Eurer Vorstellungskraft.~
+@80003 = ~Ihr habt das Schmählied Graz’zts gelernt, welches Euch Mut machen kann, so lange Ihr in Graz’zts Reich im Abyss weilt.~
+@80004 = ~Ihr seid mit der Rettung Waukeens gescheitert.~
+@89000 = ~Als Ihr die organische Masse betretet, die den Gang vor Euch auskleidet, schwappt ein Gefühl von überwältigender Bosheit über Euch herein. Die Wände scheinen leicht zu pulsieren und sich fast unmerklich zu bewegen, und Ihr fragt Euch mit einem aufkeimenden Gefühl des Entsetzens, ob Ihr gerade irgendeine abscheuliche Form von Lebewesen betreten habt.~
+@89001 = ~Euch bleiben noch achtzehn Minuten, um Waukeen zu retten, bevor es für Euch kein Entrinnen mehr aus dem Abyss gibt.~
+@89002 = ~Euch bleiben noch neun Minuten, um Waukeen zu retten, bevor es für Euch kein Entrinnen mehr aus dem Abyss gibt.~
+@89003 = ~Euch bleiben noch sechs Minuten, um Waukeen zu retten, bevor es für Euch kein Entrinnen mehr aus dem Abyss gibt.~
+@90000 = ~Dies ist die umgekehrte Version von „Schwere Wunden heilen“. Statt das Ziel zu heilen, verursacht der Zauber Schaden.~
+@90001 = ~Das Ziel des Zaubers überkommt ein drohendes Gefühl der Verdammnis. Für die Dauer des Zaubers erhält das Ziel einen Malus von –2 auf alle Würfe (auch auf ETW0- und Rettungswürfe).~
+@90002 = ~Mithilfe dieses Zaubers kann der Zaubernde sein Opfer vergiften, wenn diesem ein Rettungswurf gegen Gift misslingt.~
+@90003 = ~Der schmerzhafte Verfall sorgt dafür, dass das betroffene Wesen rapide dahinsiecht. Es wird zudem automatisch für 2 Runden verlangsamt. Wenn dem Wesen ein Rettungswurf mit einem Malus von –2 gegen Gift misslingt, erleidet es 1 Schadenspunkt pro Sekunde. Der Zauber richtet insgesamt 50 Schadenspunkte an.~
+@90004 = ~Das ist die umgekehrte Version von „Heilung“. Statt das Ziel zu heilen, verursacht der Anwender Schaden. Wenn es dem Anwender gelingt, sein Opfer zu berühren, wird es auf 1 Trefferpunkt reduziert. Nachdem der Zauber gewirkt wurde, muss der Anwender das Opfer mit einem Angriff treffen. Er hat nur 2 Runden Zeit, um diesen Angriff auszuführen, bevor der Zauber seine Wirkung verliert. Falls er einen Angriff ausführt und sein Ziel verfehlt, scheitert der Zauber ebenfalls. Dem Opfer steht kein Rettungswurf zu.~
+@100000 = ~Ihr berührt mit Eurer Hand den Spiegel, und das Glas scheint sich plötzlich zu verflüssigen. Dann werdet Ihr in den Spiegel hineingezogen …~
+@100040 = ~Ohne entsprechende Hilfsmittel könnt Ihr im Abyss keine Elementarwesen herbeirufen.~
+@100090 = ~Als Ihr das Tentakel angreift, kommt plötzlich Bewegung in die fleischige Masse …~
+@100091 = ~Der seltsame Schlund schließt sich kurz und scheint das Organ gierig zu verschlingen. Kurz darauf kommt Bewegung in die amorphe Masse vor Euch, und das Gewebe gibt den weiteren Weg frei.~
+@100092 = ~Mit einem sauberen Hieb durchtrennt Ihr den Fangarm. Der Griff der Tentakel um die gefangene Waukeen scheint sich zu lockern.~

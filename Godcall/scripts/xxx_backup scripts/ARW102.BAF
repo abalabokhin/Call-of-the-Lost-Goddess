@@ -1,0 +1,96 @@
+IF
+	Global("AC_Accepted","GLOBAL",2)
+THEN
+	RESPONSE #100
+		ClearAllActions()
+		StartCutSceneMode()
+		FadeToColor([20.0],0)
+		Wait(1)
+		MoveViewPoint([1235.816],INSTANT)
+		ActionOverride(Player1,JumpToPoint([1069.788]))
+		ActionOverride(Player2,JumpToPoint([1069.788]))
+		ActionOverride(Player3,JumpToPoint([1069.788]))
+		ActionOverride(Player4,JumpToPoint([1069.788]))
+		ActionOverride(Player5,JumpToPoint([1069.788]))
+		ActionOverride(Player6,JumpToPoint([1069.788]))
+		ActionOverride("ACKYRIAN",JumpToPoint([1131.820]))
+		ActionOverride("actharun",JumpToPoint([1235.816]))
+		Wait(1)
+		FadeFromColor([20.0],0)
+		Wait(1)
+		SetGlobal("AC_Accepted","GLOBAL",3)
+		ActionOverride("ACKYRIAN",StartDialogueNoSet([PC]))
+END
+
+IF
+	Global("AC_Accepted","GLOBAL",4)
+THEN
+	RESPONSE #100
+		ClearAllActions()
+		StartCutSceneMode()
+		SetGlobal("AC_Accepted","GLOBAL",5)
+		Wait(1)
+		ActionOverride("ACKYRIAN",ForceSpell(Myself,DO_NOTHING))
+		PlaySound("ARE_M15")
+		Wait(3)
+		CreateVisualEffectObject("SPDIMNDR",Player1)
+		CreateVisualEffectObject("SPDIMNDR",Player2)
+		CreateVisualEffectObject("SPDIMNDR",Player3)
+		CreateVisualEffectObject("SPDIMNDR",Player4)
+		CreateVisualEffectObject("SPDIMNDR",Player5)
+		CreateVisualEffectObject("SPDIMNDR",Player6)
+		CreateVisualEffectObject("SPDIMNDR","ACKYRIAN")
+		Wait(4)
+		FadeToColor([20.0],0)
+		Wait(1)
+		PlaySound("PORTAL2")
+		Wait(2)
+		ActionOverride(Player1,LeaveAreaLUAPanic("ARW120","",[381.817],10))
+		ActionOverride(Player1,LeaveAreaLUA("ARW120","",[381.817],10))
+		ActionOverride(Player2,LeaveAreaLUA("ARW120","",[381.817],10))
+		ActionOverride(Player3,LeaveAreaLUA("ARW120","",[381.817],10))
+		ActionOverride(Player4,LeaveAreaLUA("ARW120","",[381.817],10))
+		ActionOverride(Player5,LeaveAreaLUA("ARW120","",[381.817],10))
+		ActionOverride(Player6,LeaveAreaLUA("ARW120","",[381.817],10))
+		MultiPlayerSync()
+		EndCutSceneMode()
+END
+
+IF
+	Global("AC_VisitHalanna","GLOBAL",1)
+THEN
+	RESPONSE #100
+		ClearAllActions()
+		ActionOverride("actharun",MoveToPointNoInterrupt([1175.1421]))
+		Wait(2)
+		SetGlobal("AC_VisitHalanna","GLOBAL",2)
+END
+
+IF
+	Global("AC_Kyriani","GLOBAL",1)
+THEN
+	RESPONSE #100
+		ClearAllActions()
+		StartCutSceneMode()
+		Wait(1)
+		OpenDoor("Secret01")
+		OpenDoor("Secret02")
+		OpenDoor("Secret03")
+		OpenDoor("Secret04")
+		CreateCreature("ACKYRIAN",[997.1282],0) // Kyriani
+		SetGlobal("AC_Kyriani","GLOBAL",2)
+		ActionOverride("ACKYRIAN",MoveToPoint([1001.1411]))
+		Wait(1)
+		ActionOverride("ACKYRIAN",Dialogue(Player1))
+END
+
+IF
+	Global("AC_VisitHalanna","GLOBAL",3)
+THEN
+	RESPONSE #100
+		Wait(2)
+		SetGlobal("AC_VisitHalanna","GLOBAL",4)
+		ActionOverride("actharun",StartDialogueNoSet(Player1))
+END
+
+

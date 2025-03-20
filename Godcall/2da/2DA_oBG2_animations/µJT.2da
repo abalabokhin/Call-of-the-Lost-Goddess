@@ -1,0 +1,41 @@
+µJT /CUV_PST_VARGOUILLE
+***
+                 SOUND
+ATTACK           AC#VARG3 AC#VARG5
+ATTACK           0 0
+AWAKE            ***
+AWAKE            0
+CAST             ***
+CAST             0
+CONJURE          ***
+CONJURE          0
+DAMAGE           AC#VARG7 AC#VARG6
+DAMAGE           0 0
+DIE              AC#VARG8 nosound
+DIE              0
+HEAD_TURN        ***
+HEAD_TURN        0
+READY            AC#VARG2
+READY            0
+SHOOT            ***
+SHOOT            0 0
+TWITCH           ***
+TWITCH           0
+WALK             AC#VARG2
+WALK             0
+ATTACK_SLASH     AC#VARG3
+ATTACK_SLASH     0
+ATTACK_BACKSLASH AC#VARG5
+ATTACK_BACKSLASH 0
+ATTACK_JAB       ***
+ATTACK_JAB       0
+EMERGE           ***
+EMERGE           0
+HIDE             ***
+HIDE             0
+SLEEP            ***
+SLEEP            0
+Battle_Cry       AC#VARG1 nosound
+Battle_Cry       0 0
+Selection        AC#VARG1 nosound
+Selection        0 0

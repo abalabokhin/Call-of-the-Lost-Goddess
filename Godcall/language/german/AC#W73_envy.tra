@@ -1,0 +1,34 @@
+// game: Call of the Lost Goddess
+// date: 2025-01-14, 19:18
+// Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
+
+@0 = ~Seid gegrüßt, sterbliches Wesen. Ich sehe Eure unruhigen Augen. Was gibt es hier für mich zu holen, fragt Ihr Euch? Was kann ich aus dieser Kammer für mich gewinnen? Nun, ich habe ein großzügiges Angebot für Euch, hört zu.~ [OGREM01.WAV]
+@1 = ~Seht Ihr diesen alten, kranken Mann neben mir? Macht Euch nicht die Mühe, mit ihm sprechen zu wollen. Ich habe ihm die Zunge herausgeschnitten, und er kann Euch auch nicht hören. Er hat aber etwas, das Ihr für Euch beanspruchen könntet. Ihm gehört ein magischer Ring. Ein MÄCHTIGER magischer Ring. Das einzig Wertvolle, das ihm an diesem Ort geblieben ist. Doch wozu braucht er ihn hier? Der Ring könnte Euch gehören. Er SOLLTE Euch gehören!~
+@2 = ~Warum nehmt Ihr ihn Euch nicht einfach? Es wäre so leicht, den Mann hier umzubringen. Niemand würde es sehen, niemand würde es hören. Und Ihr hättet diesen mächtigen magischen Ring, der Euch bei Euren weiteren Abenteuern im Abyss von großem Nutzen wäre.~
+@3 = ~Ein plumper Versuch, in einem Sterblichen Neid heraufzubeschwören, mehr nicht. Von einem Dämon an solch einem Ort hätte ich Besseres erwartet.~ ~Ein plumper Versuch, in einer Sterblichen Neid heraufzubeschwören, mehr nicht. Von einem Dämon an solch einem Ort hätte ich Besseres erwartet.~
+@4 = ~Warum sollte ein alter Mann einen mächtigen Gegenstand besitzen? Nichts als Lügen, um uns zu verunsichern.~
+@5 = ~Ihr glaubt doch nicht allen Ernstes, Dämon, dass ich – ein Paladin – zulassen würde, dass hier irgendjemand einen Ring über das Leben eines anderen stellt. Verschwindet mitsamt Euren boshaften Absichten!~
+@6 = ~Ich soll jemanden umbringen, um mich seiner Gegenstände zu bereichern? So etwas tue ich nicht!~
+@7 = ~Ich weiß nicht …~
+@8 = ~Woher weiß ich, dass Ihr mich nicht betrügt?~
+@9 = ~Ihr habt recht. Es wäre eine Schande, wenn dieser Ring in dem Besitz eines so alten und zerbrechlichen Wesens bleiben würde.~
+@10 = ~Ihr habt es getan! Ihr es wahrlich getan! Fabelhaft! Ihr habt die Aufgabe bestanden, der Ausgang steht Euch offen. Damit ist meine Aufgabe hier vollbracht und ich verschwinde …~
+@11 = ~Warum sollte ich das tun? Meine Aufgabe ist es, Sterbliche vom naiv-rechtschaffenen Weg abzubringen, nicht, sie zu betrügen.~
+@12 = ~Wegen eines Ringes soll kein Leben enden!~
+@13 = ~Gut, ich bringe den Mann um und nehme den Ring.~
+@14 = ~Was trödelt Ihr hier so herum? Tötet den alten Mann, schnappt Euch den Ring! Er sollte Euch gehören!~
+@15 = ~Ich werde für einen Ring niemanden töten.~
+@16 = ~Nun, was ist? Habt Ihr Euch den Ring genau angesehen? Habt Ihr gesehen, wie mächtig er ist und wie schön er funkelt? Wie viel besser es wäre, wenn Ihr den Ring besitzen würdet? Wie schade, dass er jetzt zu seinem unrechtmäßigen Besitzer zurück muss …~
+@17 = ~Oder möchtet Ihr ihn gerne behalten?~
+@18 = ~Nehmt diesen verfluchten Ring, ich will ihn nicht!~
+@19 = ~In der Tat, ich habe nicht vor, ihn zurückzugeben.~
+@20 = ~Wie schade. Nichtsdestoweniger, der Ausgang steht Euch offen. Ich nehme das Leben des alten Mannes und verschwinde. Und Ihr müsst Euch mit Euren eigenen, von Neid zerfressenen Sehnsüchten auseinandersetzen.~
+@21 = ~Eine weise Entscheidung. Neid ist die schönste aller Unarten, weil man sofort belohnt wird, wenn man Ihr nachgibt, wisst Ihr? Ihr habt die Aufgabe bestanden, der Ausgang steht Euch offen. Behaltet den Ring, ich nehme das Leben des alten Mannes und verschwinde …~
+@22 = ~Oh, Ihr habt ihn nicht mehr! Ihr habt ihn wohl versteckt? Fallen gelassen, um ihn später wieder aufnehmen zu müssen? Na, Ihr seid aber schlaues <PRO_RACE>chen! Alle Achtung. Nun gut, Ihr habt die Aufgabe bestanden, der Ausgang steht Euch offen. Lebt wohl. Den alten Mann brauche ich nicht mehr. Kann mir jederzeit einen neuen suchen …~
+@23 = ~Nun, was ist? Habt Ihr es Euch überlegt?~
+@24 = ~Aber denkt doch einmal nach. Spürt Ihr nicht, wie gerne Ihr diesen Ring haben möchtet? Wie leichter Euch viele Kämpfe fallen würden, wenn Ihr Euch seiner bemächtigen würdet?~
+@25 = ~Hier, der Mann leiht Euch den Ring einmal aus. Schaut ihn Euch an, bevor er ihn wieder zurückfordert …~
+@26 = ~Nein, behaltet den Ring, ich will ihn nicht.~
+@27 = ~Ich kann ihn mir ja einmal anschauen …~
+@28 = ~Richtig, richtig, ein kurzer Blick kann ja nicht schaden. Aber beeilt Euch, denn Ihr müsst den Ring in Kürze wieder zurückgeben …~
+@29 = ~Dann beeilt Euch, bevor sich den Ring jemand anderes nimmt!~

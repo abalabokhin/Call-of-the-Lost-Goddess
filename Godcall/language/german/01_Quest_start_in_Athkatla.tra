@@ -1,0 +1,52 @@
+// game: Call of the Lost Goddess
+// date: 2025-01-14, 19:18
+// Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
+
+@0 = ~Der Tempel Waukeens benötigt Eure Hilfe, <LADYLORD>. Kommt und seid Teil einer göttlichen Mission, die unsere Göttin uns auferlegt hat!~
+@1 = ~Klar, ich bin ganz Ohr. Worum geht es?~
+@2 = ~Schert Euch fort! Ich habe es satt, ständig für irgendwelche Gotteshäuser arbeiten zu müssen.~
+@3 = ~Ich weiß nicht, um welchen Auftrag es sich handelt. Ich soll vorbeiziehenden Abenteurern lediglich mitteilen, dass man ihre Hilfe im Tempel der Waukeen hier im Regierungsviertel benötigt.~
+@4 = ~Gut, ich werde mich bei Gelegenheit dorthin begeben. Danke für die Nachricht.~
+@5 = ~Nein, kein Interesse.~
+@6 = ~Habt Dank. Der Eingang ist gleich hinter mir. Gehabt Euch wohl.~
+@7 = ~Ich bitte Euch, <LADYLORD>, hört mir wenigstens einen Augenblick zu. Die Kirche Waukeens hat einen Auftrag für Euch.~
+@8 = ~Nun, dann muss ich wohl nach anderen Abenteurern suchen, die bereit sind, einer Kirche in Not zu helfen.~
+@9 = ~Oh, deswegen seid Ihr hier! Es ist schön, dass Ihr dem Ruf meiner Kirche gefolgt seid.~
+@10 = ~In der Tat, wir brauchen Eure Hilfe – sofern ich das beurteilen kann – dringend, denn ich weiß selbst nur wenig über die Ereignisse der jüngsten Tage. Seit kurzer Zeit herrscht große Hektik in der Kirche der Herrin der Münzen. Unser Oberhaupt, der Goldvater Tharundar Olehm, hat an alle unsere heiligen Stätten in Amn einen Hilferuf ausgesandt. Es werden dringend fähige Abenteurer gesucht, die die Kirche bei einer heiligen Mission unterstützen sollen.~
+@11 = ~Und was für eine heilige Mission soll das sein?~
+@12 = ~Klingt schon einmal gut.~
+@13 = ~Um ehrlich zu sein, ich kann Euch darüber keine Auskunft geben. Unsere Oberen haben uns darüber im Unklaren gelassen – ich vermute, um die gesamte Kirche nicht zu verunsichern. Doch man erzählt sich unter den Priestern die wildesten Gerüchte, wie Ihr Euch sicher vorstellen könnt. Ich möchte mich aber nicht an derartigen Spekulationen beteiligen, denn sie heizen die ganze Sache nur unnötig auf.~
+@14 = ~Ich habe schon viel von Euch gehört. Ihr habt Euch in Athkatla einen exzellenten Ruf als Abenteurer verdient. Ich denke, Ihr wäret für die Aufgabe, was immer es auch sein möge, gut geeignet.~ ~Ich habe schon viel von Euch gehört. Ihr habt Euch in Athkatla einen exzellenten Ruf als Abenteurerin verdient. Ich denke, Ihr wäret für die Aufgabe, was immer es auch sein möge, gut geeignet.~
+@15 = ~Ich habe schon von Euch gehört. Ihr habt einiges Gutes für die Stadt getan, und um ehrlich zu sein, ist es im Moment nicht gerade einfach, überhaupt fähige Abenteurer zu finden.~
+@16 = ~Ihr habt Euch nicht gerade besonders beliebt gemacht, seit Ihr hier in Athkatla aufgetaucht seid. Aber angesichts der Dringlichkeit des Unternehmens muss ich wohl oder übel darüber hinwegsehen.~
+@17 = ~Euer Name ist auch bei einer Unterredung mit Sir Ryan Trawl gefallen, als ich mich vor Kurzem mit ihm unterhielt. Ihr scheint vor einiger Zeit seinen Orden tatkräftig unterstützt zu haben, deshalb denke ich, Ihr könntet auch unserer Aufgabe gewachsen sein.~
+@18 = ~Außerdem habt Ihr, wie ich hörte, vor einiger Zeit den Tempel Helms tatkräftig unterstützt, deshalb denke ich, Ihr könntet auch unserer Kirche von Hilfe sein.~
+@19 = ~Nun, genug der Vorrede. Ich möchte Euch bitten, zu unserer Kathedrale der Goldspitzen nördlich von Athkatla zu reisen. Dort werden die Obersten unserer Kirche entscheiden, ob Ihr für ihre Mission geeignet seid.~
+@20 = ~Moment! Ich habe noch gar nicht zugestimmt. Was ist, wenn ich gar nicht will?~
+@21 = ~Einverstanden. Ich bin mir sicher, dass ich für diese Aufgabe bestens geeignet bin.~
+@22 = ~Es wäre mir eine Ehre, für Eure Kirche arbeiten zu dürfen. Ich werde mich sofort auf den Weg machen.~
+@23 = ~Ich kann Euch natürlich zu nichts zwingen, <CHARNAME>. Doch ich bitte Euch, besucht wenigstens einmal die Kathedrale und hört Euch den Vorschlag meiner Vorgesetzten an.~
+@24 = ~Sehr gut. Ich wusste, dass ich mich auf Euch verlassen kann, <CHARNAME>.~
+@25 = ~Die Abtei der goldenen Dächer liegt nördlich von Athkatla. Haltet Euch entlang der Küste. Nach wenigen Meilen werdet Ihr die Kathedrale erreicht haben. Und nun wünsche ich Euch alles Gute. Wenn Ihr wieder Hilfe benötigt, könnt Ihr Euch jederzeit an meinen kleinen Tempel wenden.~
+@26 = ~Mein Name ist <CHARNAME>. Ich bin gekommen, weil mich ein Mitglied Eurer Kirche angesprochen hat. Er sagte, Ihr bräuchtet Hilfe von Abenteurern?~
+@27 = ~Seid gegrüßt, Abenteurer. Ich nehme an, Ihr seid nicht grundlos in diesem Tempel gewesen, nicht wahr? Ihr sollt wohl für die Kirche Waukeens einen Auftrag ausführen, habe ich Recht?~ ~Seid gegrüßt, Abenteurerin. Ich nehme an, Ihr seid nicht grundlos in diesem Tempel gewesen, nicht wahr? Ihr sollt wohl für die Kirche Waukeens einen Auftrag ausführen, habe ich Recht?~
+@28 = ~Ja, genau. Warum fragt Ihr?~
+@29 = ~Ich wüsste nicht, was das Euch angehen sollte.~
+@30 = ~Nun, ich möchte Euch nur davor warnen, Euch weiter mit dieser Angelegenheit zu befassen. Ich rate Euch sogar dringend, dem Ruf dieser Geldzähler nicht zu folgen.~
+@31 = ~Es könnte … schwerwiegende Folgen für Eure Gesundheit haben, versteht Ihr?~
+@32 = ~Nein, ich verstehe nicht.~
+@33 = ~Ihr wollt mir drohen?~
+@34 = ~Es geht mich sehr wohl etwas an, <CHARNAME>! Und wundert Euch nicht darüber, dass ich Euren Namen weiß, denn ich stelle schon seit längerer Zeit Nachforschungen über die Aktivitäten der Waukeen-Priester in Athkatla an.~
+@35 = ~Was wollt Ihr also von mir?~
+@36 = ~Ich denke schon, dass Ihr versteht. Haltet Euch einfach aus der ganzen Sache heraus und macht Euch nie auf den Weg zu den Goldspitzen, und schon werdet Ihr das Zusammentreffen mit mir schnell vergessen. In diesem Sinne, gehabt Euch wohl.~
+@37 = ~Wenn Ihr so wollt, ja. Haltet Euch einfach aus der ganzen Sache heraus und macht Euch nie auf den Weg zu den Goldspitzen, und schon werdet Ihr das Zusammentreffen mit mir schnell vergessen. In diesem Sinne, gehabt Euch wohl.~
+@38 = ~Ich kann mir ja einmal anhören, was sie mir vorschlagen.~
+@39 = ~Ihr seid es! Der Held unserer Kirche! Ihr habt Waukeen zurückgebracht!~
+@40 = ~Der Dank aller Gläubigen ist Euch gewiss, <CHARNAME>. Dank Euch strahlt der goldene Glanz der Herrin der Münzen wieder in unserem Tempel, und ihr Segen nährt den Wohlstand all ihrer Anhänger. Wir fühlen uns geehrt durch Euren Besuch! Aber ich möchte Euch nicht zu lange aufhalten, denn Ihr habt bestimmt Wichtigeres zu tun.~
+@41 = ~Erkennt Ihr mich nicht? Ich bin <CHARNAME>, der Retter Waukeens!~
+@42 = ~Ich hörte, Waukeen sei ins Götterpantheon zurückgekehrt?~
+@43 = ~Oh, Ihr seid es! Bitte verzeiht, <CHARNAME>. Der Held unserer Kirche ist in diesem Tempel natürlich stets willkommen.~
+@44 = ~Das stimmt, es sind glückliche Zeiten. Wenngleich niemand den Namen des Retters unserer Göttin kennt. Es scheint, er ziehe es vor, unerkannt zu bleiben.~
+@45 = ~Was kann ich im Namen der Herrin der Münzen für Euch tun?~
+@46 = ~Möge Waukeen Euch stets mit ihrem goldenen Lächeln segnen!~
+@47 = ~Seid gegrüßt, Wanderer. Ihr tretet in wahrhaft goldenen Zeiten in unseren Tempel. Unsere Herrin der Münzen ist in das Götterpantheon zurückgekehrt! Sie wurde von einem unbekannten Retter aus den Fängen eines Unholdes befreit. Kommt und preist ihren Namen, auf dass Euer Handel erblühen und Eure Geschäfte prosperieren mögen!~

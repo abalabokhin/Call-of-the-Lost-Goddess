@@ -1,0 +1,1693 @@
+// Godcall creature files
+
+COPY ~godcall/cre/AC#WMEZ1.cre~ ~override~  // Mezzoloth: enemy AC#W30
+  SAY NAME1 @1155 SAY NAME2 @1155
+  WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~MEZZOLOTH_ACIFER~))
+  
+COPY ~godcall/cre/AC#WMEZ4.cre~ ~override~  // Mezzoloth: enemy AC#W4c
+  SAY NAME1 @1155 SAY NAME2 @1155
+  WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~MEZZOLOTH_ACIFER~))
+  
+COPY ~godcall/cre/AC#WMEZ6.cre~ ~override~  // Mezzoloth: enemy AC#W60
+  SAY NAME1 @1155 SAY NAME2 @1155
+  WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~MEZZOLOTH_ACIFER~))
+  
+COPY ~godcall/cre/AC#WMEZ8.cre~ ~override~  // Mezzoloth: neutral -> enemy AC#W80
+  SAY NAME1 @1155 SAY NAME2 @1155
+  WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~MEZZOLOTH_ACIFER~))
+
+COPY ~godcall/cre/AC#WHEZ1.cre~ ~override~  // Hezrou #1: enemy AC#W30
+  SAY NAME1 @1152 SAY NAME2 @1152
+  WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~HEZROU_ACIFER~))
+  
+COPY ~godcall/cre/AC#WHEZ8.cre~ ~override~  // Hezrou: neutral -> enemy AC#W80
+  SAY NAME1 @1152 SAY NAME2 @1152
+  WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~HEZROU_ACIFER~))
+
+COPY ~godcall/cre/AC#WRUT1.cre~ ~override~  // Rutterkin #1: Neutral, in Samora AC#W40
+  SAY NAME1 @1151 SAY NAME2 @1151
+  WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~RUTTERKIN_ACIFER~))
+  
+COPY ~godcall/cre/AC#WRUT2.cre~ ~override~  // Rutterkin #2: Enemy
+  SAY NAME1 @1151 SAY NAME2 @1151
+  WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~RUTTERKIN_ACIFER~))
+
+COPY ~godcall/cre/AC#W04S2.cre~ ~override~  // Sariila cutscene
+  SAY NAME1 @1138 SAY NAME2 @1138
+  
+COPY ~godcall/cre/AC#W04G1.cre~ ~override~  // Sariila cutscene guards  
+COPY ~godcall/cre/AC#W04G2.cre~ ~override~  // Sariila cutscene guards 
+
+COPY ~godcall/cre/AC#WBLBO.cre~ ~override~  // Blazing bones
+  SAY NAME1 @1150 SAY NAME2 @1150
+
+COPY ~godcall/cre/AC#WGIFZ.cre~ ~override~  // Zombie Frost Giant
+  SAY NAME1 @1149 SAY NAME2 @1149
+  
+		COPY_EXISTING ~AC#WGIFZ.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#GIANT_FROST_ZOMBIE~))
+		
+
+COPY ~godcall/cre/AC#W80C1.cre~ ~override~  // Cambion Baron in area AC#W80 (Grazzts prison)
+
+/*
+  ADD_MEMORIZED_SPELL ~SPWI203~ #1 ~wizard~ ( 1 ) //detect invisibility
+  ADD_MEMORIZED_SPELL ~SPWI212~ #1 ~wizard~ ( 1 ) //mirror image
+  ADD_MEMORIZED_SPELL ~SPWI224~ #1 ~wizard~ ( 1 ) // glitterdust
+  ADD_MEMORIZED_SPELL ~SPWI304~ #2 ~wizard~ ( 1 ) //fireball
+  ADD_MEMORIZED_SPELL ~SPWI308~ #2 ~wizard~ ( 1 ) // lightning bolt
+  ADD_MEMORIZED_SPELL ~SPWI326~ #2 ~wizard~ ( 1 ) // dispel magic
+  ADD_MEMORIZED_SPELL ~SPWI408~ #3 ~wizard~ ( 1 ) // Stoneskin
+  ADD_MEMORIZED_SPELL ~SPWI421~ #3 ~wizard~ ( 1 ) // Teleport field
+  ADD_MEMORIZED_SPELL ~SPWI502~ #4 ~wizard~ ( 1 ) // Cloudkill
+*/
+
+COPY ~godcall/cre/AC#W61CA.cre~ ~override~  // Cambion Baron in area AC#W61
+/*
+  ADD_MEMORIZED_SPELL ~SPWI203~ #1 ~wizard~ ( 1 ) //detect invisibility
+  ADD_MEMORIZED_SPELL ~SPWI212~ #1 ~wizard~ ( 1 ) //mirror image
+  ADD_MEMORIZED_SPELL ~SPWI224~ #1 ~wizard~ ( 1 ) // glitterdust
+  ADD_MEMORIZED_SPELL ~SPWI304~ #2 ~wizard~ ( 1 ) //fireball
+  ADD_MEMORIZED_SPELL ~SPWI308~ #2 ~wizard~ ( 1 ) // lightning bolt
+  ADD_MEMORIZED_SPELL ~SPWI326~ #2 ~wizard~ ( 1 ) // dispel magic
+  ADD_MEMORIZED_SPELL ~SPWI408~ #3 ~wizard~ ( 1 ) // Stoneskin
+  ADD_MEMORIZED_SPELL ~SPWI421~ #3 ~wizard~ ( 1 ) // Teleport field
+  ADD_MEMORIZED_SPELL ~SPWI502~ #4 ~wizard~ ( 1 ) // Cloudkill
+*/
+COPY ~godcall/cre/AC#W60D1.cre~ ~override~  // Disciple of Baalzebul
+  SAY NAME1 @1148 SAY NAME2 @1148
+  SAY BATTLE_CRY1 @1311
+  SAY BATTLE_CRY2 @1312
+  SAY BATTLE_CRY3 @1313
+  SAY BATTLE_CRY4 @1314
+//ADD_MEMORIZED_SPELL ~SPPR517~ #4 ~priest~ ( 1 ) // Insect Plague
+
+COPY ~godcall/cre/AC#W60T1.cre~ ~override~  // Blood war Tanar'ruk (goodbutblue; Tanarri side)
+  SAY NAME1 @1052 SAY NAME2 @1052
+
+COPY ~godcall/cre/AC#W60M6.cre~ ~override~  // Blood war mercenary (goodbutblue; Tanarri side)
+  SAY NAME1 @1147 SAY NAME2 @1147
+
+COPY ~godcall/cre/AC#W60M4.cre~ ~override~  // Blood war mercenary (goodbutblue; Tanarri side)
+  SAY NAME1 @1147 SAY NAME2 @1147
+
+COPY ~godcall/cre/AC#W60M2.cre~ ~override~  // Blood war mercenary (goodbutblue; Tanarri side)
+  SAY NAME1 @1147 SAY NAME2 @1147
+
+COPY ~godcall/cre/AC#W60M7.cre~ ~override~  // Blood war mercenary (enemy; Baatezu side)
+  SAY NAME1 @1147 SAY NAME2 @1147
+  SAY BATTLE_CRY1 @1311
+  SAY BATTLE_CRY2 @1312
+  SAY BATTLE_CRY3 @1313
+  SAY BATTLE_CRY4 @1314
+
+COPY ~godcall/cre/AC#W60M5.cre~ ~override~  // Blood war mercenary (enemy; Baatezu side)
+  SAY NAME1 @1147 SAY NAME2 @1147
+  SAY BATTLE_CRY1 @1311
+  SAY BATTLE_CRY2 @1312
+  SAY BATTLE_CRY3 @1313
+  SAY BATTLE_CRY4 @1314
+
+COPY ~godcall/cre/AC#W60M3.cre~ ~override~  // Blood war mercenary (enemy; Baatezu side)
+  SAY NAME1 @1147 SAY NAME2 @1147
+  SAY BATTLE_CRY1 @1311
+  SAY BATTLE_CRY2 @1312
+  SAY BATTLE_CRY3 @1313
+  SAY BATTLE_CRY4 @1314
+
+COPY ~godcall/cre/AC#W60M1.cre~ ~override~  // Blood war mercenary (enemy; Baatezu side)
+  SAY NAME1 @1147 SAY NAME2 @1147
+  SAY BATTLE_CRY1 @1311
+  SAY BATTLE_CRY2 @1312
+  SAY BATTLE_CRY3 @1313
+  SAY BATTLE_CRY4 @1314
+  
+COPY ~godcall/cre/AC#W4WG4.cre~ ~override~  // Diirmdliin Sharpshaver, derro fighter / thief in Weeping Goddess area
+  SAY NAME1 @1146 SAY NAME2 @1146
+
+COPY ~godcall/cre/AC#W4WG3.cre~ ~override~  // Zarak Dreadshield, drow mage in Weeping Goddess area
+  SAY NAME1 @1145 SAY NAME2 @1145
+  ADD_MEMORIZED_SPELL ~SPWI306~ #2 ~wizard~ ( 1 ) // hold person
+  ADD_MEMORIZED_SPELL ~SPWI312~ #2 ~wizard~ ( 1 ) // slow
+  ADD_MEMORIZED_SPELL ~SPWI408~ #3 ~wizard~ ( 2 ) // Stoneskin
+  ADD_MEMORIZED_SPELL ~SPWI411~ #3 ~wizard~ ( 1 ) // Emotion: Hopelessness
+
+COPY ~godcall/cre/AC#W4WG2.cre~ ~override~  // Vexor Bloodtusk, fighter in Weeping Goddess area
+  SAY NAME1 @1144 SAY NAME2 @1144
+
+COPY ~godcall/cre/AC#W4WGF.cre~ ~override~  // Grimwald Gorefist, dwarven berserker in Weeping Goddess area
+  SAY NAME1 @1143 SAY NAME2 @1143
+
+COPY ~godcall/cre/AC#WBLKG.cre~ ~override~  // Morloth Darkblade (Dunkelschwert) Blackguard, attacking in AC#W70
+  SAY NAME1 @1142 SAY NAME2 @1142
+  
+COPY ~godcall/cre/AC#WBLK2.cre~ ~override~  // Morloth Darkblade (Dunkelschwert) Blackguard in Samora AC#W40
+  SAY NAME1 @1142 SAY NAME2 @1142  
+  
+COPY ~godcall/cre/AC#WBOY1.cre~ ~override~  // boy announcing the new merchant after Waukeen's rescue
+
+COPY ~godcall/cre/AC#WMEND.cre~ ~override~  // Nuksheid Rheshan, new merchant after Waukeen's rescue
+  SAY NAME1 @1141 SAY NAME2 @1141
+
+COPY ~godcall/cre/AC#W60E2.cre~ ~override~  //  Erinyes Baroness
+  SAY NAME1 @1140 SAY NAME2 @1140
+
+COPY ~godcall/cre/AC#W04ST.cre~ ~override~  //  Sariila Tebrentan (traitor)
+  SAY NAME1 @1138 SAY NAME2 @1138
+  
+COPY ~godcall/cre/AC#W40M1.cre~ ~override~ // dretch #1 with mage in AC#W40
+ SAY NAME1 @1051 SAY NAME2 @1051
+ // for EE, patch animation
+    
+    COPY_EXISTING ~AC#W40M1.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~DRETCH_ACIFER~))
+    
+    
+COPY ~godcall/cre/AC#W40MD.cre~ ~override~ // dretch #2 with mage in AC#W40
+ SAY NAME1 @1051 SAY NAME2 @1051
+ // for EE, patch animation
+    
+    COPY_EXISTING ~AC#W40MD.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~DRETCH_ACIFER~))
+        
+
+COPY ~godcall/cre/AC#WMAUR.cre~ ~override~ //  Maurezhi
+ // for EE, patch animation
+    
+    COPY_EXISTING ~AC#WMAUR.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~GHAST~))
+    
+
+COPY ~godcall/cre/AC#W40MG.cre~ ~override~  // mage with dretches in AC#W40
+  SAY NAME1 @1139 SAY NAME2 @1139
+
+COPY ~godcall/cre/AC#W50C1.cre~ ~override~  // Tree of Cowards
+  SAY NAME1 @5000 SAY NAME2 @5000
+  SAY INITIAL_MEETING @1290
+  SAY SELECT_COMMON1 @1290
+  SAY SELECT_COMMON2 @1290
+  SAY SELECT_COMMON3 @1290
+  SAY SELECT_COMMON4 @1290
+
+COPY ~godcall/cre/AC#W74KN.cre~ ~override~  // demon knight: test of wrath
+  SAY SELECT_COMMON1 @1219
+  SAY SELECT_COMMON2 @1220
+  SAY SELECT_COMMON3 @1221
+  SAY SELECT_COMMON4 @1219
+
+  SAY BATTLE_CRY1 @1219
+  SAY BATTLE_CRY2 @1220
+  SAY BATTLE_CRY3 @1221
+  SAY BATTLE_CRY4 @1219
+  SAY BATTLE_CRY5 @1220
+  
+COPY ~godcall/cre/AC#W74K2.cre~ ~override~  // demon knight: test of wrath  creature#2
+  SAY SELECT_COMMON1 @1219
+  SAY SELECT_COMMON2 @1220
+  SAY SELECT_COMMON3 @1221
+  SAY SELECT_COMMON4 @1219
+
+  SAY BATTLE_CRY1 @1219
+  SAY BATTLE_CRY2 @1220
+  SAY BATTLE_CRY3 @1221
+  SAY BATTLE_CRY4 @1219
+  SAY BATTLE_CRY5 @1220
+
+COPY ~godcall/cre/AC#W41BK.cre~ ~override~  // Sodden solar innkeeper: "Illkeeper Mutz"
+ SAY NAME1 @1137 SAY NAME2 @1137
+  SAY INITIAL_MEETING @1214
+  SAY SELECT_COMMON1 @1214
+  SAY SELECT_COMMON2 @1214
+  SAY SELECT_COMMON3 @1214
+  SAY SELECT_COMMON4 @1214
+
+COPY ~godcall/cre/AC#WHARP.cre~ ~override~  // Harpy
+  SAY NAME1 @1136 SAY NAME2 @1136
+  
+		COPY_EXISTING ~AC#WHARP.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~HARPY~))
+		
+
+COPY ~godcall/cre/AC#W19SE.cre~ ~override~  // Elandra Moonsong in area AC#W19
+  SAY NAME1 @1135 SAY NAME2 @1135
+  SAY INITIAL_MEETING @1256
+  SAY SELECT_COMMON1 @1256
+  SAY SELECT_COMMON2 @1255
+  SAY SELECT_COMMON3 @1256
+  SAY SELECT_COMMON4 @1255
+
+COPY ~godcall/cre/AC#W4WFY.cre~ ~override~  // Val'kreen, Fey'ri in area AC#W4W
+  SAY NAME1 @1134 SAY NAME2 @1134
+
+COPY ~godcall/cre/AC#W4BSM.cre~ ~override~  // Zhornack Gruulhuf, blacksmith in area AC#W4B
+SAY NAME1 @1133 SAY NAME2 @1133
+  SAY INITIAL_MEETING @1280
+  SAY SELECT_COMMON1 @1281
+  SAY SELECT_COMMON2 @1280
+  SAY SELECT_COMMON3 @1281
+  SAY SELECT_COMMON4 @1280
+
+    COPY_EXISTING ~AC#W4BSM.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#BAPHITAUR~))
+    
+
+COPY ~godcall/cre/AC#W44BL.cre~ ~override~  // Balor in Counting house if city turns hostile
+
+COPY ~godcall/cre/AC#W44ML.cre~ ~override~  // Marilith in Counting house if city turns hostile
+
+COPY ~godcall/cre/AC#W06M1.cre~ ~override~  // Amnian merchant
+  SAY NAME1 @1129 SAY NAME2 @1129
+
+COPY ~godcall/cre/AC#W4CFS.cre~ ~override~  // Fallen Aasimon
+  SAY NAME1 @1128 SAY NAME2 @1128
+  SAY BATTLE_CRY1 @1320
+  SAY BATTLE_CRY2 @1320
+  SAY BATTLE_CRY3 @1320
+  SAY BATTLE_CRY4 @1320
+/*
+  ADD_MEMORIZED_SPELL ~SPWI898~ #7 ~wizard~ ( 1 ) //Symbol, Stun
+  ADD_MEMORIZED_SPELL ~SPWI955~ #8 ~wizard~ ( 1 ) //Symbol, Pain
+*/
+COPY ~godcall/cre/AC#WAZEL.cre~ ~override~  // Az'zelbath
+  SAY NAME1 @1127 SAY NAME2 @1127
+  
+		COPY_EXISTING ~AC#WAZEL.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#MERRENOLOTH~))
+		
+
+COPY ~godcall/cre/AC#W4SSU.cre~ ~override~  // Daemevera, Succubus with child
+  SAY NAME1 @1126 SAY NAME2 @1126
+
+COPY ~godcall/cre/AC#W30BD.cre~ ~override~  // dying bard in area AC#W30 (infinite Staircase)
+  SAY NAME1 @1125 SAY NAME2 @1125
+  
+COPY ~godcall/cre/AC#W40ZM.cre~ ~override~  // Zombie town cryer in area AC#W40 (Samora)
+  SAY NAME1 @1130 SAY NAME2 @1130
+
+COPY ~godcall/cre/AC#W70S1.cre~ ~override~  // stone face #1 in chamber of temptation
+  SAY NAME1 @1000 SAY NAME2 @1000
+  
+COPY ~godcall/cre/AC#W70S2.cre~ ~override~  // stone face #2 in chamber of temptation
+  SAY NAME1 @1000 SAY NAME2 @1000
+
+COPY ~godcall/cre/AC#W80DV.cre~ ~override~  // Deva in Waukeen's prison
+  SAY NAME1 @1001 SAY NAME2 @1001
+
+COPY ~godcall/cre/AC#WDRBL.cre~ ~override~ // Tarterian dragon in area AC#W54
+ SAY NAME1 @1002 SAY NAME2 @1002
+
+COPY ~godcall/cre/AC#W73SN.cre~ ~override~ // Envy eater
+ SAY NAME1 @1003 SAY NAME2 @1003
+
+COPY ~godcall/cre/AC#W49P1.cre~ ~override~ // player in area AC#W49
+// for EE, patch animation
+    
+    COPY_EXISTING ~AC#W49P1.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#TIEFLING_MALE~))
+    
+
+COPY ~godcall/cre/AC#WABSR.cre~ ~override~ // red abishai
+ SAY NAME1 @1004 SAY NAME2 @1004
+// for EE, patch animation
+    
+    COPY_EXISTING ~AC#WABSR.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~ABISHAI_RED~))
+    
+COPY ~godcall/cre/AC#W76B5.cre~ ~override~ // veteran in area AC#W76
+ SAY NAME1 @1005 SAY NAME2 @1005
+   // for EE, patch animation
+    
+    COPY_EXISTING ~AC#W76B5.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~FIGHTER_MALE_HUMAN~))
+    
+
+COPY ~godcall/cre/AC#W76B4.cre~ ~override~ // rejected orphan in area AC#W76
+ SAY NAME1 @1006 SAY NAME2 @1006
+
+COPY ~godcall/cre/AC#W76B3.cre~ ~override~ // desperate father in area AC#W76
+ SAY NAME1 @1007 SAY NAME2 @1007
+
+COPY ~godcall/cre/AC#W76B2.cre~ ~override~ // sick widow in area AC#W76
+ SAY NAME1 @1008 SAY NAME2 @1008
+  // for EE, patch animation
+    
+    COPY_EXISTING ~AC#W76B2.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~FAT_WOMAN~))
+    
+
+COPY ~godcall/cre/AC#W76B1.cre~ ~override~ // poor farmer in area AC#W76
+ SAY NAME1 @1009 SAY NAME2 @1009
+
+COPY ~godcall/cre/AC#W76DM.cre~ ~override~ // demon in area AC#W76
+ SAY INITIAL_MEETING @1215
+  SAY SELECT_COMMON1 @1215
+  SAY SELECT_COMMON2 @1215
+  SAY SELECT_COMMON3 @1215
+  SAY SELECT_COMMON4 @1215
+
+COPY ~godcall/cre/AC#W4DDR.cre~ ~override~ // dretch with flask in area AC#W7D
+ SAY NAME1 @1010 SAY NAME2 @1010
+ // for EE, patch animation
+    
+    COPY_EXISTING ~AC#W4DDR.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~DRETCH_ACIFER~))
+    
+
+COPY ~godcall/cre/AC#W77T2.cre~ ~override~ // dreamer in area AC#W77
+ SAY NAME1 @1011 SAY NAME2 @1011
+
+COPY ~godcall/cre/AC#W77T1.cre~ ~override~ // dreamer in area AC#W77
+ SAY NAME1 @1012 SAY NAME2 @1012
+
+COPY ~godcall/cre/AC#W70P1.cre~ ~override~ // Palrethee in area AC#W70
+ SAY NAME1 @1013 SAY NAME2 @1013
+
+COPY ~godcall/cre/AC#W77S1.cre~ ~override~ // dreamstalker in in area AC#W77
+ SAY NAME1 @1014 SAY NAME2 @1014
+    // for EE, patch animation
+    
+    COPY_EXISTING ~AC#W77S1.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~MIST_CREATURE~))
+    
+
+    COPY ~godcall/cre/AC#W77S2.cre~ ~override~ // dreamstalker in in area AC#W77
+     SAY NAME1 @1014 SAY NAME2 @1014
+      // for EE, patch animation
+    
+    COPY_EXISTING ~AC#W77S2.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~MIST_CREATURE~))
+    
+     COPY ~godcall/cre/AC#W77S3.cre~ ~override~ // dreamstalker in in area AC#W77
+     SAY NAME1 @1014 SAY NAME2 @1014
+        // for EE, patch animation
+    
+    COPY_EXISTING ~AC#W77S3.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~MIST_CREATURE~))
+    
+
+     COPY ~godcall/cre/AC#W77S4.cre~ ~override~ // dreamstalker in in area AC#W77
+     SAY NAME1 @1014 SAY NAME2 @1014
+       // for EE, patch animation
+    
+    COPY_EXISTING ~AC#W77S4.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~MIST_CREATURE~))
+    
+
+COPY ~godcall/cre/AC#W75DV.cre~ ~override~ // Kaiphas, deva, test of pride
+ SAY NAME1 @1015 SAY NAME2 @1015
+  SAY INITIAL_MEETING @1218
+  SAY SELECT_COMMON1 @1218
+  SAY SELECT_COMMON2 @1218
+  SAY SELECT_COMMON3 @1218
+  SAY SELECT_COMMON4 @1218
+
+COPY ~godcall/cre/AC#W72FW.cre~ ~override~ //  Demon of gluttony, Area AC#W72 (gluttony test)
+ SAY NAME1 @1016 SAY NAME2 @1016
+ 
+COPY ~godcall/cre/AC#W72OT.cre~ ~override~ //  Gulgathrix, Area AC#W72 (gluttony test)
+ SAY NAME1 @1017 SAY NAME2 @1017
+ // for EE, patch animation
+    
+    COPY_EXISTING ~AC#W72OT.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#OTYUGH_BROWN~))
+    
+
+
+COPY ~godcall/cre/AC#W71S1.cre~ ~override~ // succubus Demon of lust, Area AC#W71 (lust test)
+ SAY NAME1 @1018 SAY NAME2 @1018
+ // for EE, patch animation
+    
+    COPY_EXISTING ~AC#W71S1.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~SIRINE~))
+    
+
+COPY ~godcall/cre/AC#W71I1.cre~ ~override~ // incubus Demon of lust, Area AC#W71 (lust test)
+  SAY NAME1 @1019 SAY NAME2 @1019
+  
+COPY ~godcall/cre/AC#W71S2.cre~ ~override~ // Succubus reinforcement, Area AC#W71 (lust test)
+
+COPY ~godcall/cre/AC#W73DM.cre~ ~override~ // Demon of envy, Area AC#W73 (envy test)  
+ SAY INITIAL_MEETING @1215
+  SAY SELECT_COMMON1 @1215
+  SAY SELECT_COMMON2 @1215
+  SAY SELECT_COMMON3 @1215
+  SAY SELECT_COMMON4 @1215
+COPY ~godcall/cre/AC#W73SL.cre~ ~override~ // old man, Area AC#W73 (envy test)
+  SAY NAME1 @1020 SAY NAME2 @1020
+
+COPY ~godcall/cre/AC#WARNO.cre~ ~override~ // Aranoth, spider demon
+  SAY NAME1 @1021 SAY NAME2 @1021
+   // for EE, patch animation
+    
+    COPY_EXISTING ~AC#WARNO.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#ARANOTH~))
+    
+
+COPY ~godcall/cre/AC#W19E1.cre~ ~override~ // Eladrin in Staircase basement (AC#W19)
+  SAY NAME1 @1022 SAY NAME2 @1022
+  
+COPY ~godcall/cre/AC#W19E2.cre~ ~override~ // Satyr in Staircase basement (AC#W19)
+  SAY NAME1 @1023 SAY NAME2 @1023
+    // for EE, patch animation
+    
+    COPY_EXISTING ~AC#W19E2.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#TIEFLING_FEMALE~))
+    
+    
+COPY ~godcall/cre/AC#W40SW.cre~ ~override~ // Tiefling area AC#W40 (warning about spell failures)
+    // for EE, patch animation
+    
+    COPY_EXISTING ~AC#W40SW.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#TIEFLING_FEMALE~))
+    
+    
+COPY ~godcall/cre/AC#W49P4.cre~ ~override~ // Tiefling area AC#W49 (gambling tent)
+    // for EE, patch animation
+    
+    COPY_EXISTING ~AC#W49P4.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#TIEFLING_FEMALE~))
+    
+
+COPY ~godcall/cre/AC#W19E3.cre~ ~override~ // Bariaur in Staircase basement (AC#W19)
+  SAY NAME1 @1024 SAY NAME2 @1024
+  // for EE, patch animation
+    
+    COPY_EXISTING ~AC#W19E3.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#BARIAUR~))
+    
+
+COPY ~godcall/cre/AC#W80LI.cre~ ~override~ // Morgrath the Corruptor, Lich in Waukeens prison (AC#W80)
+  SAY NAME1 @1025 SAY NAME2 @1025
+
+COPY ~godcall/cre/AC#W80BR.cre~ ~override~ // Shadowsong in Waukeens prison (AC#W80)
+  SAY NAME1 @1026 SAY NAME2 @1026
+
+COPY ~godcall/cre/AC#W80KG.cre~ ~override~ // Kastighur in Waukeens prison (AC#W80)
+  SAY NAME1 @1027 SAY NAME2 @1027
+
+COPY ~godcall/cre/AC#W40TR.cre~ ~override~ // tortured mage in Samora (AC#W40)
+  SAY NAME1 @1028 SAY NAME2 @1028
+
+COPY ~godcall/cre/AC#W40G1.cre~ ~override~ // damned soul in Samora (AC#W40)
+  SAY NAME1 @1029 SAY NAME2 @1029
+
+COPY ~godcall/cre/AC#W52SK.cre~ ~override~ // acid skeleton in traitor prison (AC#W52)
+  SAY NAME1 @1030 SAY NAME2 @1030
+
+COPY ~godcall/cre/AC#W80BG.cre~ ~override~ // Emer the mad in prison (AC#W80)
+  SAY NAME1 @1031 SAY NAME2 @1031
+
+COPY ~godcall/cre/AC#W40S6.cre~ ~override~ // general store merchant in Samora (AC#W40)
+  SAY NAME1 @1032 SAY NAME2 @1032
+  SAY INITIAL_MEETING @1217
+  SAY SELECT_COMMON1 @1217
+  SAY SELECT_COMMON2 @1217
+  SAY SELECT_COMMON3 @1217
+  SAY SELECT_COMMON4 @1217
+// for EE, patch animation
+    
+    COPY_EXISTING ~AC#W40S6.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#TOWNIE_CURST_MALE~))
+    
+COPY ~godcall/cre/AC#W49PP.cre~ ~override~ // game master in area AC#W59
+  SAY NAME1 @1033 SAY NAME2 @1033
+// for EE, patch animation
+    
+    COPY_EXISTING ~AC#W49PP.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#TOWNIE_CURST_MALE~))
+    
+COPY ~godcall/cre/AC#W57NY.cre~ ~override~ //  Nysara, in flower area AC#W57
+  SAY NAME1 @1034 SAY NAME2 @1034
+  SAY INITIAL_MEETING @1285
+  SAY SELECT_COMMON1 @1285
+  SAY SELECT_COMMON2 @1286
+  // for EE, patch animation
+    
+    COPY_EXISTING ~AC#W57NY.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~SEER~))
+    
+
+COPY ~godcall/cre/AC#WPGSP.cre~ ~override~ //  planar guild merchant
+  SAY NAME1 @1035 SAY NAME2 @1035
+
+COPY ~godcall/cre/AC#WPGIN.cre~ ~override~ //  planar guild innkeeper
+  SAY NAME1 @1036 SAY NAME2 @1036
+
+COPY ~godcall/cre/AC#W40UM.cre~ ~override~ //  Vulgrim, unicorn merchant in Samora
+  SAY NAME1 @1037 SAY NAME2 @1037
+  SAY INITIAL_MEETING @1213
+  SAY SELECT_COMMON1 @1213
+  SAY SELECT_COMMON2 @1213
+  SAY SELECT_COMMON3 @1213
+  SAY SELECT_COMMON4 @1213
+COPY ~godcall/cre/AC#WGLAQ.cre~ ~override~ //  Quasit, Belthazaar's minion
+
+COPY ~godcall/cre/AC#WBELD.cre~ ~override~ //  Belthazaar, Glabrezu, summoned
+  SAY NAME1 @1038 SAY NAME2 @1038
+
+COPY ~godcall/cre/AC#W40GB.cre~ ~override~ //  Belthazaar, Glabrezu in area AC#W40 (Samora - Ormad sulpar questline)
+  SAY NAME1 @1038 SAY NAME2 @1038
+
+COPY ~godcall/cre/AC#W4GGB.cre~ ~override~ //  Belthazaar, Glabrezu in area AC#W4G (Glabrezu hideout - Ormad sulpar questline)
+  SAY NAME1 @1038 SAY NAME2 @1038
+
+COPY ~godcall/cre/AC#WNAB1.cre~ ~override~ //  Nabassu traitor (soul thief)
+  SAY NAME1 @1039 SAY NAME2 @1039
+
+COPY ~godcall/cre/AC#W30SQ.cre~ ~override~ //  Squirrel of Defamation
+  SAY NAME1 @1040 SAY NAME2 @1040
+  SAY INITIAL_MEETING @1227
+  
+COPY ~godcall/cre/AC#W30GN.cre~ ~override~ //  Wilbur Iparos, gnomish inventor
+  SAY NAME1 @1041 SAY NAME2 @1041
+
+COPY ~godcall/cre/AC#WSTWS.cre~ ~override~ // Stepweaver spider
+  SAY NAME1 @1042 SAY NAME2 @1042
+
+  COPY ~godcall/cre/AC#WALMG.cre~ ~override~ // Lady's Lancer appearing after Margrog is gone
+  SAY NAME1 @1043 SAY NAME2 @1043
+
+COPY ~godcall/cre/AC#WAL4A.cre~ ~override~ // Lady's Lancer appearing after Mefisto talks good about player
+  SAY NAME1 @1043 SAY NAME2 @1043
+
+COPY ~godcall/cre/AC#WALUR.cre~ ~override~ // Lady's Lancer guard; rest interrupt
+  SAY NAME1 @1043 SAY NAME2 @1043
+
+COPY ~godcall/cre/AC#WALU4.cre~ ~override~ // Lady's Lancer guard in front of counting house
+  SAY NAME1 @1043 SAY NAME2 @1043
+  
+COPY ~godcall/cre/AC#WALU6.cre~ ~override~ // Lady's Lancer in Gildaar's cutscene in AC#W40 (Samora)
+  SAY NAME1 @1043 SAY NAME2 @1043
+  
+COPY ~godcall/cre/AC#WALU7.cre~ ~override~ // Lady's Lancer in Gildaar's cutscene in AC#W40 (Samora)
+  SAY NAME1 @1043 SAY NAME2 @1043
+
+COPY ~godcall/cre/AC#WALU5.cre~ ~override~ // Lady's Lancer guard in front of counting house
+  SAY NAME1 @1043 SAY NAME2 @1043
+
+COPY ~godcall/cre/AC#WGLA9.cre~ ~override~ // Belthazaar, Glabrezu with contract for ormad's soul
+  SAY NAME1 @1038 SAY NAME2 @1038
+
+COPY ~godcall/cre/AC#WARMA.cre~ ~override~ // Armanite, hostile version
+  SAY NAME1 @1044 SAY NAME2 @1044
+  
+    COPY_EXISTING ~AC#WARMA.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#BARIAUR~))
+    
+COPY ~godcall/cre/AC#W60AM.cre~ ~override~ // Armanite, allied version
+  SAY NAME1 @1044 SAY NAME2 @1044
+  
+    COPY_EXISTING ~AC#W60AM.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#BARIAUR~))
+    
+
+COPY ~godcall/cre/AC#WSPLK.cre~ ~override~ // Malashrihi, spell key seller in Samora
+  SAY NAME1 @1045 SAY NAME2 @1045
+  SAY INITIAL_MEETING @1225
+  SAY SELECT_COMMON1 @1226
+  SAY SELECT_COMMON2 @1225
+  SAY SELECT_COMMON3 @1226
+  SAY SELECT_COMMON4 @1225
+// for EE, patch animation
+    
+    COPY_EXISTING ~AC#WSPLK.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~ORC_SHAMAN_UNDEAD~))
+    
+COPY ~godcall/cre/AC#W49G1.cre~ ~override~ // Gambling master in gambling tent (AC#W49), playing roulette
+  SAY NAME1 @1046 SAY NAME2 @1046
+
+COPY ~godcall/cre/AC#W49G2.cre~ ~override~ // coin lady in gambling tent (AC#W49), seeling coins
+  SAY NAME1 @1047 SAY NAME2 @1047
+  // for EE, patch animation
+    
+    COPY_EXISTING ~AC#W49G2.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~HARLOT_WOMAN~))
+    
+
+COPY ~godcall/cre/AC#W49SS.cre~ ~override~ // Gambling master in gambling tent (AC#W49), playing Stab or die
+  SAY NAME1 @1046 SAY NAME2 @1046
+
+// adding the gladiator pit creatures
+
+  // encounter #9: adding the Piscoloth in the gladiator pit area; key
+   COPY ~godcall/cre/AC#W4CPS.cre~ ~override~   // Piscoloth
+   SAY NAME1 @1048 SAY NAME2 @1048
+   ADD_CRE_ITEM ~AC#W4CKY~ #1 #0 #0 ~identified&unstealable~ ~inv1~
+    // for EE, patch animation
+    
+    COPY_EXISTING ~AC#W4CPS.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#PISCOLOTH~))
+    
+ // encounter #8: adding the Death tyrant in the gladiator pit area; key
+   COPY ~godcall/cre/AC#W4CDT.cre~ ~override~   // Death tyrant
+   ADD_CRE_ITEM ~AC#W4CKY~ #1 #0 #0 ~identified&unstealable~ ~inv1~
+   
+		COPY_EXISTING ~AC#W4CDT.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~BEHOLDER~))
+		
+ 
+ // encounter #7: adding Tieflings in the gladiator pit area; assigning different keyparts
+   COPY ~godcall/cre/AC#W4CP1.cre~ ~override~   // Tiefling #1
+   ADD_CRE_ITEM ~AC#W4CK1~ #1 #0 #0 ~identified&unstealable~ ~inv1~
+    ADD_CRE_ITEM ~AC#W4CK2~ #1 #0 #0 ~identified&unstealable~ ~inv2~
+	// for EE, patch animation
+    
+    COPY_EXISTING ~AC#W4CP1.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#TIEFLING_MALE~))
+    
+        COPY ~godcall/cre/AC#W4CP2.cre~ ~override~   // Tiefling #2
+   ADD_CRE_ITEM ~AC#W4CK3~ #1 #0 #0 ~identified&unstealable~ ~inv1~
+    ADD_CRE_ITEM ~AC#W4CK4~ #1 #0 #0 ~identified&unstealable~ ~inv2~
+	// for EE, patch animation
+    
+    COPY_EXISTING ~AC#W4CP2.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#TIEFLING_MALE~))
+    
+
+   // encounter #6: adding Bar-Lgura in the gladiator pit area; assigning different keyparts
+   COPY ~godcall/cre/AC#W4CB1.cre~ ~override~   // Bar-Lgura
+   SAY NAME1 @1049 SAY NAME2 @1049
+   ADD_CRE_ITEM ~AC#W4CK1~ #1 #0 #0 ~identified&unstealable~ ~inv1~
+		
+		COPY_EXISTING ~AC#W4CB1.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~BARLGURA_ACIFER~))
+		
+     COPY ~godcall/cre/AC#W4CB1.cre~ ~override/AC#W4CB2.cre~   // Bar-Lgura
+     SAY NAME1 @1049 SAY NAME2 @1049
+     ADD_CRE_ITEM ~AC#W4CK2~ #1 #0 #0 ~identified&unstealable~ ~inv1~
+		
+		COPY_EXISTING ~AC#W4CB2.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~BARLGURA_ACIFER~))
+		
+     COPY ~godcall/cre/AC#W4CB1.cre~ ~override/AC#W4CB3.cre~   // Bar-Lgura
+     SAY NAME1 @1049 SAY NAME2 @1049
+     ADD_CRE_ITEM ~AC#W4CK3~ #1 #0 #0 ~identified&unstealable~ ~inv1~
+		
+		COPY_EXISTING ~AC#W4CB3.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~BARLGURA_ACIFER~))
+		
+     COPY ~godcall/cre/AC#W4CB1.cre~ ~override/AC#W4CB4.cre~   // Bar-Lgura
+     SAY NAME1 @1049 SAY NAME2 @1049
+     ADD_CRE_ITEM ~AC#W4CK4~ #1 #0 #0 ~identified&unstealable~ ~inv1~
+		
+		COPY_EXISTING ~AC#W4CB4.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~BARLGURA_ACIFER~))
+		
+   // encounter #5: adding the Cambion in the gladiator pit area; key
+   COPY ~godcall/cre/AC#W4CCB.cre~ ~override~   // Cambion-Baron
+   SAY NAME1 @1050 SAY NAME2 @1050
+   ADD_CRE_ITEM ~AC#W4CKY~ #1 #0 #0 ~identified&unstealable~ ~inv1~
+/*
+  ADD_MEMORIZED_SPELL ~SPWI203~ #1 ~wizard~ ( 1 ) //detect invisibility
+  ADD_MEMORIZED_SPELL ~SPWI212~ #1 ~wizard~ ( 1 ) //mirror image
+  ADD_MEMORIZED_SPELL ~SPWI224~ #1 ~wizard~ ( 1 ) // glitterdust
+  ADD_MEMORIZED_SPELL ~SPWI304~ #2 ~wizard~ ( 1 ) //fireball
+  ADD_MEMORIZED_SPELL ~SPWI308~ #2 ~wizard~ ( 1 ) // lightning bolt
+  ADD_MEMORIZED_SPELL ~SPWI326~ #2 ~wizard~ ( 1 ) // dispel magic
+  ADD_MEMORIZED_SPELL ~SPWI408~ #3 ~wizard~ ( 1 ) // Stoneskin
+  ADD_MEMORIZED_SPELL ~SPWI421~ #3 ~wizard~ ( 1 ) // Teleport field
+  ADD_MEMORIZED_SPELL ~SPWI502~ #4 ~wizard~ ( 1 ) // Cloudkill
+  ADD_MEMORIZED_SPELL ~SPWI501~ #4 ~wizard~ ( 1 ) // animate dead
+*/
+   // encounter #4: adding Minotaur in the gladiator pit area; assigning different keyparts
+   COPY ~godcall/cre/AC#W4CM1.cre~ ~override~   // Minotaur
+   ADD_CRE_ITEM ~AC#W4CK1~ #1 #0 #0 ~identified&unstealable~ ~inv1~
+
+     COPY ~godcall/cre/AC#W4CM1.cre~ ~override/AC#W4CM2.cre~   // Minotaur
+     ADD_CRE_ITEM ~AC#W4CK2~ #1 #0 #0 ~identified&unstealable~ ~inv1~
+     
+     COPY ~godcall/cre/AC#W4CM1.cre~ ~override/AC#W4CM3.cre~   // Minotaur
+     ADD_CRE_ITEM ~AC#W4CK3~ #1 #0 #0 ~identified&unstealable~ ~inv1~
+     
+     COPY ~godcall/cre/AC#W4CM1.cre~ ~override/AC#W4CM4.cre~   // Minotaur
+     ADD_CRE_ITEM ~AC#W4CK4~ #1 #0 #0 ~identified&unstealable~ ~inv1~
+
+   // encounter #3: adding Dretches in the gladiator pit area; assigning different keyparts
+   COPY ~godcall/cre/AC#W4CD1.cre~ ~override~   // Dretch
+   SAY NAME1 @1051 SAY NAME2 @1051
+   ADD_CRE_ITEM ~AC#W4CK1~ #1 #0 #0 ~identified&unstealable~ ~inv1~
+		
+		COPY_EXISTING ~AC#W4CD1.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~DRETCH_ACIFER~))
+		
+     COPY ~godcall/cre/AC#W4CD1.cre~ ~override/AC#W4CD2.cre~   // Dretch
+     SAY NAME1 @1051 SAY NAME2 @1051
+     ADD_CRE_ITEM ~AC#W4CK2~ #1 #0 #0 ~identified&unstealable~ ~inv1~
+     
+		COPY_EXISTING ~AC#W4CD2.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~DRETCH_ACIFER~))
+		
+     COPY ~godcall/cre/AC#W4CD1.cre~ ~override/AC#W4CD3.cre~   // Dretch
+     SAY NAME1 @1051 SAY NAME2 @1051
+     ADD_CRE_ITEM ~AC#W4CK3~ #1 #0 #0 ~identified&unstealable~ ~inv1~
+     
+		COPY_EXISTING ~AC#W4CD3.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~DRETCH_ACIFER~))
+		
+     COPY ~godcall/cre/AC#W4CD1.cre~ ~override/AC#W4CD4.cre~   // Dretch
+     SAY NAME1 @1051 SAY NAME2 @1051
+     ADD_CRE_ITEM ~AC#W4CK4~ #1 #0 #0 ~identified&unstealable~ ~inv1~
+	
+		COPY_EXISTING ~AC#W4CD4.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~DRETCH_ACIFER~))
+		
+   // encounter #2: adding Tanar'ruks in the gladiator pit area; assigning different keyparts
+   COPY ~godcall/cre/AC#W4CT1.cre~ ~override~
+   SAY NAME1 @1052 SAY NAME2 @1052
+   ADD_CRE_ITEM ~AC#W4CK1~ #1 #0 #0 ~identified&unstealable~ ~inv1~
+   
+		COPY_EXISTING ~AC#W4CT1.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~ORC_MELEE~))
+		
+
+    COPY ~godcall/cre/AC#W4CT1.cre~ ~override/AC#W4CT2.cre~
+    SAY NAME1 @1052 SAY NAME2 @1052
+    ADD_CRE_ITEM ~AC#W4CK2~ #1 #0 #0 ~identified&unstealable~ ~inv1~
+    
+		COPY_EXISTING ~AC#W4CT2.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~ORC_MELEE~))
+		
+    COPY ~godcall/cre/AC#W4CT1.cre~ ~override/AC#W4CT3.cre~
+    SAY NAME1 @1052 SAY NAME2 @1052
+    ADD_CRE_ITEM ~AC#W4CK3~ #1 #0 #0 ~identified&unstealable~ ~inv1~
+    
+		COPY_EXISTING ~AC#W4CT3.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~ORC_MELEE~))
+		
+    COPY ~godcall/cre/AC#W4CT1.cre~ ~override/AC#W4CT4.cre~
+    SAY NAME1 @1052 SAY NAME2 @1052
+    ADD_CRE_ITEM ~AC#W4CK4~ #1 #0 #0 ~identified&unstealable~ ~inv1~
+    
+		COPY_EXISTING ~AC#W4CT4.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~ORC_MELEE~))
+		
+COPY ~godcall/cre/AC#W30BR.cre~ ~override~ // Startrail, Bariaur in area AC#W30
+  SAY NAME1 @1053 SAY NAME2 @1053
+  
+    COPY_EXISTING ~AC#W30BR.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#BARIAUR~))
+    
+    
+COPY ~godcall/cre/AC#W4BB1.cre~ ~override~ // Baphitaur, smith in area AC#W4B
+  SAY NAME1 @1132 SAY NAME2 @1132
+    SAY INITIAL_MEETING @1280
+  SAY SELECT_COMMON1 @1281
+  SAY SELECT_COMMON2 @1280
+  SAY SELECT_COMMON3 @1281
+  SAY SELECT_COMMON4 @1280
+  
+    COPY_EXISTING ~AC#W4BB1.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#BAPHITAUR~))
+    
+    
+COPY ~godcall/cre/AC#W4BB2.cre~ ~override~ // Baphitaur, smith in area AC#W4B
+  SAY NAME1 @1132 SAY NAME2 @1132
+    SAY INITIAL_MEETING @1280
+  SAY SELECT_COMMON1 @1281
+  SAY SELECT_COMMON2 @1280
+  SAY SELECT_COMMON3 @1281
+  SAY SELECT_COMMON4 @1280
+  
+    COPY_EXISTING ~AC#W4BB2.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#BAPHITAUR~))
+    
+    
+COPY ~godcall/cre/AC#WBAPH.cre~ ~override~ // Baphitaur, enemy
+  SAY NAME1 @1131 SAY NAME2 @1131
+    SAY INITIAL_MEETING @1280
+  SAY SELECT_COMMON1 @1281
+  SAY SELECT_COMMON2 @1280
+  SAY SELECT_COMMON3 @1281
+  SAY SELECT_COMMON4 @1280
+  
+    COPY_EXISTING ~AC#WBAPH.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#BAPHITAUR~))
+    
+
+COPY ~godcall/cre/AC#W54AL.cre~ ~override~ // Alkilith, acid/ooze demon (area AC#W52)
+  SAY NAME1 @1054 SAY NAME2 @1054
+    // for EE, patch animation
+    
+    COPY_EXISTING ~AC#W54AL.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~ALKILITH_ACIFER~))
+    
+COPY ~godcall/cre/AC#W50M1.cre~ ~override~ // Jenkin, disguised Maurezhi (area AC#W50)
+  SAY NAME1 @1055 SAY NAME2 @1055
+
+COPY ~godcall/cre/AC#W4ASU.cre~ ~override~ // Zaehvielle, succubus with contract for Ormad's soul (area AC#W4A)
+  SAY NAME1 @1056 SAY NAME2 @1056
+  
+    COPY_EXISTING ~AC#W4ASU.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#SUCCUBUS_NWN~))
+    
+
+COPY ~godcall/cre/AC#W4QU1.cre~ ~override~ // Zeep, Ormad's Quasit familiar in Samora (area AC#W40)
+  SAY NAME1 @1057 SAY NAME2 @1057
+  
+COPY ~godcall/cre/AC#W4ORM.cre~ ~override~ // Ormad Sulpar in Sooden Solar (area AC#W41)
+  SAY NAME1 @1058 SAY NAME2 @1058
+  WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#MERCHANT_PST~))
+
+COPY ~godcall/cre/AC#WARC1.cre~ ~override~ // Arcanaloth in Samora (area AC#W40)
+  SAY NAME1 @1059 SAY NAME2 @1059
+  WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~ARCANALOTH_ACIFER~))
+
+
+COPY ~godcall/cre/AC#W01S1.cre~ ~override~ // Masun, 2nd best spice merchant in area AC#W01
+  SAY NAME1 @1060 SAY NAME2 @1060
+
+COPY ~godcall/cre/AC#W08NB.cre~ ~override~ // Nobleman in area AC#W08
+  SAY NAME1 @1061 SAY NAME2 @1061
+
+COPY ~godcall/cre/AC#W08MC.cre~ ~override~ // spice merchant in area AC#W08
+  SAY NAME1 @1062 SAY NAME2 @1062
+
+COPY ~godcall/cre/AC#W30SW.cre~ ~override~ // Modron switch in area AC#W30
+  SAY NAME1 @1063 SAY NAME2 @1063
+
+COPY ~godcall/cre/AC#MANE1.cre~ ~override~ // Mane
+  
+		COPY_EXISTING ~AC#MANE1.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#MANE~))
+		
+		
+COPY ~godcall/cre/AC#W40MN.cre~ ~override~ // Mane
+  
+		COPY_EXISTING ~AC#W40MN.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#MANE~))
+		
+                
+COPY ~godcall/cre/AC#W40WM.cre~ ~override~ // Mane
+  
+		COPY_EXISTING ~AC#W40WM.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#MANE~))
+		
+
+COPY ~godcall/cre/AC#W50MN.cre~ ~override~ // Mane
+  
+		COPY_EXISTING ~AC#W50MN.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#MANE~))
+			
+
+COPY ~godcall/cre/AC#W60MN.cre~ ~override~ // Mane
+  
+		COPY_EXISTING ~AC#W60MN.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#MANE~))
+					
+		
+COPY ~godcall/cre/AC#W40BB.cre~ ~override~ // Babau, Blood war recruiter in Samora
+  SAY NAME1 @1064 SAY NAME2 @1064
+  SAY SELECT_COMMON1 @1210
+  SAY SELECT_COMMON2 @1211
+  SAY SELECT_COMMON3 @1210
+  SAY SELECT_COMMON4 @1211
+  
+		COPY_EXISTING ~AC#W40BB.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#BABAU~))
+		
+  
+COPY ~godcall/cre/AC#W70BB.cre~ ~override~ // Babau, enemy, in chamber of seduction
+  SAY NAME1 @1065 SAY NAME2 @1065
+   
+		COPY_EXISTING ~AC#W70BB.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#BABAU~))
+		
+COPY ~godcall/cre/AC#W4CBB.cre~ ~override~ // Babau, gladiator arena manager Samora
+  SAY NAME1 @1066 SAY NAME2 @1066
+   
+		COPY_EXISTING ~AC#W4CBB.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#BABAU~))
+		
+COPY ~godcall/cre/AC#WGIFR.cre~ ~override~ // Frost giant, gladiator arena
+  SAY NAME1 @1067 SAY NAME2 @1067
+	
+		COPY_EXISTING ~AC#WGIFR.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~GIANT_FROST~))
+		
+	
+COPY ~godcall/cre/AC#WFAER.cre~ ~override~
+  SAY NAME1 @1068 SAY NAME2 @1068
+  
+COPY ~godcall/cre/AC#WDAER.cre~ ~override~ // Daerea Ethgil, chruch store
+  SAY NAME1 @1069 SAY NAME2 @1069
+
+COPY ~godcall/cre/AC#W60HT.CRE~            ~override~  // Hamatula
+  SAY NAME1 @1070 SAY NAME2 @1070
+          
+		COPY_EXISTING ~AC#W60HT.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#HAMATULA~))
+		
+COPY ~godcall/cre/AC#W60LM.CRE~            ~override~
+  SAY NAME1 @1071 SAY NAME2 @1071
+  WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~LEMURE~))
+		
+COPY ~godcall/cre/AC#W60CG.cre~ ~override~
+  SAY NAME1 @1072 SAY NAME2 @1072   // Cornugon general, blood war
+
+COPY ~godcall/cre/AC#WXAY1.cre~ ~override~
+  SAY NAME1 @1073 SAY NAME2 @1073
+
+COPY ~godcall/cre/AC#WBDK1.cre~ ~override~
+  SAY NAME1 @1074 SAY NAME2 @1074
+  WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~BODAK_ACIFER~))
+
+COPY ~godcall/cre/AC#BGUR1.cre~ ~override~
+  SAY NAME1 @1049 SAY NAME2 @1049
+  WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~BARLGURA_ACIFER~))
+		
+  
+COPY ~godcall/cre/AC#BGUR2.cre~ ~override~
+  SAY NAME1 @1049 SAY NAME2 @1049
+  WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~BARLGURA_ACIFER~))
+		
+COPY ~godcall/cre/achalan.cre~ ~override/achalan.cre~
+  SAY NAME1 @1075 SAY NAME2 @1075
+  SAY SELECT_COMMON1 @1260
+  SAY SELECT_COMMON2 @1260
+  SAY SELECT_COMMON3 @1260
+  SAY SELECT_COMMON4 @1260
+
+COPY ~godcall/cre/AC#W01HA.cre~ ~override~
+  SAY NAME1 @1075 SAY NAME2 @1075
+    SAY SELECT_COMMON1 @1260
+  SAY SELECT_COMMON2 @1260
+  SAY SELECT_COMMON3 @1260
+  SAY SELECT_COMMON4 @1260
+  
+COPY ~godcall/cre/ACKYRIAN.cre~ ~override/ACKYRIAN.cre~
+  SAY NAME1 @1076 SAY NAME2 @1076
+  SAY SELECT_COMMON1 @1195
+  SAY SELECT_COMMON2 @1195
+  SAY SELECT_COMMON3 @1195
+  SAY SELECT_COMMON4 @1195
+
+COPY ~godcall/cre/ACTHARUN.cre~ ~override/ACTHARUN.CRE~
+  SAY NAME1 @1077 SAY NAME2 @1077
+  SAY INITIAL_MEETING @1191
+  SAY SELECT_COMMON1 @1191
+  SAY SELECT_COMMON2 @1190
+  SAY SELECT_COMMON3 @1191
+  SAY SELECT_COMMON4 @1190
+  
+COPY ~godcall/cre/AC#W01TH.cre~ ~override/AC#W01TH.CRE~
+  SAY NAME1 @1077 SAY NAME2 @1077
+  SAY SELECT_COMMON1 @1191
+  SAY SELECT_COMMON2 @1190
+  SAY SELECT_COMMON3 @1191
+  SAY SELECT_COMMON4 @1190
+  
+COPY ~godcall/cre/AC#W04T2.cre~ ~override~  // Tharundar Olehm after the main quest
+  SAY NAME1 @1077 SAY NAME2 @1077
+  SAY INITIAL_MEETING @1191
+  SAY SELECT_COMMON1 @1191
+  SAY SELECT_COMMON2 @1190
+  SAY SELECT_COMMON3 @1191
+  SAY SELECT_COMMON4 @1190
+  
+COPY ~godcall/cre/AC#W04P1.cre~ ~override~
+  SAY NAME1 @1078 SAY NAME2 @1078
+  
+COPY ~godcall/cre/AC#W01P1.cre~ ~override~
+  SAY NAME1 @1078 SAY NAME2 @1078
+
+COPY ~godcall/cre/acmoonk1.cre~ ~override/acmoonk1.cre~
+  SAY NAME1 @1079 SAY NAME2 @1079
+  
+COPY ~godcall/cre/AC#WPGCH.cre~ ~override/AC#WPGCH.cre~
+  SAY NAME1 @1080 SAY NAME2 @1080
+  
+COPY ~godcall/cre/AC#WPGHL.cre~ ~override/AC#WPGHL.cre~
+  SAY NAME1 @1081 SAY NAME2 @1081
+
+COPY ~godcall/cre/AC#W19LI.cre~ ~override~
+  SAY NAME1 @1082 SAY NAME2 @1082
+  SAY INITIAL_MEETING @1255
+  SAY SELECT_COMMON1 @1256
+  SAY SELECT_COMMON2 @1255
+  SAY SELECT_COMMON3 @1256
+  SAY SELECT_COMMON4 @1255
+
+COPY ~godcall/cre/AC#WBBAU.cre~ ~override~
+  SAY NAME1 @1065 SAY NAME2 @1065
+
+		COPY_EXISTING ~AC#WBBAU.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#BABAU~))
+		
+COPY ~godcall/cre/AC#W80S1.cre~ ~override~
+  SAY NAME1 @1083 SAY NAME2 @1083
+  
+COPY ~godcall/cre/AC#WMRL1.cre~ ~override~
+  SAY NAME1 @1084 SAY NAME2 @1084
+  SAY INITIAL_MEETING @1230
+  SAY SELECT_COMMON1 @1230
+  SAY SELECT_COMMON2 @1230
+  SAY SELECT_COMMON3 @1230
+  SAY SELECT_COMMON4 @1230
+  
+COPY ~godcall/cre/AC#WMAR2.cre~ ~override~
+  SAY NAME1 @1085 SAY NAME2 @1085
+  
+COPY ~godcall/cre/AC#WGIL1.cre~ ~override~     // Gildaar (disguised)
+  SAY NAME1 @1086 SAY NAME2 @1086
+  
+ COPY ~godcall/cre/AC#WGIL2.cre~ ~override~     // Gildaar (undisguised, in area AC#W30)
+  SAY NAME1 @1087 SAY NAME2 @1087
+  
+COPY ~godcall/cre/AC#WGIL3.cre~ ~override~     // Gildaar (undisguised, in area AC#W40)
+  SAY NAME1 @1087 SAY NAME2 @1087
+  
+COPY ~godcall/cre/AC#WGIL4.cre~ ~override~     // Gildaar (undisguised, in area AC#W44)
+  SAY NAME1 @1087 SAY NAME2 @1087
+  
+COPY ~godcall/cre/AC#W30V1.cre~ ~override~     // Vampire male (in area AC#W30)
+  SAY NAME1 @1088 SAY NAME2 @1088
+  
+COPY ~godcall/cre/AC#W30V2.cre~ ~override~     // Vampire female (in area AC#W30)
+  SAY NAME1 @1089 SAY NAME2 @1089
+
+ // unused thugs
+/*
+COPY ~godcall/cre/acenct01.cre~ ~override/acenct01.cre~
+  SAY NAME1 ~Glethriel~ SAY NAME2 ~Glethriel~
+  
+COPY ~godcall/cre/acenct02.cre~ ~override/acenct02.cre~
+  SAY NAME1 ~Thagrorn~ SAY NAME2 ~Thagrorn~
+  
+COPY ~godcall/cre/acenct03.cre~ ~override/acenct03.cre~
+  SAY NAME1 ~Armbrustschütze~ SAY NAME2 ~Armbrustschütze~
+*/
+
+
+COPY ~godcall/cre/aclestiu.cre~ ~override/aclestiu.cre~
+  SAY NAME1 @1090 SAY NAME2 @1090
+
+COPY ~godcall/cre/AC#WTHF1.cre~ ~override~
+  SAY NAME1 @1091 SAY NAME2 @1091
+  
+COPY ~godcall/cre/AC#WTHFS.cre~ ~override~
+  SAY NAME1 @1091 SAY NAME2 @1091
+  
+COPY ~godcall/cre/AC#WASSO.cre~ ~override~
+  SAY NAME1 @1092 SAY NAME2 @1092
+  
+COPY ~godcall/cre/AC#W20M1.cre~ ~override~
+  SAY NAME1 @1093 SAY NAME2 @1093
+//ADD_MEMORIZED_SPELL ~SPWI408~ #3 ~wizard~ ( 1 ) // stone skin
+ADD_MEMORIZED_SPELL ~SPWI406~ #3 ~wizard~ ( 1 ) // WIZARD_MINOR_GLOBE_OF_INVULNERABILITY
+//ADD_MEMORIZED_SPELL ~SPWI714~ #6 ~wizard~ ( 1 ) // Prismatic Spray
+
+COPY ~godcall/cre/AC#W20M2.cre~ ~override~ // Kayur's apprentice #1
+SAY NAME1 @1124 SAY NAME2 @1124
+ADD_MEMORIZED_SPELL ~SPWI406~ #3 ~wizard~ ( 1 ) // WIZARD_MINOR_GLOBE_OF_INVULNERABILITY
+//ADD_MEMORIZED_SPELL ~SPWI311~ #2 ~wizard~ ( 1 ) // protection from normal missiles
+//ADD_MEMORIZED_SPELL ~SPWI412~ #3 ~wizard~ ( 1 ) // greater malison
+
+COPY ~godcall/cre/AC#W20M3.cre~ ~override~ // Kayur's apprentice #2
+SAY NAME1 @1124 SAY NAME2 @1124
+ADD_MEMORIZED_SPELL ~SPWI210~ #1 ~wizard~ ( 1 ) // resist fear
+ADD_MEMORIZED_SPELL ~SPWI406~ #3 ~wizard~ ( 1 ) // WIZARD_MINOR_GLOBE_OF_INVULNERABILITY
+ADD_MEMORIZED_SPELL ~SPWI405~ #3 ~wizard~ ( 1 ) // improved invisibility
+
+
+COPY ~godcall/cre/AC#W45LV.CRE~            ~override~
+  SAY NAME1 @1094
+  SAY NAME2 @1094
+	
+		COPY_EXISTING ~AC#W45LV.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#LARVA~))
+		
+COPY ~godcall/cre/AC#LARV2.CRE~            ~override/AC#LARV2.CRE~
+  SAY NAME1 @1094
+  SAY NAME2 @1094
+  
+		COPY_EXISTING ~AC#LARV2.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#LARVA~))
+		
+  
+COPY ~godcall/cre/AC#W40LV.CRE~            ~override~
+  SAY NAME1 @1094
+  SAY NAME2 @1094
+  
+		COPY_EXISTING ~AC#W40LV.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#LARVA~))
+		
+COPY ~godcall/cre/AC#W50LV.CRE~            ~override~
+  SAY NAME1 @1094
+  SAY NAME2 @1094
+  
+		COPY_EXISTING ~AC#W50LV.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#LARVA~))
+		
+COPY ~godcall/cre/AC#W47LV.CRE~            ~override~
+  SAY NAME1 @1094
+  SAY NAME2 @1094
+
+		COPY_EXISTING ~AC#W47LV.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#LARVA~))
+		
+COPY ~godcall/cre/AC#WMAR1.CRE~            ~override/AC#WMAR1.CRE~
+  SAY NAME1 @1095
+  SAY NAME2 @1095
+  SAY INITIAL_MEETING   @1183
+  SAY SELECT_COMMON1 @1182
+  SAY SELECT_COMMON2 @1184
+  SAY SELECT_COMMON3 @1182
+  SAY SELECT_COMMON4 @1184
+  
+    COPY_EXISTING ~AC#WMAR1.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#MARETTA~))
+    
+COPY ~godcall/cre/AC#W80MA.CRE~            ~override~
+  SAY NAME1 @1095
+  SAY NAME2 @1095
+  SAY INITIAL_MEETING   @1182
+  SAY SELECT_COMMON1 @1182
+  SAY SELECT_COMMON2 @1184
+  SAY SELECT_COMMON3 @1182
+  SAY SELECT_COMMON4 @1184
+  
+    COPY_EXISTING ~AC#W80MA.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#MARETTA~))
+    
+COPY ~godcall/cre/acwauke1.CRE~            ~override/acwauke1.CRE~
+  SAY NAME1 @1084
+  SAY NAME2 @1084
+  SAY INITIAL_MEETING @1300
+  SAY SELECT_COMMON1 @1300
+  SAY SELECT_COMMON2 @1300
+  SAY SELECT_COMMON3 @1300
+  SAY SELECT_COMMON4 @1300
+COPY ~godcall/cre/acwauke2.CRE~            ~override/acwauke2.CRE~
+  SAY NAME1 @1084
+  SAY NAME2 @1084
+  
+COPY ~godcall/cre/AC#WWAU3.CRE~            ~override~  // Waukeen: aftermath
+  SAY NAME1 @1084
+  SAY NAME2 @1084
+
+COPY ~godcall/cre/AC#W41VR.CRE~            ~override~
+  SAY NAME1 @1096
+  SAY NAME2 @1096
+  SAY INITIAL_MEETING @1215
+
+		COPY_EXISTING ~AC#W41VR.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#VROCK~))
+		
+COPY ~godcall/cre/actent01.CRE~            ~override/actent01.CRE~
+  SAY NAME1 @1097
+  SAY NAME2 @1097
+  
+COPY ~godcall/cre/actent02.CRE~            ~override/actent02.CRE~
+  SAY NAME1 @1097
+  SAY NAME2 @1097
+  
+COPY ~godcall/cre/actent03.CRE~            ~override/actent03.CRE~
+  SAY NAME1 @1097
+  SAY NAME2 @1097
+
+COPY ~godcall/cre/AC#W41T1.cre~ ~override~
+  SAY NAME1 @1052 SAY NAME2 @1052
+  
+		COPY_EXISTING ~AC#W41T1.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~ORC_MELEE~))
+		
+COPY ~godcall/cre/AC#W41T2.cre~ ~override~
+  SAY NAME1 @1052 SAY NAME2 @1052
+  
+		COPY_EXISTING ~AC#W41T2.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~ORC_MELEE~))
+		
+COPY ~godcall/cre/AC#W#BE3.cre~ ~override~ // Bebilith in area AC#W51, goodbutblue, captured Nalfeshnee
+  SAY NAME1 @1098 SAY NAME2 @1098
+  SAY SELECT_COMMON1 @1250
+  SAY SELECT_COMMON2 @1251
+  SAY SELECT_COMMON3 @1250
+  SAY SELECT_COMMON4 @1251
+
+  SAY BATTLE_CRY1 @1251
+  SAY BATTLE_CRY2 @1251
+  SAY BATTLE_CRY3 @1251
+  SAY BATTLE_CRY4 @1251
+  SAY BATTLE_CRY5 @1251
+  WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#BEBILITH~))
+		
+COPY ~godcall/cre/AC#WNAL2.cre~ ~override~  // Margrog in Bebilith's clutches
+  SAY NAME1 @1099 SAY NAME2 @1099
+  WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~NALFESHNEE_ACIFER~))
+
+
+COPY ~godcall/cre/AC#W#BEB.cre~ ~override~ // Bebilith in area AC#W51, neutral
+  SAY NAME1 @1098 SAY NAME2 @1098
+  SAY SELECT_COMMON1 @1250
+  SAY SELECT_COMMON2 @1251
+  SAY SELECT_COMMON3 @1250
+  SAY SELECT_COMMON4 @1251
+
+  SAY BATTLE_CRY1 @1251
+  SAY BATTLE_CRY2 @1251
+  SAY BATTLE_CRY3 @1251
+  SAY BATTLE_CRY4 @1251
+  SAY BATTLE_CRY5 @1251
+  WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#BEBILITH~))
+		
+COPY ~godcall/cre/AC#W#BE2.cre~ ~override~ // Bebilith in Samora area AC#W40, wreaking havoc
+  SAY NAME1 @1098 SAY NAME2 @1098
+  SAY INITIAL_MEETING @1250
+  SAY SELECT_COMMON1 @1250
+  SAY SELECT_COMMON2 @1251
+  SAY SELECT_COMMON3 @1250
+  SAY SELECT_COMMON4 @1251
+
+  SAY BATTLE_CRY1 @1251
+  SAY BATTLE_CRY2 @1251
+  SAY BATTLE_CRY3 @1251
+  SAY BATTLE_CRY4 @1251
+  SAY BATTLE_CRY5 @1251
+  WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#BEBILITH~))
+		
+COPY ~godcall/cre/AC#W50BE.cre~ ~override~  // Bebilith in area AC#W50
+  SAY NAME1 @1098 SAY NAME2 @1098
+    SAY SELECT_COMMON1 @1250
+  SAY SELECT_COMMON2 @1251
+  SAY SELECT_COMMON3 @1250
+  SAY SELECT_COMMON4 @1251
+
+  SAY BATTLE_CRY1 @1251
+  SAY BATTLE_CRY2 @1251
+  SAY BATTLE_CRY3 @1251
+  SAY BATTLE_CRY4 @1251
+  SAY BATTLE_CRY5 @1251
+
+		COPY_EXISTING ~AC#W50BE.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#BEBILITH~))
+		
+//COPY_EXISTING ~govwau01.cre~ ~override/acwau01.cre~
+
+COPY_EXISTING ~acmoonk1.cre~ ~override/acmoonk2.cre~
+ WRITE_ASCII 0x2cc ~acmoonk2~
+
+COPY ~godcall/cre/AC#VROC2.cre~ ~override~  // Vrock, deva wing seller
+  SAY NAME1 @1100 SAY NAME2 @1100
+	
+		COPY_EXISTING ~AC#VROC2.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#VROCK~))
+		
+COPY ~godcall/cre/AC#WVROK.cre~ ~override~   // hostile Vrock
+  SAY NAME1 @1101 SAY NAME2 @1101
+  
+		COPY_EXISTING ~AC#WVROK.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#VROCK~))
+		
+COPY ~godcall/cre/AC#W60V1.cre~ ~override~   // gootbutblue Vrock  in ac#w60
+  SAY NAME1 @1101 SAY NAME2 @1101
+  
+		COPY_EXISTING ~AC#W60V1.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#VROCK~))
+		
+COPY ~godcall/cre/AC#W40V1.cre~ ~override~   // Deva-guarding Vrock#1
+  SAY NAME1 @1101 SAY NAME2 @1101
+  
+		COPY_EXISTING ~AC#W40V1.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#VROCK~))
+		
+COPY ~godcall/cre/AC#W40V2.cre~ ~override~   // Deva-guarding Vrock#2
+  SAY NAME1 @1101 SAY NAME2 @1101
+  
+		COPY_EXISTING ~AC#W40V2.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#VROCK~))
+		
+COPY ~godcall/cre/AC#W#NH1.cre~ ~override~
+  SAY NAME1 @1102 SAY NAME2 @1102 // nighthag
+  SAY INITIAL_MEETING   @1180
+  SAY SELECT_COMMON1 @1181
+  SAY SELECT_COMMON2 @1180
+  SAY SELECT_COMMON3 @1181
+  SAY SELECT_COMMON4 @1180
+  
+		COPY_EXISTING ~AC#W#NH1.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#NIGHTHAG~))
+		
+COPY ~godcall/cre/AC#WSHAF.cre~ ~override~
+  SAY NAME1 @1103 SAY NAME2 @1103 // Shadowfiend (neutral version in AC#W40, Samora city)
+  
+  COPY ~godcall/cre/AC#WSHA2.cre~ ~override~
+  SAY NAME1 @1103 SAY NAME2 @1103 // Shadowfiend (enemy version in Nighthag's lair)
+
+COPY ~godcall/cre/AC#W#MEF.cre~ ~override~ // Mefisto, Town Crier
+  SAY NAME1 @1104 SAY NAME2 @1104
+  SAY INITIAL_MEETING   @1186
+  SAY SELECT_COMMON1 @1187
+  SAY SELECT_COMMON2 @1188
+  SAY SELECT_COMMON3 @1187
+  SAY SELECT_COMMON4 @1188
+  // for EE, patch animation
+    
+    COPY_EXISTING ~AC#W#MEF.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~MEFISTO_ACIFER~))
+    
+  
+ COPY ~godcall/cre/AC#W40M2.cre~ ~override~ // Mefisto, Town Crier #2
+  SAY NAME1 @1104 SAY NAME2 @1104
+  SAY INITIAL_MEETING  @1188
+  SAY SELECT_COMMON1 @1187
+  SAY SELECT_COMMON2 @1188
+  SAY SELECT_COMMON3 @1187
+  SAY SELECT_COMMON4 @1188
+  // for EE, patch animation
+    
+    COPY_EXISTING ~AC#W40M2.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~MEFISTO_ACIFER~))
+    
+    
+  COPY ~godcall/cre/AC#W40M3.cre~ ~override~ // Mefisto, Town Crier #3 (Gildaar Questline)
+  SAY NAME1 @1104 SAY NAME2 @1104
+  SAY INITIAL_MEETING  @1188
+  SAY SELECT_COMMON1 @1187
+  SAY SELECT_COMMON2 @1188
+  SAY SELECT_COMMON3 @1187
+  SAY SELECT_COMMON4 @1188
+  // for EE, patch animation
+    
+    COPY_EXISTING ~AC#W40M3.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~MEFISTO_ACIFER~))
+    
+	
+COPY ~godcall/cre/AC#W40BR.cre~ ~override~  // Gorzengral, defeated balor loser
+  SAY NAME1 @1105 SAY NAME2 @1105
+  SAY INITIAL_MEETING @1212
+  SAY SELECT_COMMON1 @1212
+  SAY SELECT_COMMON2 @1212
+  SAY SELECT_COMMON3 @1212
+  SAY SELECT_COMMON4 @1212
+
+COPY ~godcall/cre/AC#VARG1.cre~ ~override~
+  SAY NAME1 @1106 SAY NAME2 @1106
+  
+		COPY_EXISTING ~AC#VARG1.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#VARGOUILLE~))
+		
+		
+COPY ~godcall/cre/AC#VARG3.cre~ ~override~
+  SAY NAME1 @1106 SAY NAME2 @1106
+	
+		COPY_EXISTING ~AC#VARG3.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#VARGOUILLE~))
+		
+COPY ~godcall/cre/AC#DRET1.cre~ ~override/AC#DRET1.cre~   // Enemy Dretch
+  SAY NAME1 @1051 SAY NAME2 @1051
+	
+		COPY_EXISTING ~AC#DRET1.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~DRETCH_ACIFER~))
+		
+COPY ~godcall/cre/AC#DRET2.cre~ ~override/AC#DRET2.cre~  // neutral Dretch
+  SAY NAME1 @1051 SAY NAME2 @1051
+  
+		COPY_EXISTING ~AC#DRET2.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~DRETCH_ACIFER~))
+		
+		
+COPY ~godcall/cre/AC#DRETW.cre~ ~override~  // neutral Dretch in weeping goddess
+  SAY NAME1 @1051 SAY NAME2 @1051
+  
+		COPY_EXISTING ~AC#DRETW.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~DRETCH_ACIFER~))
+		
+		
+COPY ~godcall/cre/AC#DRETV.cre~ ~override~  // neutral Dretch in weeping goddess
+  SAY NAME1 @1051 SAY NAME2 @1051
+  
+		COPY_EXISTING ~AC#DRETV.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~DRETCH_ACIFER~))
+		
+
+COPY ~godcall/cre/AC#DRET3.cre~ ~override/AC#DRET3.cre~   // Enemy Dretch (summoned reinforcement)
+  SAY NAME1 @1051 SAY NAME2 @1051
+  
+		COPY_EXISTING ~AC#DRET3.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~DRETCH_ACIFER~))
+		
+COPY ~godcall/cre/AC#DRET4.cre~ ~override~   // Enemy Dretch (Annia encounter)
+  SAY NAME1 @1051 SAY NAME2 @1051
+  
+		COPY_EXISTING ~AC#DRET4.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~DRETCH_ACIFER~))
+		
+COPY ~godcall/cre/AC#DRET6.cre~ ~override~   // allied Dretch (bloodwar encounter)
+  SAY NAME1 @1051 SAY NAME2 @1051
+	
+		COPY_EXISTING ~AC#DRET6.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~DRETCH_ACIFER~))
+		
+COPY ~godcall/cre/AC#DRETP.cre~ ~override~   //  Dretch fieryoven
+  SAY NAME1 @1051 SAY NAME2 @1051
+  
+		COPY_EXISTING ~AC#DRETP.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~DRETCH_ACIFER~))
+		
+COPY ~godcall/cre/AC#W#CLY.cre~ ~override/AC#W#CLY.cre~  // Clyddis, Vrock
+  SAY NAME1 @1107 SAY NAME2 @1107
+  
+		COPY_EXISTING ~AC#W#CLY.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#VROCK~))
+		
+COPY ~godcall/cre/AC#W#AG1.cre~ ~override/AC#W#AG1.cre~  // Annia Graystockings
+  SAY NAME1 @1108 SAY NAME2 @1108
+  
+ COPY ~godcall/cre/AC#W#AG2.cre~ ~override~  // Annia Graystockings in Samora
+  SAY NAME1 @1108 SAY NAME2 @1108
+  
+COPY ~godcall/cre/AC#W#FAY.cre~ ~override/AC#W#FAY.cre~  // Faylah
+  SAY NAME1 @1109 SAY NAME2 @1109
+  // for EE, patch animation
+    
+    COPY_EXISTING ~AC#W#FAY.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#TIEFLING_MALE~))
+    
+COPY ~godcall/cre/AC#W#KY2.cre~ ~override~   // Kyriani in AC#W12 (Sojourner's portal)
+  SAY NAME1 @1076 SAY NAME2 @1076
+  SAY SELECT_COMMON1 @1195
+  SAY SELECT_COMMON2 @1195
+  SAY SELECT_COMMON3 @1195
+  SAY SELECT_COMMON4 @1195
+
+COPY ~godcall/cre/AC#W49P2.cre~ ~override~
+ // for EE, patch animation
+    
+    COPY_EXISTING ~AC#W49P2.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#TIEFLING_MALE~))
+    
+  
+COPY ~godcall/cre/AC#W#VE1.cre~ ~override~   // Verin, Cambion appearance
+  SAY NAME1 @1110 SAY NAME2 @1110
+  SAY SELECT_COMMON1 @1240
+  SAY SELECT_COMMON2 @1240
+  SAY SELECT_COMMON3 @1240
+  SAY SELECT_COMMON4 @1240
+  
+COPY ~godcall/cre/AC#W#VE2.cre~ ~override~   // Verin, marilith appearance
+  SAY NAME1 @1110 SAY NAME2 @1110
+   SAY SELECT_COMMON1 @1240
+  SAY SELECT_COMMON2 @1240
+  SAY SELECT_COMMON3 @1240
+  SAY SELECT_COMMON4 @1240
+
+COPY ~godcall/cre/AC#W#VE3.cre~ ~override~   // Verin, in counting house
+  SAY NAME1 @1110 SAY NAME2 @1110
+    SAY SELECT_COMMON1 @1240
+  SAY SELECT_COMMON2 @1240
+  SAY SELECT_COMMON3 @1240
+  SAY SELECT_COMMON4 @1240
+
+COPY ~godcall/cre/AC#ELBL1.cre~ ~override~   // Blood elemental
+  SAY NAME1 @1111 SAY NAME2 @1111
+  // for EE, patch animation
+    
+    COPY_EXISTING ~AC#ELBL1.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#BLOOD_ELEMENTAL~))
+    
+
+COPY ~godcall/cre/AC#W#42A.cre~ ~override/AC#W#42A.cre~   // Qyriesh, Succubus in AC#W42 selling harmful spells
+  SAY NAME1 @1113 SAY NAME2 @1113
+  
+COPY ~godcall/cre/ac#lucky.cre~ ~override/ac#lucky.cre~   // Lucky Aello
+  SAY NAME1 @1114 SAY NAME2 @1114
+  
+COPY ~godcall/cre/AC#W01G1.cre~ ~override/AC#W01G1.cre~
+  SAY NAME1 @1115 SAY NAME2 @1115
+  
+COPY ~godcall/cre/AC#W01G2.cre~ ~override/AC#W01G2.cre~
+  SAY NAME1 @1115 SAY NAME2 @1115
+  
+COPY ~godcall/cre/AC#W01M1.cre~ ~override/AC#W01M1.cre~
+  SAY NAME1 @1116 SAY NAME2 @1116
+  
+COPY ~godcall/cre/AC#W01M2.cre~ ~override/AC#W01M2.cre~
+  SAY NAME1 @1116 SAY NAME2 @1116
+  
+COPY ~godcall/cre/AC#W01M3.cre~ ~override/AC#W01M3.cre~
+  SAY NAME1 @1116 SAY NAME2 @1116
+  
+COPY ~godcall/cre/AC#W01MX.cre~ ~override~
+  SAY NAME1 @1116 SAY NAME2 @1116
+
+COPY ~godcall/cre/AC#WMONO.cre~ ~override~
+  SAY NAME1 @1117 SAY NAME2 @1117
+  SAY SELECT_COMMON1 @1270
+  SAY SELECT_COMMON2 @1271
+  SAY SELECT_COMMON3 @1273
+  SAY SELECT_COMMON4 @1270
+  SAY BATTLE_CRY1 @1272
+  SAY BATTLE_CRY2 @1271
+  SAY BATTLE_CRY3 @1118
+  SAY DAMAGE @1275
+  SAY DYING @1276
+   // for EE, patch animation
+    
+    COPY_EXISTING ~AC#WMONO.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#MONODRON~))
+    
+COPY ~godcall/cre/AC#W_MO1.cre~ ~override~
+  SAY NAME1 @1117 SAY NAME2 @1117
+  SAY SELECT_COMMON1 @1270
+  SAY SELECT_COMMON2 @1271
+  SAY SELECT_COMMON3 @1273
+  SAY SELECT_COMMON4 @1270
+  SAY BATTLE_CRY1 @1272
+  SAY BATTLE_CRY2 @1271
+  SAY BATTLE_CRY3 @1118
+  SAY DAMAGE @1275
+  SAY DYING @1276
+  // for EE, patch animation
+    
+    COPY_EXISTING ~AC#W_MO1.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#MONODRON~))
+    
+COPY ~godcall/cre/AC#W_TRT.cre~ ~override~
+  SAY NAME1 @1107 SAY NAME2 @1107
+  
+		COPY_EXISTING ~AC#W_TRT.cre~ ~override~
+		WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#VROCK~))
+		
+COPY ~godcall/cre/AC#W48G1.cre~ ~override~
+  SAY NAME1 @1119 SAY NAME2 @1119
+  SAY INITIAL_MEETING @1223
+  SAY SELECT_COMMON1 @1223
+  SAY SELECT_COMMON2 @1223
+  SAY SELECT_COMMON3 @1223
+  SAY SELECT_COMMON4 @1223
+  // for EE, patch animation
+    
+    COPY_EXISTING ~AC#W48G1.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~AC#TOWNIE_CURST_MALE~))
+    
+COPY ~godcall/cre/AC#W48G2.cre~ ~override~
+  SAY NAME1 @1120 SAY NAME2 @1120
+  SAY INITIAL_MEETING @1222
+  SAY SELECT_COMMON1 @1222
+  SAY SELECT_COMMON2 @1222
+  SAY SELECT_COMMON3 @1222
+  SAY SELECT_COMMON4 @1222
+  
+COPY ~godcall/cre/AC#WNAL1.cre~ ~override~
+  SAY NAME1 @1099 SAY NAME2 @1099
+  WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~NALFESHNEE_ACIFER~))
+		
+  
+COPY ~godcall/cre/AC#WLIL1.cre~ ~override~
+  SAY NAME1 @1121 SAY NAME2 @1121
+  
+COPY ~godcall/cre/AC#WLIL2.cre~ ~override~
+  SAY NAME1 @1121 SAY NAME2 @1121
+  
+COPY ~godcall/cre/AC#WLIL3.cre~ ~override~
+  SAY NAME1 @1121 SAY NAME2 @1121
+  
+COPY ~godcall/cre/AC#WLIL4.cre~ ~override~
+  SAY NAME1 @1121 SAY NAME2 @1121
+  
+COPY ~godcall/cre/AC#WWARW.cre~ ~override~
+  SAY NAME1 @1122 SAY NAME2 @1122
+
+COPY ~godcall/cre/AC#W40A1.cre~ ~override~  // Aphul, Abishai in Samora
+  SAY NAME1 @1123 SAY NAME2 @1123
+  WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~ABISHAI_BLUE~))
+    
+
+COPY ~godcall/cre/AC#W60A1.cre~ ~override~  // Aphul, Abishai in bloodwar area
+  SAY NAME1 @1123 SAY NAME2 @1123
+  SAY INITIAL_MEETING @1224
+  SAY SELECT_COMMON1 @1224
+  SAY SELECT_COMMON2 @1224
+  SAY SELECT_COMMON3 @1224
+  SAY SELECT_COMMON4 @1224
+/*
+  ADD_MEMORIZED_SPELL ~SPWI308~ #2 ~wizard~ ( 1 ) // Lightning Bolt
+  ADD_MEMORIZED_SPELL ~SPWI404~ #3 ~wizard~ ( 1 ) // Ice Storm
+  ADD_MEMORIZED_SPELL ~SPWI503~ #4 ~wizard~ ( 1 ) // Cone of Cold
+*/
+  // for EE, patch animation
+    
+    COPY_EXISTING ~AC#W60A1.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~ABISHAI_BLUE~))
+    
+
+COPY ~godcall/cre/AC#W30A1.cre~ ~override~  // Aphul, abishai in staircase
+  SAY NAME1 @1123 SAY NAME2 @1123
+  SAY INITIAL_MEETING @1224
+  SAY SELECT_COMMON1 @1224
+  SAY SELECT_COMMON2 @1224
+  SAY SELECT_COMMON3 @1224
+  SAY SELECT_COMMON4 @1224
+  // for EE, patch animation
+    
+    COPY_EXISTING ~AC#W30A1.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~ABISHAI_BLUE~))
+    
+
+COPY ~godcall/cre/AC#W30A2.cre~ ~override~  // green Abishai in staircase
+  SAY INITIAL_MEETING @1216
+  SAY SELECT_COMMON1 @1216
+  SAY SELECT_COMMON2 @1216
+  SAY SELECT_COMMON3 @1216
+  SAY SELECT_COMMON4 @1216
+  // for EE, patch animation
+    
+    COPY_EXISTING ~AC#W30A2.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~ABISHAI_GREEN~))
+    	
+	
+COPY ~godcall/cre/AC#W40A2.cre~ ~override~  // green Abishai in staircase
+  SAY INITIAL_MEETING @1216
+  SAY SELECT_COMMON1 @1216
+  SAY SELECT_COMMON2 @1216
+  SAY SELECT_COMMON3 @1216
+  SAY SELECT_COMMON4 @1216
+  // for EE, patch animation
+    
+    COPY_EXISTING ~AC#W40A2.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~ABISHAI_GREEN~))
+    
+
+COPY ~godcall/cre/AC#W60A2.cre~ ~override~  // green Abishai in bloodwar area
+  SAY INITIAL_MEETING @1216
+  SAY SELECT_COMMON1 @1216
+  SAY SELECT_COMMON2 @1216
+  SAY SELECT_COMMON3 @1216
+  SAY SELECT_COMMON4 @1216
+  // for EE, patch animation
+    
+    COPY_EXISTING ~AC#W60A2.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~ABISHAI_GREEN~))
+    	
+    
+COPY ~godcall/cre/AC#WABBK.cre~ ~override~  // Black Abishai in bloodwar area
+  SAY INITIAL_MEETING @1216
+  SAY SELECT_COMMON1 @1216
+  SAY SELECT_COMMON2 @1216
+  SAY SELECT_COMMON3 @1216
+  SAY SELECT_COMMON4 @1216
+  // for EE, patch animation
+    
+    COPY_EXISTING ~AC#WABBK.cre~ ~override~
+    WRITE_LONG 0x28 (IDS_OF_SYMBOL (~animate~ ~ABISHAI_BLACK~))
+    

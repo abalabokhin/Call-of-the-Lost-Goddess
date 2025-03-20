@@ -1,0 +1,32 @@
+// game: Call of the Lost Goddess
+// date: 2025-01-14, 19:18
+// Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
+
+@0 = ~Der Meister Samoras ist in der Arena! Wer möchte ihn herausfordern?~
+@1 = ~…~
+@2 = ~Leider gibt es niemanden, der noch gegen Euch antreten möchte. Haut ab, Ihr vergrault mir die Kundschaft!~
+@3 = ~Ihr habt ihn besiegt! Ihr habt den Meister tatsächlich besiegt!~
+@4 = ~Hätte nie gedacht, dass so ein niederer Sterblicher dazu in der Lage wäre. Nun gut, ich zolle Euch Respekt. Und Ihr bekommt eine Belohnung. Geht in den „Besudelten Solar“ und sauft Euch voll.~
+@5 = ~Ihr habt fast alle meine Gladiatoren besiegt. Noch einer ist übrig. Wenn Ihr diesen besiegt, könnt Ihr voller Stolz den Titel „Gladiatorenmeister Samoras“ tragen.~ ~Ihr habt fast alle meine Gladiatoren besiegt. Noch einer ist übrig. Wenn Ihr diesen besiegt, könnt Ihr voller Stolz den Titel „Gladiatorenmeisterin Samoras“ tragen.~
+@6 = ~Wer ist der letzte Kämpfer?~
+@7 = ~Ich möchte den letzten Kampf wagen!~
+@8 = ~Kein Interesse.~
+@9 = ~Der letzte Krieger ist ein sehr erfahrener Streiter. Einst ein Diener des Guten, ist er doch irgendwann vom Weg des Guten abgekommen und dann hier gelandet. Er ist ein Aasimon, so ein leuchtendes Wesen mit schönen Flügeln und zarter Haut. Zumindest war er das, bevor er hier alle seine Kontrahenten in Stücke gehauen hat. Also was ist, wollt Ihr gegen den bisherigen Meister antreten?~
+@10 = ~Vorzüglich! Leute! Es gibt einen Kampf! Werdet Zeuge, wie dieser Sterbliche von seinem Gegner in Stücke gerissen wird!~ ~Vorzüglich! Leute! Es gibt einen Kampf! Werdet Zeuge, wie diese Sterbliche von ihrem Gegner in Stücke gerissen wird!~
+@11 = ~He, so einen Yugoloth-Söldner schlagen die wenigsten Gladiatoren. So langsam gehen mir die Kontrahenten aus.~
+@12 = ~Mit diesen Glotzaugen scheint Ihr in Eurer Welt ja Erfahrung zu haben. Gut gemacht, Kämpfer! Meine Gäste wurden gut unterhalten.~ ~Mit diesen Glotzaugen scheint Ihr in Eurer Welt ja Erfahrung zu haben. Gut gemacht, Kämpferin! Meine Gäste wurden gut unterhalten.~
+@13 = ~Langsam wird es schwerer, oder etwa nicht? Die Tiefling-Brüder galten bisher als die aussichtsreichsten Kandidaten in diesen Gruben. Jetzt habt Ihr diesen Status inne! Mal sehen, wie lange …~
+@14 = ~Diesen Affen habt Ihr es aber ganz schön gezeigt! Nicht schade um sie, waren ohnehin Diener unseres Feindes Demogorgon …~
+@15 = ~Einen Cambion-Baron besiegt! Nicht schlecht, nicht schlecht! Da wird der stolze Balor-Vater sicher nicht sehr erfreut über den Verlust seines Sohnes sein.~
+@16 = ~Nun gut, die Diener des Gehörnten habt Ihr also besiegt. Mal sehen, wie Ihr Euch gegen den nächsten Gegner schlagt.~
+@17 = ~Dretches! Wie ich diese stinkenden Bastarde hasse! Gut, dass Ihr ihnen gezeigt habt, wer hier in der Arena das Sagen hat!~
+@18 = ~Diese Tanarukk waren wohl keine besondere Herausforderung für Euch. Leicht verdiente Beute, würde ich sagen.~
+@19 = ~Na, das war für den Anfang einmal gar nicht so schlecht. Sprecht mich wieder an, wenn Ihr bereit für die nächste Runde seid. Doch gebt acht: Die Gegner werden immer schwieriger!~
+@20 = ~Neues Fleisch für die Arena! Wollt Ihr Eure Kräfte mit denen der Gegner messen und entweder ruhmreich siegen oder elendig zugrunde gehen?~
+@21 = ~Was ist das für ein Ort hier?~
+@22 = ~Ich möchte einen Kampf wagen.~
+@23 = ~Wie lauten die Regeln?~
+@24 = ~Das hier? Das sind die Gruben der Verderbnis. Hier können Gladiatoren gegeneinander antreten und Ruhm und Reichtum ernten.~
+@25 = ~Regeln? Was denn für Regeln? Ihr kämpft bis zum Tod! Der Kampf ist vorbei, wenn alle Gegner tot sind. Belohnung gibts keine, die Beute Eurer Gegner ist Lohn genug.~
+@26 = ~Dann verschwindet aus meiner Arena, Sterbliche!~
+@27 = ~Na? Bereit für einen Kampf?~

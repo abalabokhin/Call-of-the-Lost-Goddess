@@ -1,0 +1,22 @@
+DEFINE_PATCH_FUNCTION CRE_insert_script_high
+     STR_VAR
+         arguments=""
+BEGIN
+     FOR (i=0x248;i<0x270;i=i + 8) BEGIN
+        READ_ASCII i ~test~
+        SET blank=0
+        PATCH_IF ~%test%~ STRING_EQUAL_CASE ~~ OR ~%test%~ STRING_EQUAL_CASE ~none~ BEGIN
+           SET blank=i
+           SET i=0x270
+        END
+     END
+     PATCH_IF blank=0 BEGIN // merge the first two scripts, but check both exist first!
+     // Hier ist der Merge-Teil. Kann potentiell zu Problemen führen, wenn Mods, die später installiert werden, Änderungen an dem gemergten Skript vornehmen.
+     END ELSE BEGIN
+           FOR (i=blank;i>0x248;i=i - 8) BEGIN
+              READ_ASCII i - 8 ~move~
+              WRITE_ASCIIE i ~%move%~ (8)
+           END
+           WRITE_ASCIIE 0x248 ~%arguments%~ (8)
+     END
+END

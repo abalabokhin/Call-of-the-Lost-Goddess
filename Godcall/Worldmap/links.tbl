@@ -1,0 +1,20 @@
+
+SRC_AREA     SRC_NWSE     TARGET_ARE   ENTRY_NAME   TRV_TIME     DEF_ENTRY    ENC1         ENC2         ENC3         ENC4         ENC5         ENC_PROB
+
+// Government district
+AR1000       N            AC#W01       EntryWM      0            1            N            N            N            N            N            0
+AR1000       E            AC#W01       EntryWM      0            1            N            N            N            N            N            0
+AR1000       S            AC#W01       EntryWM      0            1            N            N            N            N            N            0
+AR1000       W            AC#W01       EntryWM      0            1            N            N            N            N            N            0
+
+// Gate district
+AR0020       N            AC#W01       EntryWM      0            1            N            N            N            N            N            0
+AR0020       E            AC#W01       EntryWM      0            1            N            N            N            N            N            0
+AR0020       S            AC#W01       EntryWM      0            1            N            N            N            N            N            0
+AR0020       W            AC#W01       EntryWM      0            1            N            N            N            N            N            0
+
+// Goldspires
+AC#W01       N            AR0020       ExitNE       0            1            N            N            N            N            N            0
+AC#W01       E            AR0020       ExitNE       0            1            N            N            N            N            N            0
+AC#W01       S            AR0020       ExitNE       0            1            N            N            N            N            N            0
+AC#W01       W            AR0020       ExitNE       0            1            N            N            N            N            N            0

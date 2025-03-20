@@ -1,0 +1,24 @@
+// game: Call of the Lost Goddess
+// date: 2025-01-14, 19:18
+// Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
+
+@0 = ~Ihr wagt es, mich zu bestehlen, Sterbliche? Fürchtet die Sense der Verdammnis, die Euch nun zerschneiden wird!~
+@1 = ~Was führt Euch zu mir, Sterbliche? Nichts, das mich interessieren könnte, denke ich. Lasst mich in Ruhe!~
+@2 = ~Wir suchen nach einer besonderen Substanz, die Ihr besitzen sollt – etwas Wasser des Flusses Styx.~
+@3 = ~Ich möchte das Styx-Wasser jetzt kaufen.~
+@4 = ~Wer seid Ihr?~
+@5 = ~Wie Ihr wünscht. (Weggehen).~
+@6 = ~Meine Herkunft ist nicht von Bedeutung, denn in dieser Stadt sind wir alle Schatten, die im Licht des Dämonenfürsten tanzen. Darum solltet Ihr jetzt gehen.~
+@7 = ~Wasser des Styx’? Das ist kein gewöhnlicher Handelsartikel, Fremde. Was habt Ihr damit vor?~
+@8 = ~Es ist eine wichtige Angelegenheit. Wir müssen jemanden beeinflussen, der uns schaden könnte.~
+@9 = ~Beeinflussen? Ihr wollt ihm seine Erinnerung rauben. Ihr wollt ihm schaden, bevor er Euch schadet. Das gefällt mir.~
+@10 = ~Gebt Ihr uns also davon?~
+@11 = ~Nun gut. Für das Styx-Wasser verlange ich eine Summe von 5.000 Goldmünzen.~
+@12 = ~5.000 Goldmünzen? Das ist eine enorme Summe!~
+@13 = ~Gut, hier sind die 5.000 Goldmünzen.~
+@14 = ~So viel Gold habe ich nicht.~
+@15 = ~Das ist mir zu teuer.~
+@16 = ~Die Mächte des Styx’ sind nicht billig, und die Gefahren, die es birgt, sind zahllos. Wenn Ihr das Wasser haben wollt, müsst Ihr bereit sein, den Preis zu zahlen.~
+@17 = ~Die Wege des Abyss sind unberechenbar und unerbittlich. Wenn Ihr nicht zahlen wollt, dann werdet Ihr nichts erhalten. Und denkt daran, in Samora verschwinden Erinnerungen oft schneller, als man denkt.~
+@18 = ~Möge Euer Pfad von der Pein des Abyss gekreuzt werden, bis sich unsere Wege erneut treffen.~
+@19 = ~Hier habt Ihr ein Fläschchen. Möge Euer Weg auf dem Fluss des Vergessens nicht zu Eurer eigenen Tragödie werden. Die Schulden des Styx’ sind schwerwiegend, und seine Geheimnisse sind gefährlich.~

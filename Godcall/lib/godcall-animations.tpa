@@ -1,0 +1,532 @@
+// Godcall animation files
+
+   // Bodak
+  LAF FIND_FREE_ANIM_SLOT INT_VAR slotMin = 0x7f15 slotMax = slotMin + 0xff RET slot END
+  ACTION_IF (slot <= 0) BEGIN
+    FAIL ~No free creature animation slot found.~
+  END
+  LAF TO_HEX_NUMBER INT_VAR value = slot minDigits = 4 RET hexNumber END
+  APPEND ~animate.ids~ ~0x%hexNumber% BODAK_ACIFER~ UNLESS ~BODAK_ACIFER~
+  CLEAR_IDS_MAP
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Bodak/exxx.ini~ ~override/%hexNumber%.ini~
+  ACTION_BASH_FOR ~%MOD_FOLDER%/animations/BG2_EE_animations/Bodak~ ~^.+\.bam$~ BEGIN
+    COPY ~%BASH_FOR_FILESPEC%~ ~override~
+    COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Bodak/Bodak-sounds~ ~override~
+  END
+
+   // Mezzoloth
+  LAF FIND_FREE_ANIM_SLOT INT_VAR slotMin = 0x7f15 slotMax = slotMin + 0xff RET slot END
+  ACTION_IF (slot <= 0) BEGIN
+    FAIL ~No free creature animation slot found.~
+  END
+  LAF TO_HEX_NUMBER INT_VAR value = slot minDigits = 4 RET hexNumber END
+  APPEND ~animate.ids~ ~0x%hexNumber% MEZZOLOTH_ACIFER~ UNLESS ~MEZZOLOTH_ACIFER~
+  CLEAR_IDS_MAP
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Mezzoloth/exxx.ini~ ~override/%hexNumber%.ini~
+  ACTION_BASH_FOR ~%MOD_FOLDER%/animations/BG2_EE_animations/Mezzoloth~ ~^.+\.bam$~ BEGIN
+    COPY ~%BASH_FOR_FILESPEC%~ ~override~
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Mezzoloth/Mezzoloth-sounds~ ~override~
+  END
+
+   // Hezrou
+  LAF FIND_FREE_ANIM_SLOT INT_VAR slotMin = 0x7f15 slotMax = slotMin + 0xff RET slot END
+  ACTION_IF (slot <= 0) BEGIN
+    FAIL ~No free creature animation slot found.~
+  END
+  LAF TO_HEX_NUMBER INT_VAR value = slot minDigits = 4 RET hexNumber END
+  APPEND ~animate.ids~ ~0x%hexNumber% HEZROU_ACIFER~ UNLESS ~HEZROU_ACIFER~
+  CLEAR_IDS_MAP
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Hezrou/exxx.ini~ ~override/%hexNumber%.ini~
+  ACTION_BASH_FOR ~%MOD_FOLDER%/animations/BG2_EE_animations/Hezrou~ ~^.+\.bam$~ BEGIN
+    COPY ~%BASH_FOR_FILESPEC%~ ~override~
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Hezrou/Hezrou-sounds~ ~override~
+  END
+
+   // Rutterkin
+  LAF FIND_FREE_ANIM_SLOT INT_VAR slotMin = 0x7f15 slotMax = slotMin + 0xff RET slot END
+  ACTION_IF (slot <= 0) BEGIN
+    FAIL ~No free creature animation slot found.~
+  END
+  LAF TO_HEX_NUMBER INT_VAR value = slot minDigits = 4 RET hexNumber END
+  APPEND ~animate.ids~ ~0x%hexNumber% RUTTERKIN_ACIFER~ UNLESS ~RUTTERKIN_ACIFER~
+  CLEAR_IDS_MAP
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Rutterkin/exxx.ini~ ~override/%hexNumber%.ini~
+  ACTION_BASH_FOR ~%MOD_FOLDER%/animations/BG2_EE_animations/Rutterkin~ ~^.+\.bam$~ BEGIN
+    COPY ~%BASH_FOR_FILESPEC%~ ~override~
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Rutterkin/Rutterkin-sounds~ ~override~
+  END
+
+  // Bariaur PST animation
+ LAF FIND_FREE_ANIM_SLOT INT_VAR slotMin = 0x7f00 slotMax = slotMin + 0xff RET slot END
+  ACTION_IF (slot <= 0) BEGIN
+    FAIL ~No free creature animation slot found.~
+  END
+
+  LAF TO_HEX_NUMBER INT_VAR value = slot minDigits = 4 RET hexNumber END
+  APPEND ~animate.ids~ ~0x%hexNumber% AC#BARIAUR~ UNLESS ~AC#BARIAUR~
+  CLEAR_IDS_MAP
+
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Bariaur/exxx.ini~ ~override/%hexNumber%.ini~
+
+  ACTION_BASH_FOR ~%MOD_FOLDER%/animations/BG2_EE_animations/Bariaur~ ~^.+\.bam$~ BEGIN
+    COPY ~%BASH_FOR_FILESPEC%~ ~override~
+  END
+  
+   // Tiefling female PST animation
+ LAF FIND_FREE_ANIM_SLOT INT_VAR slotMin = 0x7f00 slotMax = slotMin + 0xff RET slot END
+  ACTION_IF (slot <= 0) BEGIN
+    FAIL ~No free creature animation slot found.~
+  END
+
+  LAF TO_HEX_NUMBER INT_VAR value = slot minDigits = 4 RET hexNumber END
+  APPEND ~animate.ids~ ~0x%hexNumber% AC#TIEFLING_FEMALE~ UNLESS ~AC#TIEFLING_FEMALE~
+  CLEAR_IDS_MAP
+
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Tiefling_female/exxx.ini~ ~override/%hexNumber%.ini~
+
+  ACTION_BASH_FOR ~%MOD_FOLDER%/animations/BG2_EE_animations/Tiefling_female~ ~^.+\.bam$~ BEGIN
+    COPY ~%BASH_FOR_FILESPEC%~ ~override~
+  END
+  
+  // Tiefling male PST animation
+ LAF FIND_FREE_ANIM_SLOT INT_VAR slotMin = 0x7f00 slotMax = slotMin + 0xff RET slot END
+  ACTION_IF (slot <= 0) BEGIN
+    FAIL ~No free creature animation slot found.~
+  END
+
+  LAF TO_HEX_NUMBER INT_VAR value = slot minDigits = 4 RET hexNumber END
+  APPEND ~animate.ids~ ~0x%hexNumber% AC#TIEFLING_MALE~ UNLESS ~AC#TIEFLING_MALE~
+  CLEAR_IDS_MAP
+
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Tiefling_male/exxx.ini~ ~override/%hexNumber%.ini~
+
+  ACTION_BASH_FOR ~%MOD_FOLDER%/animations/BG2_EE_animations/Tiefling_male~ ~^.+\.bam$~ BEGIN
+    COPY ~%BASH_FOR_FILESPEC%~ ~override~
+  END
+  
+   // Townie curst male animation
+ LAF FIND_FREE_ANIM_SLOT INT_VAR slotMin = 0x7f00 slotMax = slotMin + 0xff RET slot END
+  ACTION_IF (slot <= 0) BEGIN
+    FAIL ~No free creature animation slot found.~
+  END
+
+  LAF TO_HEX_NUMBER INT_VAR value = slot minDigits = 4 RET hexNumber END
+  APPEND ~animate.ids~ ~0x%hexNumber% AC#TOWNIE_CURST_MALE~ UNLESS ~AC#TOWNIE_CURST_MALE~
+  CLEAR_IDS_MAP
+
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Townie_Curst_male/exxx.ini~ ~override/%hexNumber%.ini~
+
+  ACTION_BASH_FOR ~%MOD_FOLDER%/animations/BG2_EE_animations/Townie_Curst_male~ ~^.+\.bam$~ BEGIN
+    COPY ~%BASH_FOR_FILESPEC%~ ~override~
+  END
+  
+   // Monodron animation
+ LAF FIND_FREE_ANIM_SLOT INT_VAR slotMin = 0x7f00 slotMax = slotMin + 0xff RET slot END
+  ACTION_IF (slot <= 0) BEGIN
+    FAIL ~No free creature animation slot found.~
+  END
+
+  LAF TO_HEX_NUMBER INT_VAR value = slot minDigits = 4 RET hexNumber END
+  APPEND ~animate.ids~ ~0x%hexNumber% AC#MONODRON~ UNLESS ~AC#MONODRON~
+  CLEAR_IDS_MAP
+
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Monodron/exxx.ini~ ~override/%hexNumber%.ini~
+
+  ACTION_BASH_FOR ~%MOD_FOLDER%/animations/BG2_EE_animations/Monodron~ ~^.+\.bam$~ BEGIN
+    COPY ~%BASH_FOR_FILESPEC%~ ~override~
+  END
+
+   // Dretch
+  LAF FIND_FREE_ANIM_SLOT INT_VAR slotMin = 0x7f15 slotMax = slotMin + 0xff RET slot END
+  ACTION_IF (slot <= 0) BEGIN
+    FAIL ~No free creature animation slot found.~
+  END
+  LAF TO_HEX_NUMBER INT_VAR value = slot minDigits = 4 RET hexNumber END
+  APPEND ~animate.ids~ ~0x%hexNumber% DRETCH_ACIFER~ UNLESS ~DRETCH_ACIFER~
+  CLEAR_IDS_MAP
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Dretch/exxx.ini~ ~override/%hexNumber%.ini~
+  ACTION_BASH_FOR ~%MOD_FOLDER%/animations/BG2_EE_animations/Dretch~ ~^.+\.bam$~ BEGIN
+    COPY ~%BASH_FOR_FILESPEC%~ ~override~
+  END
+  
+     // Alkilith
+  LAF FIND_FREE_ANIM_SLOT INT_VAR slotMin = 0x7f15 slotMax = slotMin + 0xff RET slot END
+  ACTION_IF (slot <= 0) BEGIN
+    FAIL ~No free creature animation slot found.~
+  END
+  LAF TO_HEX_NUMBER INT_VAR value = slot minDigits = 4 RET hexNumber END
+  APPEND ~animate.ids~ ~0x%hexNumber% ALKILITH_ACIFER~ UNLESS ~ALKILITH_ACIFER~
+  CLEAR_IDS_MAP
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Alkilith/exxx.ini~ ~override/%hexNumber%.ini~
+  ACTION_BASH_FOR ~%MOD_FOLDER%/animations/BG2_EE_animations/Alkilith~ ~^.+\.bam$~ BEGIN
+    COPY ~%BASH_FOR_FILESPEC%~ ~override~
+  END
+    
+// OLD Dretch
+/*
+  LAF FIND_FREE_ANIM_SLOT INT_VAR slotMin = 0xE000 slotMax = 0xefff RET slot END
+  ACTION_IF (slot <= 0) BEGIN
+    FAIL ~No free creature animation slot found.~
+  END
+
+  LAF TO_HEX_NUMBER INT_VAR value = slot minDigits = 4 RET hexNumber END
+  APPEND ~animate.ids~ ~0x%hexNumber% AC#DRETCH~ UNLESS ~AC#DRETCH~
+  CLEAR_IDS_MAP
+
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Dretch/exxx.ini~ ~override/%hexNumber%.ini~
+
+  ACTION_BASH_FOR ~%MOD_FOLDER%/animations/BG2_EE_animations/Dretch~ ~^.+\.bam$~ BEGIN
+    COPY ~%BASH_FOR_FILESPEC%~ ~override~
+  END
+*/
+
+  // Vrock
+  LAF FIND_FREE_ANIM_SLOT INT_VAR slotMin = 0xE000 slotMax = 0xefff RET slot END
+  ACTION_IF (slot <= 0) BEGIN
+    FAIL ~No free creature animation slot found.~
+  END
+
+  LAF TO_HEX_NUMBER INT_VAR value = slot minDigits = 4 RET hexNumber END
+  APPEND ~animate.ids~ ~0x%hexNumber% AC#VROCK~ UNLESS ~AC#VROCK~
+  CLEAR_IDS_MAP
+
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Vrock/exxx.ini~ ~override/%hexNumber%.ini~
+
+  ACTION_BASH_FOR ~%MOD_FOLDER%/animations/BG2_EE_animations/Vrock~ ~^.+\.bam$~ BEGIN
+    COPY ~%BASH_FOR_FILESPEC%~ ~override~
+  END
+
+  // Arcanaloth
+  LAF FIND_FREE_ANIM_SLOT INT_VAR slotMin = 0x7f15 slotMax = slotMin + 0xff RET slot END
+  ACTION_IF (slot <= 0) BEGIN
+    FAIL ~No free creature animation slot found.~
+  END
+  LAF TO_HEX_NUMBER INT_VAR value = slot minDigits = 4 RET hexNumber END
+  APPEND ~animate.ids~ ~0x%hexNumber% ARCANALOTH_ACIFER~ UNLESS ~ARCANALOTH_ACIFER~
+  CLEAR_IDS_MAP
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Arcanaloth/exxx.ini~ ~override/%hexNumber%.ini~
+  ACTION_BASH_FOR ~%MOD_FOLDER%/animations/BG2_EE_animations/Arcanaloth~ ~^.+\.bam$~ BEGIN
+    COPY ~%BASH_FOR_FILESPEC%~ ~override~
+  END
+
+  // Nalfeshnee
+  LAF FIND_FREE_ANIM_SLOT INT_VAR slotMin = 0x7f15 slotMax = slotMin + 0xff RET slot END
+  ACTION_IF (slot <= 0) BEGIN
+    FAIL ~No free creature animation slot found.~
+  END
+  LAF TO_HEX_NUMBER INT_VAR value = slot minDigits = 4 RET hexNumber END
+  APPEND ~animate.ids~ ~0x%hexNumber% NALFESHNEE_ACIFER~ UNLESS ~NALFESHNEE_ACIFER~
+  CLEAR_IDS_MAP
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Nalfeshnee/exxx.ini~ ~override/%hexNumber%.ini~
+  ACTION_BASH_FOR ~%MOD_FOLDER%/animations/BG2_EE_animations/Nalfeshnee~ ~^.+\.bam$~ BEGIN
+    COPY ~%BASH_FOR_FILESPEC%~ ~override~
+  END
+  
+  // Merrenoloth
+  LAF FIND_FREE_ANIM_SLOT INT_VAR slotMin = 0xE000 slotMax = 0xefff RET slot END
+  ACTION_IF (slot <= 0) BEGIN
+    FAIL ~No free creature animation slot found.~
+  END
+
+  LAF TO_HEX_NUMBER INT_VAR value = slot minDigits = 4 RET hexNumber END
+  APPEND ~animate.ids~ ~0x%hexNumber% AC#MERRENOLOTH~ UNLESS ~AC#MERRENOLOTH~
+  CLEAR_IDS_MAP
+
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Merrenoloth/exxx.ini~ ~override/%hexNumber%.ini~
+
+  ACTION_BASH_FOR ~%MOD_FOLDER%/animations/BG2_EE_animations/Merrenoloth~ ~^.+\.bam$~ BEGIN
+    COPY ~%BASH_FOR_FILESPEC%~ ~override~
+  END
+  
+  // Babau
+  LAF FIND_FREE_ANIM_SLOT INT_VAR slotMin = 0xE000 slotMax = 0xefff RET slot END
+  ACTION_IF (slot <= 0) BEGIN
+    FAIL ~No free creature animation slot found.~
+  END
+
+  LAF TO_HEX_NUMBER INT_VAR value = slot minDigits = 4 RET hexNumber END
+  APPEND ~animate.ids~ ~0x%hexNumber% AC#BABAU~ UNLESS ~AC#BABAU~
+  CLEAR_IDS_MAP
+
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Babau/exxx.ini~ ~override/%hexNumber%.ini~
+
+  ACTION_BASH_FOR ~%MOD_FOLDER%/animations/BG2_EE_animations/Babau~ ~^.+\.bam$~ BEGIN
+    COPY ~%BASH_FOR_FILESPEC%~ ~override~
+  END
+  
+  // Mane
+  LAF FIND_FREE_ANIM_SLOT INT_VAR slotMin = 0xE000 slotMax = 0xefff RET slot END
+  ACTION_IF (slot <= 0) BEGIN
+    FAIL ~No free creature animation slot found.~
+  END
+
+  LAF TO_HEX_NUMBER INT_VAR value = slot minDigits = 4 RET hexNumber END
+  APPEND ~animate.ids~ ~0x%hexNumber% AC#MANE~ UNLESS ~AC#MANE~
+  CLEAR_IDS_MAP
+
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Mane/exxx.ini~ ~override/%hexNumber%.ini~
+
+  ACTION_BASH_FOR ~%MOD_FOLDER%/animations/BG2_EE_animations/Mane~ ~^.+\.bam$~ BEGIN
+    COPY ~%BASH_FOR_FILESPEC%~ ~override~
+  END
+  
+  // Vargouille
+  LAF FIND_FREE_ANIM_SLOT INT_VAR slotMin = 0xE000 slotMax = 0xefff RET slot END
+  ACTION_IF (slot <= 0) BEGIN
+    FAIL ~No free creature animation slot found.~
+  END
+
+  LAF TO_HEX_NUMBER INT_VAR value = slot minDigits = 4 RET hexNumber END
+  APPEND ~animate.ids~ ~0x%hexNumber% AC#VARGOUILLE~ UNLESS ~AC#VARGOUILLE~
+  CLEAR_IDS_MAP
+
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Vargouille/exxx.ini~ ~override/%hexNumber%.ini~
+
+  ACTION_BASH_FOR ~%MOD_FOLDER%/animations/BG2_EE_animations/Vargouille~ ~^.+\.bam$~ BEGIN
+    COPY ~%BASH_FOR_FILESPEC%~ ~override~
+  END
+  
+  // Barlgura
+  LAF FIND_FREE_ANIM_SLOT INT_VAR slotMin = 0x7f15 slotMax = slotMin + 0xff RET slot END
+  ACTION_IF (slot <= 0) BEGIN
+    FAIL ~No free creature animation slot found.~
+  END
+  LAF TO_HEX_NUMBER INT_VAR value = slot minDigits = 4 RET hexNumber END
+  APPEND ~animate.ids~ ~0x%hexNumber% BARLGURA_ACIFER~ UNLESS ~BARLGURA_ACIFER~
+  CLEAR_IDS_MAP
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Barlgura/exxx.ini~ ~override/%hexNumber%.ini~
+  ACTION_BASH_FOR ~%MOD_FOLDER%/animations/BG2_EE_animations/Barlgura~ ~^.+\.bam$~ BEGIN
+    COPY ~%BASH_FOR_FILESPEC%~ ~override~
+  END
+  
+    // Mefisto
+  LAF FIND_FREE_ANIM_SLOT INT_VAR slotMin = 0x7f15 slotMax = slotMin + 0xff RET slot END
+  ACTION_IF (slot <= 0) BEGIN
+    FAIL ~No free creature animation slot found.~
+  END
+  LAF TO_HEX_NUMBER INT_VAR value = slot minDigits = 4 RET hexNumber END
+  APPEND ~animate.ids~ ~0x%hexNumber% MEFISTO_ACIFER~ UNLESS ~MEFISTO_ACIFER~
+  CLEAR_IDS_MAP
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Mefisto/exxx.ini~ ~override/%hexNumber%.ini~
+  ACTION_BASH_FOR ~%MOD_FOLDER%/animations/BG2_EE_animations/Mefisto~ ~^.+\.bam$~ BEGIN
+    COPY ~%BASH_FOR_FILESPEC%~ ~override~
+  END
+  
+  // Larva
+  LAF FIND_FREE_ANIM_SLOT INT_VAR slotMin = 0xE000 slotMax = 0xefff RET slot END
+  ACTION_IF (slot <= 0) BEGIN
+    FAIL ~No free creature animation slot found.~
+  END
+
+  LAF TO_HEX_NUMBER INT_VAR value = slot minDigits = 4 RET hexNumber END
+  APPEND ~animate.ids~ ~0x%hexNumber% AC#LARVA~ UNLESS ~AC#LARVA~
+  CLEAR_IDS_MAP
+
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Larva/exxx.ini~ ~override/%hexNumber%.ini~
+
+  ACTION_BASH_FOR ~%MOD_FOLDER%/animations/BG2_EE_animations/Larva~ ~^.+\.bam$~ BEGIN
+    COPY ~%BASH_FOR_FILESPEC%~ ~override~
+  END
+  
+  // Nighthag
+  LAF FIND_FREE_ANIM_SLOT INT_VAR slotMin = 0xE000 slotMax = 0xefff RET slot END
+  ACTION_IF (slot <= 0) BEGIN
+    FAIL ~No free creature animation slot found.~
+  END
+
+  LAF TO_HEX_NUMBER INT_VAR value = slot minDigits = 4 RET hexNumber END
+  APPEND ~animate.ids~ ~0x%hexNumber% AC#NIGHTHAG~ UNLESS ~AC#NIGHTHAG~
+  CLEAR_IDS_MAP
+
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Nighthag/exxx.ini~ ~override/%hexNumber%.ini~
+
+  ACTION_BASH_FOR ~%MOD_FOLDER%/animations/BG2_EE_animations/Nighthag~ ~^.+\.bam$~ BEGIN
+    COPY ~%BASH_FOR_FILESPEC%~ ~override~
+  END
+  
+  // Blood_elemental
+  LAF FIND_FREE_ANIM_SLOT INT_VAR slotMin = 0xE000 slotMax = 0xefff RET slot END
+  ACTION_IF (slot <= 0) BEGIN
+    FAIL ~No free creature animation slot found.~
+  END
+
+  LAF TO_HEX_NUMBER INT_VAR value = slot minDigits = 4 RET hexNumber END
+  APPEND ~animate.ids~ ~0x%hexNumber% AC#BLOOD_ELEMENTAL~ UNLESS ~AC#BLOOD_ELEMENTAL~
+  CLEAR_IDS_MAP
+
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Blood_elemental/exxx.ini~ ~override/%hexNumber%.ini~
+
+  ACTION_BASH_FOR ~%MOD_FOLDER%/animations/BG2_EE_animations/Blood_elemental~ ~^.+\.bam$~ BEGIN
+    COPY ~%BASH_FOR_FILESPEC%~ ~override~
+  END
+  
+  // BEBILITH
+  LAF FIND_FREE_ANIM_SLOT INT_VAR slotMin = 0xE000 slotMax = 0xefff RET slot END
+  ACTION_IF (slot <= 0) BEGIN
+    FAIL ~No free creature animation slot found.~
+  END
+
+  LAF TO_HEX_NUMBER INT_VAR value = slot minDigits = 4 RET hexNumber END
+  APPEND ~animate.ids~ ~0x%hexNumber% AC#BEBILITH~ UNLESS ~AC#BEBILITH~
+  CLEAR_IDS_MAP
+
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Bebilith/exxx.ini~ ~override/%hexNumber%.ini~
+
+  ACTION_BASH_FOR ~%MOD_FOLDER%/animations/BG2_EE_animations/Bebilith~ ~^.+\.bam$~ BEGIN
+    COPY ~%BASH_FOR_FILESPEC%~ ~override~
+  END
+  
+   // Merchant_PST animation
+ LAF FIND_FREE_ANIM_SLOT INT_VAR slotMin = 0x7f00 slotMax = slotMin + 0xff RET slot END
+  ACTION_IF (slot <= 0) BEGIN
+    FAIL ~No free creature animation slot found.~
+  END
+
+  LAF TO_HEX_NUMBER INT_VAR value = slot minDigits = 4 RET hexNumber END
+  APPEND ~animate.ids~ ~0x%hexNumber% AC#MERCHANT_PST~ UNLESS ~AC#MERCHANT_PST~
+  CLEAR_IDS_MAP
+
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Merchant_PST/exxx.ini~ ~override/%hexNumber%.ini~
+
+  ACTION_BASH_FOR ~%MOD_FOLDER%/animations/BG2_EE_animations/Merchant_PST~ ~^.+\.bam$~ BEGIN
+    COPY ~%BASH_FOR_FILESPEC%~ ~override~
+  END
+  
+  // Succubus NWN
+  LAF FIND_FREE_ANIM_SLOT INT_VAR slotMin = 0xE000 slotMax = 0xefff RET slot END
+  ACTION_IF (slot <= 0) BEGIN
+    FAIL ~No free creature animation slot found.~
+  END
+
+  LAF TO_HEX_NUMBER INT_VAR value = slot minDigits = 4 RET hexNumber END
+  APPEND ~animate.ids~ ~0x%hexNumber% AC#SUCCUBUS_NWN~ UNLESS ~AC#SUCCUBUS_NWN~
+  CLEAR_IDS_MAP
+
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Succubus_NWN/exxx.ini~ ~override/%hexNumber%.ini~
+
+  ACTION_BASH_FOR ~%MOD_FOLDER%/animations/BG2_EE_animations/Succubus_NWN~ ~^.+\.bam$~ BEGIN
+    COPY ~%BASH_FOR_FILESPEC%~ ~override~
+  END
+  
+  // Maretta animation
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Maretta/AC#WMARE.bmp~ ~override~
+  LAF FIND_FREE_ANIM_SLOT INT_VAR slotMin = 0xE000 slotMax = 0xefff RET slot END
+  ACTION_IF (slot <= 0) BEGIN
+    FAIL ~No free creature animation slot found.~
+  END
+  LAF TO_HEX_NUMBER INT_VAR value = slot minDigits = 4 RET hexNumber END
+  APPEND ~animate.ids~ ~0x%hexNumber% AC#MARETTA~ UNLESS ~AC#MARETTA~
+  CLEAR_IDS_MAP
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Maretta/exxx.ini~ ~override/%hexNumber%.ini~
+  
+  // Piscoloth animation
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Piscoloth/AC#PISCO.bmp~ ~override~
+  LAF FIND_FREE_ANIM_SLOT INT_VAR slotMin = 0xE000 slotMax = 0xefff RET slot END
+  ACTION_IF (slot <= 0) BEGIN
+    FAIL ~No free creature animation slot found.~
+  END
+  LAF TO_HEX_NUMBER INT_VAR value = slot minDigits = 4 RET hexNumber END
+  APPEND ~animate.ids~ ~0x%hexNumber% AC#PISCOLOTH~ UNLESS ~AC#PISCOLOTH~
+  CLEAR_IDS_MAP
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Piscoloth/exxx.ini~ ~override/%hexNumber%.ini~
+     // copy the Vodyanoi (MUM2) bam files for the Picoloth animation
+    ACTION_BASH_FOR ~%MOD_FOLDER%/animations/BG2_EE_animations/Piscoloth~ ~^.+\.bam$~ BEGIN
+      COPY ~%BASH_FOR_FILESPEC%~ ~override~
+    END
+    
+  // HAMATULA
+  LAF FIND_FREE_ANIM_SLOT INT_VAR slotMin = 0xE000 slotMax = 0xefff RET slot END
+  ACTION_IF (slot <= 0) BEGIN
+    FAIL ~No free creature animation slot found.~
+  END
+
+  LAF TO_HEX_NUMBER INT_VAR value = slot minDigits = 4 RET hexNumber END
+  APPEND ~animate.ids~ ~0x%hexNumber% AC#HAMATULA~ UNLESS ~AC#HAMATULA~
+  CLEAR_IDS_MAP
+
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Hamatula/exxx.ini~ ~override/%hexNumber%.ini~
+
+  ACTION_BASH_FOR ~%MOD_FOLDER%/animations/BG2_EE_animations/Hamatula~ ~^.+\.bam$~ BEGIN
+    COPY ~%BASH_FOR_FILESPEC%~ ~override~
+  END
+  
+   // Aranoth (modified PS:T Trelon animation)
+  LAF FIND_FREE_ANIM_SLOT INT_VAR slotMin = 0xE000 slotMax = 0xefff RET slot END
+  ACTION_IF (slot <= 0) BEGIN
+    FAIL ~No free creature animation slot found.~
+  END
+
+  LAF TO_HEX_NUMBER INT_VAR value = slot minDigits = 4 RET hexNumber END
+  APPEND ~animate.ids~ ~0x%hexNumber% AC#ARANOTH~ UNLESS ~AC#ARANOTH~
+  CLEAR_IDS_MAP
+  
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Aranoth/exxx.ini~ ~override/%hexNumber%.ini~
+
+  ACTION_BASH_FOR ~%MOD_FOLDER%/animations/BG2_EE_animations/Aranoth~ ~^.+\.bam$~ BEGIN
+    COPY ~%BASH_FOR_FILESPEC%~ ~override~
+  END
+
+   // Baphitaur (modified IWD Minotaur animation)
+  LAF FIND_FREE_ANIM_SLOT INT_VAR slotMin = 0xE000 slotMax = 0xefff RET slot END
+  ACTION_IF (slot <= 0) BEGIN
+    FAIL ~No free creature animation slot found.~
+  END
+
+  LAF TO_HEX_NUMBER INT_VAR value = slot minDigits = 4 RET hexNumber END
+  APPEND ~animate.ids~ ~0x%hexNumber% AC#BAPHITAUR~ UNLESS ~AC#BAPHITAUR~
+  CLEAR_IDS_MAP
+
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Baphitaur/exxx.ini~ ~override/%hexNumber%.ini~
+
+  ACTION_BASH_FOR ~%MOD_FOLDER%/animations/BG2_EE_animations/Baphitaur~ ~^.+\.bam$~ BEGIN
+    COPY ~%BASH_FOR_FILESPEC%~ ~override~
+  END
+
+  // Frost Giant Zombie
+
+  LAF FIND_FREE_ANIM_SLOT INT_VAR slotMin = 0xE000 slotMax = 0xefff RET slot END
+  ACTION_IF (slot <= 0) BEGIN
+    FAIL ~No free creature animation slot found.~
+  END
+  LAF TO_HEX_NUMBER INT_VAR value = slot minDigits = 4 RET hexNumber END
+  APPEND ~animate.ids~ ~0x%hexNumber% AC#GIANT_FROST_ZOMBIE~ UNLESS ~AC#GIANT_FROST_ZOMBIE~
+  CLEAR_IDS_MAP
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Zombie_frostgiant/exxx.ini~ ~override/%hexNumber%.ini~
+  ACTION_BASH_FOR ~%MOD_FOLDER%/animations/BG2_EE_animations/Zombie_frostgiant~ ~^.+\.bam$~ BEGIN
+    COPY ~%BASH_FOR_FILESPEC%~ ~override~
+  END
+  
+   // Brown Otyugh
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Otyugh_brown/AC#BROTY.bmp~ ~override~
+  LAF FIND_FREE_ANIM_SLOT INT_VAR slotMin = 0x7F60 slotMax = slotMin + 0xff RET slot END
+  ACTION_IF (slot <= 0) BEGIN
+    FAIL ~No free creature animation slot found.~
+  END
+  LAF TO_HEX_NUMBER INT_VAR value = slot minDigits = 4 RET hexNumber END
+  APPEND ~animate.ids~ ~0x%hexNumber% AC#OTYUGH_BROWN~ UNLESS ~AC#OTYUGH_BROWN~
+  CLEAR_IDS_MAP
+  COPY ~%MOD_FOLDER%/animations/BG2_EE_animations/Otyugh_brown/exxx.ini~ ~override/%hexNumber%.ini~
+
+  // red abishai animation - copy bams only (needed for red and blue abishai)
+  COPY ~godcall/animations/BG2_EE_animations/Abishai_red~         ~override~
+  
+  // green abishai animation - copy bams only 
+  COPY ~godcall/animations/BG2_EE_animations/Abishai_green~         ~override~
+  
+  // black abishai animation - copy bams only
+  COPY ~godcall/animations/BG2_EE_animations/Abishai_black~         ~override~
+  
+  // lemure animation - copy bams only
+  COPY ~godcall/animations/BG2_EE_animations/Lemure~         ~override~
+  
+  // seer animation - copy bams only
+  COPY ~godcall/animations/BG2_EE_animations/Seer_IWD~         ~override~
+  
+  // orc shaman undead animation - copy bams and ini only 
+  COPY ~godcall/animations/BG2_EE_animations/Orc_Shaman_Undead~         ~override~
+
+  // frost giant animation - copy bams only
+  COPY ~godcall/animations/BG2_EE_animations/Frost_giant~         ~override~
+  
+  // Harpy animation - copy bams only
+  COPY ~godcall/animations/BG2_EE_animations/Harpy~         ~override~

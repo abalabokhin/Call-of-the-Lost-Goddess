@@ -1,0 +1,75 @@
+// game: Call of the Lost Goddess
+// date: 2025-01-14, 19:18
+// Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
+
+@0 = ~Dreimal fünf auf grade Zahl,
+steck den Kopf auf einen Pfahl.
+Zehnmal acht mit tiefem Groll
+zerquetsch das Herz ganz schmerzensvoll.~
+@1 = ~Seid gegrüßt.~
+@2 = ~(Weggehen.)~
+@3 = ~Schon wieder erscheint das sterblich’ Wesen
+als seis an Pein nicht genug gewesen.~
+@4 = ~Ich soll für den Nalfeshnee Margrog einen Larvenwurm abholen.~
+@5 = ~Ich möchte, dass Ihr den Seelenvertrag mit Ormad Sulpar annulliert.~
+@6 = ~Ormad ist in Eurem Kissen erstickt.~
+@7 = ~Zum Abschied eine Träne fällt,
+zerdrückt das Auge, stirbt der Held.~
+@8 = ~Hmm? Was? Oh! Sterbliche … Hihi! Wollt der alten Zhelamiss wohl beim Reimen zuhören, was? Hä?~
+@9 = ~Was macht Ihr da?~
+@10 = ~Hoho, hihi! 
+Reimen, böse, finst’re Sprüche!
+Gerade recht zur Hexenküche!~
+@11 = ~Ich lasse Euch dann wieder allein.~
+@12 = ~Aus Oinos stammt der Larvenwurm,
+Gehenna gleicht ’nem Gewittersturm.~
+@13 = ~Einen Larvenwurm wollt Ihr haben, so? Hehe! Macht dann 1.000 Goldmünzen.~
+@14 = ~Von 1.000 Goldmünzen hat Margrog aber nichts gesagt.~
+@15 = ~Wozu braucht Ihr hier im Abyss Goldmünzen?~
+@16 = ~Gut, hier sind die 1.000 Goldmünzen. Gebt mir Euren Larvenwurm.~
+@17 = ~So viel Gold habe ich nicht.~
+@18 = ~Darüber muss ich erst noch einmal nachdenken.~
+@19 = ~Kein Gold, kein Wurm,
+so ist der Preis
+bei tausend Mal schließt sich der Kreis.~
+@20 = ~Hihi! Hehe! Das Gold ist mein,
+geb Euch dafür ’nen Pfandschein.~
+@21 = ~Den Pfandschein bringt hoch zu Saarixal,
+Er gibt Euch die Larve, voll von Qual.~
+@22 = ~Sterbliche wollen Geld und Macht,
+bring Münzen mit nach Mitternacht.~
+@23 = ~Von Goldmünzen hat Margrog aber nichts gesagt.~
+@24 = ~Der Margrog ist ein schlimmer Schuft,
+verspricht Diamanten, verkauft Euch Luft.~
+@26 = ~Keine Hoffnung auf Verzicht,
+macht man Geschäft mit Bösewicht!~
+@27 = ~Die Hex’ in ihrer Niedertracht
+wählt ihre Worte mit Bedacht.
+Oh, Ormad, oh, Ormad, deine Bestimmung ist besiegelt,
+so wie dich dein Schicksal alsbald ereilt.
+Deine Seele gehört mir.~
+@28 = ~Zhelamiss, wir bitten Euch, den Vertrag zurückzugeben. Ormad Sulpar hat in seinem Leben nicht viel Gutes getan, doch verdient er dennoch ein friedliches Jenseits.~
+@29 = ~Dann verlasse ich Euch jetzt.~
+@30 = ~Andere Wege, andere Wege, Ihr wollt, dass ich überlege?
+Dann bringt Ormad dies Kissen, so flauschig und weich,
+lege er es über sein Gesicht, bis der Tod ihn erbleicht.~
+@31 = ~Ich verstehe nicht richtig.~
+@32 = ~Kein Interesse. Ich gehe jetzt.~
+@33 = ~Ein Kissen, ein Kissen, so flauschig und rein,
+legt es auf sein Gesicht, und dann ist er bald mein.
+Ormads Seele wird in meine Hände gleiten,
+dann kann ich ihm im Abyss ewige Qualen bereiten.~
+@34 = ~Ich soll Ormad von Euch ein Kissen bringen, das ihn erstickt?~
+@35 = ~Ein Kissen soll Ormad ersticken? Das können wir nicht tun!~
+@36 = ~Genau, genau! Hihihi.~
+@37 = ~Und was bekomme ich dafür?~
+@38 = ~Für Euch, meine lieben Gäste, biete ich einen Schatz, den Trank der zehntausend Seelen. Der Trank der zehntausend Seelen wird Euch Macht und Stärke schenken, weit über jegliches Maß, das Ihr bisher kennenlernen konntet.~
+@39 = ~Das klingt annehmbar. Gebt mir das Kissen.~
+@40 = ~Die Dunkelheit, die Dunkelheit, sie fordert ihren Tribut,
+doch die Macht, oh die Macht, wird Eure Herzen erfüllen, ohne jeden Fluch.
+Ein Kissen für Ormad, ein Trank für Euch,
+die Macht, die Macht, liegt dann bei Euch.
+Bringt Ormad dazu, hähä, sein Gesicht mit dem Kissen zu bedecken,
+dann wird … hihi, er nicht mehr viel Zeit haben, sich darüber zu erschrecken.~
+@41 = ~Oh, ich spüre, wie seine Seele ruft … Was hatte ich Euch doch gleich versprochen? Ach ja, der Trank, der Seelen in Macht umwandelt, hier …~
+@42 = ~Und nun lebt wohl, Sterblicher …~ ~Und nun lebt wohl, Sterbliche …~

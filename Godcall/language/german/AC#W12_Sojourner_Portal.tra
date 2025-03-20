@@ -1,0 +1,34 @@
+// game: Call of the Lost Goddess
+// date: 2025-01-14, 19:18
+// Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
+
+@0 = ~So, da wären wir. Sind wir vollzählig? Ich glaube, ja.~ [AC#WKYR7]
+@1 = ~Ihr befindet Euch nun im Haus des Mondes in Tiefwasser, <CHARNAME>. Von hier aus kann ich Euch zur Endlosen Treppe bringen. Ruht Euch aus, die Teleportation kann einen <PRO_RACE> manchmal ein klein wenig Durcheinanderbringen. Ihr werdet, sobald Ihr durch das Portal getreten seid, auch nicht mehr imstande sein, hierher zurückzukehren – zumindest so lange, bis Ihr Eure Aufgabe abgeschlossen habt. Sammelt also Eure Kräfte und sagt mir wieder Bescheid, wenn Ihr aufbrechen wollt. Sobald Ihr bereit seid, werde ich das Portal nach Ysgard öffnen.~
+@2 = ~Seid Ihr bereit, den entscheidenden Teil Eurer Reise anzutreten, <CHARNAME>?~ [AC#WKYR8]
+@3 = ~Ich bin gerüstet zum Aufbruch. Sagt mir, wie ich die Endlose Treppe betreten kann.~
+@4 = ~Nein, ich bin noch nicht bereit.~
+@5 = ~Wo kann ich in diesem Tempel rasten?~
+@6 = ~Was erwartet mich auf dieser mysteriösen Treppe?~
+@7 = ~Ich würde gerne nach draußen gehen und mir Tiefwasser ansehen.~
+@8 = ~Zunächst einmal nichts Bedrohliches. Die Plattform, die Ysgard mit dem Portal verbindet, ist ein durch und durch schöner Ort, der von Dienern der Mondmaid bewacht wird. Etwas weiter entfernt von dieser Plattform beginnt die eigentliche Treppe, die in einer spiralförmigen Wendeltreppe in große Höhen ansteigt, bevor sich die Stufen in alle Himmelsrichtungen verzweigen.~
+@9 = ~Ich bin bereit zum Aufbruch. Sagt mir, wie ich die Endlose Treppe betreten kann.~
+@10 = ~Dann werde ich mich zunächst in dieser Kammer auf die Reise vorbereiten.~
+@11 = ~Wir haben ein Abkommen mit den Fürsten Tiefwassers, dass niemand, der diesen Raum betritt, Zugang in die Stadt erhält. Schließlich befindet sich in der Nebenkammer ein Zugang zu jedem Ort des Multiversums – verständlich, dass die Autoritäten Tiefwassers in Sorge wären, wenn jedes Wesen in der Lage wäre, in die Stadt zu gelangen. Nein, Ihr müsst hier bleiben.~
+@12 = ~Zugang zu unserem Tempel kann ich Euch leider nicht gewähren. Ihr könnt Euch hier in der Kammer ausruhen, ich warte solange auf Euch.~
+@13 = ~Gut, dann werde ich hier einmal ruhen.~
+@14 = ~Nur keine Eile.~
+@15 = ~Gut. Folgt mir.~
+@16 = ~Dieser Spiegel, den Ihr hier hinter mir seht, ist in Wirklichkeit ein mächtiges magisches Artefakt, ein Geschenk der Mondmaid höchstpersönlich. Es ist ein Portal, welches direkt an den Beginn der Endlosen Treppe führt – in das Reich meiner Göttin, in die Stadt Argentil nach Ysgard.~ [AC#WKYR9]
+@17 = ~Normalerweise ist die Benutzung für Nichtgläubige streng verboten, doch in Eurem Fall wird der Tempel eine Ausnahme machen. Es ist eine große Ehre für Euch, dieses Portal benutzen zu dürfen. Bitte verhaltet Euch entsprechend.~
+@18 = ~Und denkt daran: Die Endlose Treppe ist … nun ja, unendlich. Ihr könnt dort leicht vom Weg abkommen und Euch verirren – im schlimmsten Falle wäret Ihr dann auf immer und ewig dort gefangen.~
+@19 = ~Ich werde meinen Weg schon finden, seid unbesorgt. Gibt es sonst noch etwas, das ich wissen müsste?~
+@20 = ~Ich werde an Eure Worte denken. Worauf muss ich noch achten?~
+@21 = ~Was erwartet mich auf der anderen Seite?~
+@22 = ~Ihr müsst auf der Treppe nach einem Eingang von Azzagrat suchen. Wie genau das Tor in den Abyss aussehen könnte, vermag ich nicht zu sagen. Allerdings berichten alle Reisenden auf der Treppe, dass sie das Ziel ihrer Reise klar und deutlich erkennen, wenn es vor ihnen liegt.~
+@23 = ~Damit wäre alles gesagt. Ihr könnt jetzt durch den Spiegel schreiten. Ich wünsche Euch viel Glück, <CHARNAME>. Passt gut auf Euch auf.~ [AC#WKYRA]
+@24 = ~Viel Glück da draußen, <CHARNAME>.~ [AC#WKYR0]
+@25 = ~Seid gegrüßt, Fremde. Ihr seid im Haus des Mondes willkommen, solange Ihr keinen Ärger macht.~
+@26 = ~Willkommen zurück, Priesterin Kyriani.~
+@27 = ~Meine Aufgabe ist es, hier für Ruhe und Ordnung zu sorgen, damit die Gottesdienste ohne Zwischenfälle ablaufen.~
+@28 = ~Die Wachen wurden in letzter Zeit massiv verstärkt, da man mit Übergriffen der Anhänger Shars rechnet.~
+@29 = ~Verschwindet, <GIRLBOY>, Ihr lenkt mich von meinem Dienst ab.~

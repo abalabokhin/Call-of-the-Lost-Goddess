@@ -1,0 +1,11 @@
+// game: Call of the Lost Goddess
+// date: 2025-01-14, 19:18
+// Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
+
+@0 = ~Halt, törichte Sterbliche, und hört unsere Worte! Ihr betretet die Kammer der Verlockungen, ein Ort voller Prüfungen und Gefahren. Hier lauern Schlingen und Versuchungen, in denen Ihr Euch verstricken werdet.~
+@1 = ~In dieser Kammer werden Eure tiefsten Begierden entfesselt, die verborgensten Sehnsüchte enthüllt.~
+@2 = ~Scheitert, und Ihr werdet ein Nachleben voller Qualen erleiden!~
+@3 = ~Scheitert, und Ihr werdet als weiterer Sünder im Abyss enden!~ ~Scheitert, und Ihr werdet als weitere Sünderin im Abyss enden!~
+@4 = ~Ihr habt die Rose! Das hätte ich nicht gedacht. Etwas, zu dem ich nicht imstande war! Verfluchte Prüfungen, ich bin einfach zu leicht zu verführen. Wie schön, dass Ihr für mich die Rose gepflückt habt!~
+@5 = ~Ich werde sie von Eurem toten Leib nehmen und Maretta darbieten, auf dass sie mir als neue unheilige Herrin dient!~
+@6 = ~Schlau, aber auch feige, sich vor den Prüfungen zu drücken und zu versuchen, uns die Rose zu stehlen.~

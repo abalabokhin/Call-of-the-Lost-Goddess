@@ -1,0 +1,23 @@
+// game: Call of the Lost Goddess
+// date: 2025-01-14, 19:18
+// Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
+
+@0 = ~Was wollt Ihr denn noch? Ihr habt den Vertrag, jetzt lasst mich in Ruhe!~
+@1 = ~Für heute habe ich schon eine Seele gefunden. Ihr seid mir nicht nützlich. Verschwindet aus meinem Heim!~
+@2 = ~Ist ja gut, ich gehe schon!~
+@3 = ~Ich bin wegen Ormad Sulpars Seelenvertrag hier.~
+@4 = ~Hat der schmierige Lüstling also einen Handlanger geschickt, weil er selbst zu feige ist, mir vor die Augen zu treten?~ ~Hat der schmierige Lüstling also eine Handlangerin geschickt, weil er selbst zu feige ist, mir vor die Augen zu treten?~
+@5 = ~Gebt mir den Vertrag.~
+@6 = ~Nichts für ungut. Ich gehe wieder.~
+@7 = ~Ihr macht wohl Witze. Vergesst es.~
+@8 = ~Gebt mir den Vertrag, oder ich nehme ihn von Eurer Leiche.~
+@9 = ~Ihr wagt es, mir zu drohen? Hier, in meiner eigenen Behausung? Hier im Abyss?~
+@10 = ~(Stärke) Seht mich doch an. Gegen mich seid Ihr hoffnungslos unterlegen. Wollt Ihr wirklich für eine einzige Seele sterben?~
+@11 = ~<MALEFEMALE> wie Euch habe ich schon zu Hunderten in die Abgründe gerissen! Ihr macht mir keine Angst.~
+@12 = ~Wenn Ihr mir hier droht, wird Maretta davon erfahren!~
+@13 = ~Na und? Denkt Ihr, Ihr würdet Mitleid ernten, weil ich Euch den Vertrag abgenommen habe?~
+@14 = ~Was für ein mieses <MALEFEMALE> Ihr doch seid! Also gut, hier ist der Vertrag.~
+@15 = ~Und jetzt verschwindet!~
+@16 = ~So ists recht. Braves <MALEFEMALE>!~
+@17 = ~Ihr wollt einen Kampf? Nur zu, elender Wicht!~
+@18 = ~Stirb, Scheusal!~

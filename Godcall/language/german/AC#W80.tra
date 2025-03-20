@@ -1,0 +1,252 @@
+// game: Call of the Lost Goddess
+// date: 2025-01-14, 19:18
+// Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
+
+@0 = ~Seid gegrüßt, Göttin Faerûns, und ebenso Euer Retter <CHARNAME>. Es freut mich, dass ich noch rechtzeitig gekommen bin, wo Ihr es doch sicher so eilig habt, von hier zu verschwinden.~ [AC#WMAR1] ~Seid gegrüßt, Göttin Faerûns, und ebenso Eure Retterin <CHARNAME>. Es freut mich, dass ich noch rechtzeitig gekommen bin, wo Ihr es doch sicher so eilig habt, von hier zu verschwinden.~ [AC#WMAR1]
+@1 = ~Spart Euch Eure Höflichkeit, Dämonenbrut! Ich habe lange genug die Demütigungen von Euch und Euren Schwestern ertragen müssen, um zu wissen, dass Ihr nicht gekommen seid, um mir Lebewohl zu sagen.~ [AC#WWAU8]
+@2 = ~Noch immer ganz die arrogante Göttin, nicht wahr? Und was wollt Ihr nun tun? Mich mit Eurem Blick zerschmettern? Oder mich mit einem Fingerschnippen in einen Larvenwurm verwandeln?~ [AC#WMAB2]
+@3 = ~Es scheint, dass Euch nichts dergleichen gelingen will, Waukeen. Ihr seid hier völlig machtlos und meinem Willen ausgeliefert. Und ich habe nicht vor, Euch unbehelligt gehen zu lassen.~
+@4 = ~Denn es wäre für alle Beteiligten wohl das Beste, wenn Ihr und Eure Befreier ums Leben kommen würden. So wird allein mir der Ruhm, die Flucht vereitelt und gleichzeitig ein Kind des Bhaal getötet zu haben, zufallen, und gleichzeitig habe ich die Pläne Graz’zts durchkreuzt.~
+@5 = ~Von was für Plänen Graz’zts sprecht Ihr, Dämon? Erklärt Euch!~
+@6 = ~Törichte Göttin, Ihr wisst wirklich nicht, warum Ihr hier seid, oder? Der Plan Graz’zts war es, eins seiner verdorbenen Kinder in Eure Hülle zu pflanzen und ihm somit zu ermöglichen, in den Rang eines Gottes aufzusteigen! Er hätte Euch Eure göttliche Seele entrissen und eine seiner Töchter an Eurer statt in das Pantheon eingesetzt.~
+@7 = ~Das ist also der einzige Grund, warum ich hier seit Ewigkeiten festgehalten werde? Graz’zt ist ein Narr, wenn er glaubt, solch eine Transformation ohne Billigung des Göttervaters Ao durchführen zu können!~
+@8 = ~Es wäre nicht in meinem Interesse gewesen, selbst wenn es Graz’zt gelungen wäre. Viel mehr Möglichkeiten ergeben sich doch durch Euren Tod, den ich dann noch Euren heldenhaften Befreiern in die Schuhe schieben werde! Ihr wart mir wahrlich ein willfähriger Diener, <CHARNAME>. Seit ich Euch das erste Mal gesehen habe, wusste ich, warum Ihr hier seid und wie ich Euch dazu verwenden kann, meine Pläne zu verwirklichen.~ ~Es wäre nicht in meinem Interesse gewesen, selbst wenn es Graz’zt gelungen wäre. Viel mehr Möglichkeiten ergeben sich doch durch Euren Tod, den ich dann noch Euren heldenhaften Befreiern in die Schuhe schieben werde! Ihr wart mir wahrlich eine willfährige Dienerin, <CHARNAME>. Seit ich Euch das erste Mal gesehen habe, wusste ich, warum Ihr hier seid und wie ich Euch dazu verwenden kann, meine Pläne zu verwirklichen.~
+@9 = ~Ihr habt alle meine Widersacher, vor allem diesen boshaften Verin, für mich beseitigt. Graz’zt wird nun MICH als seine Auserkorene ansehen! Doch für Euch habe ich nun keine Verwendung mehr.~
+@10 = ~Bereitet Euch auf den Tod vor, Göttin!~ [AC#WMAB3]
+@11 = ~Dank Euch leuchte ich wieder wie in vergangenen Tagen!~
+@12 = ~Ich muss weiter meines Weges ziehen. Mögen Licht und Hoffnung Euch stets begleiten. Hier, ich teile mit Euch einen kleinen Teil meiner himmlischen Energie. Ich werde mir meinen weiteren Weg durch diesen Kerker selbst suchen.~
+@13 = ~Schon wieder neue Kerkermeister? Nein, das seid Ihr nicht. Ihr seid Sterbliche! Doch nicht gefangen so wie ich! So seid gegrüßt. Ich bin Maryel, ein Deva, doch zur Zeit ein geschundener Falke in einem engen Käfig. Die Flügel gebrochen, der Freiheit beraubt. Was führt Euch an diesen finsteren Ort?~
+@14 = ~Ich bin <CHARNAME>, und auf der Suche nach der Göttin Waukeen.~
+@15 = ~Das geht Euch nichts an.~
+@16 = ~Habe ich Euch nicht oben in Samora gesehen?~
+@17 = ~’tschuldigung, falsche Zelle geöffnet.~
+@18 = ~Ich komme später wieder.~
+@19 = ~Ihr seid frei und solltet diesen Ort nun verlassen.~
+@20 = ~Seid erneut gegrüßt, Sterbliche.~
+@21 = ~Ich bin auf der Suche nach der Göttin Waukeen.~
+@22 = ~Könnt Ihr mir helfen, Waukeen zu befreien?~
+@23 = ~Wegen Eures Leuchtens …~
+@24 = ~Auf welche Scheusale muss ich hier gefasst sein?~
+@25 = ~Eine Horde Vrocks hat mich gefangen und hierher verschleppt. Mein Deva-Leuchten, meinen strahlendsten Besitz, hat mir eine schäbige Marilith abgenommen.~
+@26 = ~Was ist eine Marilith?~
+@27 = ~Mariliths … sie sind gefürchtete Kreaturen, bekannt für ihre Tücke und ihre gefährlichen Waffenfertigkeiten. Diese sechsarmigen Dämonen sind Meisterinnen des Schwerts und des Listigen. Ihr beeindruckendes Können im Kampf macht sie zu gefährlichen Gegnern. Sie nutzen ihre sechs Arme, um gleichzeitig mehrere Waffen zu führen, und können so verheerende Angriffe verrichten. Es ist ratsam, ihre Bewegungen sorgfältig zu beobachten und ihre Angriffe vorauszusehen. Sucht nach Schwachstellen und versucht, sie in die Enge zu treiben.~
+@28 = ~Ja? Habt Ihr es gefunden?~
+@29 = ~Ich denke schon.~
+@30 = ~Noch nicht.~
+@31 = ~Was für eine himmlische Wendung! Habt Dank für Eure Hilfe! Einen Moment …~
+@32 = ~Das ist gut möglich. Doch verzeiht, ich kann mich nicht an Euch erinnern, da meine Einkerkerung hier unten alles andere als folgenlos für mich geblieben ist. Was führt Euch an diesen finsteren Ort?~
+@33 = ~Verständlich, dass Ihr Zweifel habt, wem Ihr vertrauen könnt. Ich verurteile Euch nicht.~
+@34 = ~Habt Dank, dass Ihr meine Zellentür geöffnet habt.~
+@35 = ~Was werdet Ihr jetzt tun?~
+@36 = ~Dann könnt Ihr Euch jetzt selbst einen Weg heraus suchen.~
+@37 = ~Eine Göttin sei hier gefangen sagt Ihr? Ich kenne sie nicht, denn meine Kenntnisse reichen nicht in die Sphären jedes Pantheons. Aber wenn sie hier gefangen ist, scheint es schlecht um sie bestellt zu sein.~
+@38 = ~Ich hoffte, Ihr könntet mir den Weg zu ihrer Zelle weisen.~
+@39 = ~Wisst Ihr, wo die Göttin Waukeen sein könnte?~
+@40 = ~Ich habe die Göttin nicht zu Gesicht bekommen. In den Tiefen dieses Verlieses scheinen viele weitere arme Seelen eingekerkert zu sein. Je weiter Ihr voranschreitet, desto unwirklicher und widerlicher wird dieser Ort.~
+@41 = ~Ich bedaure, nein, ich kann Euch nicht helfen. Auch ich habe eine heilige Mission zu erfüllen. Doch seht mich an: Meine Flügel gebrochen, mein Wille zerschmettert.~
+@42 = ~Ich wünschte, ich könnte meine Schwingen entfalten und einfach diesem Ort entfliegen. Einst strahlte mein Kopf in hellem Licht, meine Aura leuchtete wie ein Stern in der Finsternis. Doch als ich in den Fängen der Scheusale gefangen war, haben sie mir meine Strahlkraft genommen.~
+@43 = ~Mein Licht verblasste, und ich fühlte mich der Göttlichkeit beraubt. Wenn ich dieses Leuchten wiederbekäme, wäre meine Energie wieder aufgefüllt und ich könnte meine Reise fortsetzen.~
+@44 = ~Wo könnte das Leuchten nun sein?~
+@45 = ~Ich weiß es nicht, doch ich spüre, dass es noch in der Nähe, in diesem Verlies, ist.~
+@46 = ~Ich werde nach Eurem Leuchten suchen und es Euch wieder zurückbringen.~
+@47 = ~So eilt denn weiter, tapfere Helden, und möge das Licht Euch stets begleiten. Meine Kräfte mögen begrenzt sein, aber meine Gebete werden Euch auf Eurer Mission begleiten.~
+@48 = ~So sei es. Mögen Licht und Hoffnung Euch stets begleiten. Ich werde mir meinen weiteren Weg durch diesen Kerker selbst suchen.~
+@49 = ~Wenn Ihr mir mein Leuchten zurückbringen könntet, wäre meine Kraft wieder stärker, um diesen Ort ein für alle Mal hinter mir zu lassen.~
+@50 = ~Oh, wie großzügig von Euch, mich aus meiner Zelle zu befreien. Doch glaubt ja nicht, dass ich Euch dafür dankbar bin. Ihr seid nicht mehr als nützliche Werkzeuge in meinem Plan, Graz’zt erneut zu unterjochen!~
+@51 = ~Ein kleines bisschen Dankbarkeit hätte ich schon erwartet.~
+@52 = ~Dann sperre ich Euch eben wieder ein!~
+@53 = ~Oh, tut mir leid, falsche Zelle.~
+@54 = ~Dankbarkeit? Für Eure Störung meiner ehrwürdigen Existenz? Ihr Narren begreift nicht, welch Macht und Erhabenheit ich einst besaß. Eure Hilfe habe ich nicht erbeten, und nun sollt Ihr die Konsequenzen dafür tragen, dass Ihr Euch in meine Angelegenheiten eingemischt habt!~
+@55 = ~Dafür ist es jetzt zu spät! Ich habe Jahrhunderte damit verbracht, mir auszumalen, was ich mit der Person anstelle, die so töricht ist, mich zu befreien. Euer Ende ist nah, und ich werde über Eure sterblichen Körper triumphieren!~
+@56 = ~Musikalische Grüße aus dem Verderben, <PRO_RACE>! Einst ein Barde voller Lebenskraft, bin ich jetzt nur noch ein Flüstern meines früheren Selbst, gefangen in ewiger Finsternis, meine Seele vom Tod berührt.~
+@57 = ~Was ist mit Euch geschehen?~
+@58 = ~Los jetzt, raus hier!~
+@59 = ~Könnt Ihr mir noch einmal Graz’zts Schmählied vorsingen?~
+@60 = ~(Weggehen.)~
+@61 = ~Nein, nein. Dieses Lied ist nicht für weitere Vorführungen geschaffen. Es wird nun ewig schweigen, und das ist gut so.~
+@62 = ~Die Lieder, die einst meine Lippen verließen, sind nun versunken in der Stille der Nacht. Meine Hände, einst geschickt im Tanz über die Saiten, sind verfallen zu verwesten Knochen. Ich bin gefangen in diesem endlosen Zyklus der Qual, verflucht, meine Kunst im Tode fortzuführen.~
+@63 = ~Wie konnte es so weit kommen?~
+@64 = ~Ich habe meine Stimme gegen Graz’zt, den Herrn des Abyss, erhoben. In einer Zeit, als meine Seele noch in einem sterblichen Körper lebte, komponierte ich eine Hymne des Widerstands, ein Schmähgesang gegen den Dämonenprinzen voll Freude und Hoffnung. Ich wagte es, mich ihm entgegenzustellen, meine Stimme als Waffe zu verwenden.~
+@65 = ~In seiner endlosen Bosheit verwandelte mich Graz’zt in einen untoten Diener, einen Zombie-Barden, dazu verdammt, in den Tiefen dieser Festung mein trauriges Schicksal zu beklagen. Meine Lieder, einst erfüllt von Freude und Hoffnung, wurden von Graz’zts Fluch verdorben.~
+@66 = ~Die Harmonien meiner Musik sind nun von einer unerträglichen Traurigkeit durchdrungen. Die Melodien, die aus mir strömen, sind wie ein Echo meiner verlorenen Seele. Meine Stimme, einst voller Leben und Leidenschaft, ist nun erstickt von Trübsal und Verderbtheit. Ich kann nur noch traurige Melodien singen, die das Elend und die Qualen des Abyss widerspiegeln. Meine Stimme ist ein Instrument der Verzweiflung geworden, und meine Lieder drücken die Last meiner verdammten Existenz aus.~
+@67 = ~Ich kann Euch befreien!~
+@68 = ~Ich würde gerne eines Eurer traurigen Lieder hören.~
+@69 = ~Könnt Ihr Euch noch daran erinnern, wie dieses Schmählied gegen Graz’zt lautete?~
+@70 = ~Ihr könnt Euren Kerker nun verlassen.~
+@71 = ~Ich … weiß nicht … kann … mich nicht erinnern … bin verflucht …~
+@72 = ~Strengt Euch an, Ihr könnt Euch sicher erinnern!~
+@73 = ~Nichts für ungut. Ihr könnt Euren Kerker übrigens jetzt verlassen.~
+@74 = ~Ja, jetzt erinnere ich mich an die Melodie und den Text … Wollt Ihr es wirklich hören? Es ist sehr … vulgär.~
+@75 = ~Nein, dann lieber nicht.~
+@76 = ~Das macht mir nichts aus.~
+@77 = ~Dann erst recht!~
+@78 = ~Oh, Graz’zt, du dreifach dämlich Tropf,
+Kleines Gemächt und nichts im Kopf.
+Dein Horn so krumm, dein Lachen schrill,
+Kein Sieg, der Dir gelingen will.~
+@79 = ~Dein Haar so wirr wie deine Pläne,
+Dein Lächeln zeigt nur faule Zähne.
+Du prahlst mit Macht und Pracht des Mannes,
+Doch musst verbergen den kleinen Hannes.~
+@80 = ~Dein Stolz, so aufgeblasen groß,
+Doch unter dem Mantel entdeck ich bloß
+Einen Geist, so leer wie tiefste Nacht,
+Über den jeder Diener hinter Deinem Rücken lacht.~
+@81 = ~Du Narr, Du denkst, Du seist ein Gott,
+Drum wirst du enden am Schafott.
+Dein Schreckensreich wird untergehen,
+Und jeder freut sich dabei zuzusehen.~
+@82 = ~Ein Schmählied auf Graz’zt, den Narr’n des Abyss,
+Die Welt tanzt freudig, da ich auf Dich piss.
+Dein Ende naht, es ist nicht weit,
+Drum hör dies Lied, mach Dich bereit!~
+@83 = ~…~
+@84 = ~Es … ist vorbei … und nichts ist passiert?~
+@85 = ~Das Lied hat uns Mut gemacht. Danke!~
+@86 = ~Ihr kommt hier ungestraft davon, wenn Ihr dieses Lied singt. Graz’zt hat keine Macht mehr an diesem Ort.~
+@87 = ~Schönes Lied. Ihr könnt Euren Kerker übrigens jetzt verlassen.~
+@88 = ~Das sind … erfreuliche Neuigkeiten, wenngleich es für mich dennoch keinen Trost mehr geben wird. Aber ein wenig Erleichterung und Abwechslung von meiner ewigen Trübsal.~
+@89 = ~Dann solltet Ihr Euer Gefängnis jetzt verlassen.~
+@90 = ~In den Kerkermauern, dumpf und alt,
+Lauscht meinem Lied, von Kummer kalt.
+Kein Flüstern der Hoffnung, kein Hauch von Licht,
+Nur mein trauriges Lied, das die Stille durchbricht.
+
+Die Melodie, so tief und schwer,
+Erzählt von Verlust und Herzensleid so sehr.
+Die Klänge durchdringen die eisige Nacht,
+Ein Lied der Verzweiflung, das niemals erwacht.~
+@91 = ~Die Tränen fließen in bittersüßen Wellen,
+Mein Gesang erzählt von verlorenen Seelen.
+In der Dunkelheit erlischt der Schein,
+Soll das Lied der Trauer sein.
+
+So hört meine Klage, meine trübe Melodie,
+Verloren in der Einsamkeit, verweilt sie nie.
+Ein Lied der Verderbnis, der ewigen Pein,
+Und mein Herz erzittert im Kerkerschein.~
+@92 = ~Der Schatten verhallt, doch bleibt die Zeit,
+Ein Zeugnis der Trauer, bis in alle Ewigkeit.
+Vernehmt noch einmal den letzten Klang,
+Im Abgrund der Finsternis, dort ruhe ich lang.~
+@93 = ~Ein schönes Lied.~
+@94 = ~Ihr könnt diesen Ort nun verlassen.~
+@95 = ~Ich danke Euch.~
+@96 = ~Graz’zt hat mich an diese Festung gebunden, an mein Schicksal als verlorene Seele. Selbst wenn Ihr mich befreien könntet, würde ich weiterhin nur in der Dunkelheit existieren, meine traurigen Melodien in den unendlichen Weiten des Abyss verhallen lassen. Meine Hoffnung wurde längst von der Resignation verschlungen. Es gibt keine Rettung für mich, keine Erlösung von meinem Fluch. Ich bin dazu verdammt, mein trauriges Lied für alle Ewigkeit zu singen. Eure Hilfe kann meine Qual nicht lindern, denn selbst wenn Ihr meine Ketten lösen würdet, würde meine Stimme immer von Trauer erfüllt sein.~
+@97 = ~Ihr könnt diesen Ort aber nun verlassen.~
+@98 = ~Nein. Die Wahrheit ist, dass es keinen Ausweg für mich gibt. Jeder Versuch, diesen Kerker zu verlassen, endete nur in weiterem Leid und Qual. Graz’zt hat mich hierhergebracht, um mein trauriges Schicksal zu erfüllen, und ich bin dazu verdammt, hier zu bleiben.~
+@99 = ~Dann lasse ich Euch wieder allein.~
+@100 = ~So lebt denn wohl und für mich weiter, <PRO_RACE>. Meine Hoffnung ist erloschen. Ich habe mich mit meinem Schicksal abgefunden. Es ist besser, mich hier in der Dunkelheit zu verlieren, als mich als gebrochene Seele in die Welt zurückzuführen.~
+@101 = ~Seht Ihr die offene Tür dort? Sie ist nicht real, nein, sie ist eine Illusion, gewoben aus meinen eigenen Ängsten und Zweifeln. Ich versuche, sie zu durchschreiten, doch sie formt sich immer wieder neu, verspottet mich mit ihrem eisernen Grinsen. Die Wahrheit liegt dahinter verborgen, doch meine Sinne sind verschwommen, und ich finde keinen klaren Weg.~
+@102 = ~Ich habe Euch befreit und verlange eine gebührende Belohnung!~
+@103 = ~Die Tür steht wirklich offen.~
+@104 = ~Was redet Ihr da?~
+@105 = ~Ach, lasst mich doch in Ruhe, Ihr Spinner.~
+@106 = ~Seht mich an, Fremdling, seht in meine Augen, die Fenster meiner zerrütteten Seele. In meinem Wahnsinn verbirgt sich vielleicht ein Funken der Erkenntnis, ein Schlüssel zur Freiheit oder nur eine weitere Halluzination. Doch lasst Euch warnen, denn die Pfade des Wahnsinns sind gefährlich und unvorhersehbar. Gehet weiter, wenn Ihr den Mut habt, doch verliert Euch nicht in den Wirren Eures Geistes.~
+@107 = ~Ihr habt wohl völlig den Verstand verloren!~
+@108 = ~Habt Ihr vielleicht irgendetwas Sinnvolles zu der Situation beizutragen?~
+@109 = ~Hütet Euch vor den sechsarmigen Frauen, Kreaturen aus der anderen Dimension! Ihre Anmut ist von unheimlicher Schönheit, doch ihre Arme, ihre vielen Arme, sie greifen nach meinem Verstand und zerschneiden ihn in tausend Fetzen. Ihre Berührung ist wie Feuer und Eis zugleich, ein Gefühl der Ekstase und des Schmerzes, das meinen Geist in Flammen setzt.~
+@110 = ~Ich sehe sie tanzen, die sechsarmigen Frauen, ihre Bewegungen sind ein Wirbelwind der Sinnlichkeit und des Wahnsinns. Sie locken mich mit ihren verführerischen Gesängen, doch ich weiß, dass ihre Umarmung meinen Untergang bedeuten würde. Ich versuche, ihrer verführerischen Macht zu widerstehen, doch ihre grellen Augen durchbohren mich wie glühende Messer.~
+@111 = ~Ich gehe jetzt besser, bevor ich selbst noch den Verstand verliere …~
+@112 = ~Gehabt Euch wohl.~
+@113 = ~Sie flüstern mir ihre Geheimnisse ins Ohr, sie sagen, dass die Welt eine Illusion ist. Ein Labyrinth der Täuschungen, das uns gefangen hält. Jeder Schritt, den wir tun, ist nur ein Tanz auf dem Seil des Wahnsinns. Oh, wie sie sich mit ihren Armen um mich winden und mich in die Dunkelheit führen …~
+@114 = ~Jeder Schritt, den wir tun, ist nur ein Tanz auf dem Seil des Wahnsinns …~
+@115 = ~Oh, noch mehr Futter für die Maschine der Herrin, nehme ich an?~
+@116 = ~Futter? Maschine? Wovon redest du?~
+@117 = ~Stirb, du kleines Scheusal!~
+@118 = ~Na, Maschine im Raum gegenüber. Stellt Diener für Herrin her.~
+@119 = ~Wer ist deine Herrin? Der Sukkubus Maretta?~
+@120 = ~Was machst du mit der Leiche da auf dem Tisch?~
+@121 = ~Wollt schlagen armen, kleinen Verin? Pah, Herrin wird Euch schon noch früh genug bestrafen!~
+@122 = ~Nein, nein. Sukkubus hat hier unten nichts zu sagen. Herrin und Maretta mögen sich nicht, wisst Ihr? Aber der Name der Herrin darf nicht genannt werden, sonst wird sie böse.~
+@123 = ~Sagt ihn mir, sonst … werde ich auch ganz böse …~
+@124 = ~Weißt du, wie ich hier wieder herauskomme?~
+@125 = ~Muss Leichen vorbereiten für große Maschine. Hungrige Maschine, wisst Ihr … Herrin braucht viel Futter …~
+@126 = ~Du fütterst Leichen an eine Maschine? Dem werde ich dann wohl jetzt ein Ende setzen müssen!~
+@127 = ~Na, durch große Holztür im Norden. Braucht nur Schlüssel.~
+@128 = ~Und wer hat einen Schlüssel?~
+@129 = ~Herrin Maretta. Maretta aber nicht hier, also kommt Ihr auch nicht raus. So, jetzt lange genug geredet, muss wieder arbeiten gehen.~
+@130 = ~Hallo, Ihr tapferen Helden! Helft bitte einer Dame in Not und befreit mich!~
+@131 = ~Aber selbstverständlich, werte Dame! Nur einen Moment …~
+@132 = ~Warum kommt Ihr auf die Idee, dass ich Euch befreien wollte?~
+@133 = ~Oh, danke! Bitte beeilt Euch, edle Herren!~
+@134 = ~Ihr wollt mir nicht helfen? Was seid Ihr doch für grausame Wesen!~
+@135 = ~Oh, ich danke Euch für meine Befreiung, mein Held!~ ~Oh, ich danke Euch für meine Befreiung, meine Heldin!~
+@136 = ~Könntet Ihr mich nun noch gegen diese Barbaren dort hinter Euch beschützen?~
+@137 = ~Barbaren?~
+@138 = ~Bleibt mir vom Leib!~
+@139 = ~Na, dort drüben, Eure ehemaligen Freunde! Seht doch nur einmal genau hin!~
+@140 = ~Oh, ich danke Euch für meine Befreiung, werte Dame!~
+@141 = ~Es ist an der Zeit, dass ich Euch gebührend entlohne …~
+@142 = ~Ihr hattet versprochen, mich hier herauszuholen. Würdet Ihr Euch bitte ein wenig beeilen?~
+@143 = ~Ja, habt noch einen Moment Geduld! Ich werde Euch sofort befreien.~
+@144 = ~Ich habe es mir anders überlegt. Ich werde Euch hier in der Zelle zurücklassen.~
+@145 = ~Wie es aussieht, wollt Ihr mir gar nicht helfen. Das ist jedoch auch völlig egal.~ [AC#WWAE6]
+@146 = ~Wie dumm von Euch, meiner Illusion zu trauen, <CHARNAME>! Ihr habt Euch den ganzen Weg in den Abyss gekämpft, nur um knapp vor dem Ziel zu sterben!~
+@147 = ~Ihr seid nicht Waukeen? Wer seid Ihr dann?~
+@148 = ~Ihr mögt mich zwar getäuscht haben, doch ich werde Euch spätestens im direkten Kampf vernichten!~
+@149 = ~Ihr wollt einen Blick auf meine abscheuliche Herrlichkeit werfen? Nur zu!~
+@150 = ~Euer ganzes Toben nützt nichts. Ihr seid gescheitert, und der einzige Gewinn, den ich Euch schenken werde, ist, Euch meine wahre Natur zu verraten …~
+@151 = ~Wunderbar! Ihr habt mich tatsächlich befreit! Wie großzügig von Euch! Nun folgt mir, ich kenne einen sicheren Weg aus dem Kerker heraus.~ [AC#WWAE3]
+@152 = ~Geht voran, ich folge Euch.~
+@153 = ~Ich habe es mir anders überlegt. Ich werde Euch töten.~
+@154 = ~Nie und nimmer seid Ihr Waukeen!~
+@155 = ~Gleich hier ist der Ausgang, es ist nicht weit …~
+@156 = ~Dann beeilt Euch bitte ein klein wenig!~
+@157 = ~So ist wohl nun endlich die Zeit für meine Rettung gekommen.~ [AC#WWAE1]
+@158 = ~Ihr seid hier, um mich zu befreien, habe ich recht? Ich bin Waukeen, die Göttin der Münzen, nach der Ihr sucht. Bitte beeilt Euch und holt mich hier heraus, denn Euer Eindringen wird nicht unbemerkt geblieben sein. Wir müssen sofort von hier fliehen!~ [AC#WWAE2]
+@159 = ~Ihr seid wirklich Waukeen? Ich hatte mir Euch etwas … anders vorgestellt.~
+@160 = ~Ja, ich werde Euch natürlich sofort hier herausholen.~
+@161 = ~Ihr seid doch die Göttin des Handels, nicht wahr? Was für eine Belohnung bietet Ihr mir, wenn ich Euch befreie?~
+@162 = ~Ich denke nicht daran, Euch zu befreien.~
+@163 = ~Ich habe meine Zweifel, ob Ihr wirklich die Göttin Waukeen seid, für die Ihr Euch ausgebt. Ich traue Euch nicht.~
+@164 = ~Nein, auf diesen dummen Trick falle ich kein zweites Mal herein. Ich habe hier gerade schon eine junge Frau befreit, die sich als Scheusal entpuppte. Beweist mir erst, dass Ihr diejenige seid, nach der ich suche!~
+@165 = ~Meine göttliche Kraft wurde mir vor meiner Gefangenschaft vollständig genommen. Ich bin jetzt nichts weiter als eine machtlose Sterbliche. Doch wir haben keine Zeit für lange Erklärungen. Los, befreit mich endlich, bitte!~
+@166 = ~Dann macht schon! Graz’zts Schergen sind sicher schon unterwegs hierher! Wir haben nicht mehr viel Zeit!~ [AC#WWAE5]
+@167 = ~In der Tat, ich werde Euch reichlich für Eure Mühen belohnen, seid Euch sicher. Wenn ich erst befreit bin, werdet Ihr schon bald in Macht und Reichtum schwimmen! Doch zunächst müsst Ihr mich aus dieser schäbigen Zelle herausholen, und zwar schnell!~
+@168 = ~Ihr seid den ganzen Weg nach Azzagarat gegangen und entschließt Euch jetzt, am Ziel Eurer Reise, mir nicht zu helfen? Das kann nicht Euer Ernst sein!~
+@169 = ~Denkt doch nur an all die ganzen Vorteile, die Euch meine Befreiung bringen wird! Ruhm, Reichtum, Macht und Einfluss wird sich über Euch ergießen, dafür werde ich sorgen.~
+@170 = ~Nein, ich bleibe dabei. Ihr seid mir nicht geheuer. Ihr werdet Euch jemand anderen suchen müssen, der Euch rettet.~
+@171 = ~Nun gut, Ihr habt mich überzeugt. Ich werde versuchen, Eure Zellentür zu öffnen.~
+@172 = ~Ich kann Euch leider nicht beweisen, dass ich Waukeen bin, doch warum sollte es einen Grund geben, mich zu verstellen? Ihr müsst mir einfach glauben.~
+@173 = ~Doch, Ihr könnt es mir beweisen. Ich habe eine Idee. Sagt mir einfach den Namen Eures Hohepriesters – des Mannes, der mich hierhergesandt hat!~
+@174 = ~Da habt Ihr recht. Ich werde Euch also befreien.~
+@175 = ~Ich habe beschlossen, Euch nicht zu helfen. Ihr müsst jemand anderes finden, der Euch hier herausholt.~
+@176 = ~Pah! Ich hätte es wissen müssen, <CHARNAME>. Ich habe schon viel zu lange meine Zeit mit Euch vergeudet. Es gibt keine Gnade, keine Erlösung – nur Euren Untergang!~ [AC#WWAE4]
+@177 = ~Ihr wollt mich prüfen? Ihr wagt es, eine Göttin infrage zu stellen?~
+@178 = ~Vergebt mir meine Zweifel, doch ich möchte ganz sicher sein, dass Ihr diejenige seid, nach der ich suche.~
+@179 = ~Nun, das ist doch eine ganz einfache Frage, findet Ihr nicht? Los, beantwortet sie mir!~
+@180 = ~Nicht nötig. Ich vertraue Euch.~
+@181 = ~Das ist lächerlich! Ihr wisst doch selbst, dass ich seit vielen Jahren keinen Kontakt mehr zur Materiellen Ebene gehabt habe! Wie soll ich so eine Frage beantworten können?~
+@182 = ~Ich kann Euch versichern, dass Ihr die fragliche Person kennt, denn sie ist seit langer Zeit Euer Hohepriester.~
+@183 = ~Ihr habt recht. Ich vertraue Euch und werde Euch schnellstmöglich hier herausholen.~
+@184 = ~Nun, wenn das so ist … lasst mich einen kurzen Augenblick überlegen …~
+@185 = ~Mein geliebter Hohepriester heißt Tharundar Olehm, Priester in der Abtei der Goldspitzen in Athkatla. Seid Ihr nun zufrieden?~
+@186 = ~Ihr habt meine Gedanken nach diesem Namen durchsucht! Ihr wusstet es nicht!~
+@187 = ~Was habt Ihr gerade mit mir getan, Göttin? Ihr habt meinen Geist angezapft, um an die Antwort zu gelangen?~
+@188 = ~Mein Kopf tut weh.~
+@189 = ~Das habe ich nur getan, um sicherzugehen, dass auch Ihr die richtige Antwort wisst. Was würde es mir bringen, wenn ich die korrekte Antwort gebe, Ihr sie aber selbst gar nicht kennt?~
+@190 = ~Nun, ich habe also Eure Frage beantwortet. Lasst mich jetzt bitte frei.~
+@191 = ~Nein! Ihr habt die Antwort nicht gewusst! Ihr seid nicht die Göttin, nach der ich suche!~
+@192 = ~Gut, Ihr habt mich überzeugt. Ich werde Euch freilassen.~
+@193 = ~Der Hohepriester meines Glaubens heißt Alaundo.~
+@194 = ~Hah! Ich habs gewusst! Das ist falsch! Ihr seid gar nicht Waukeen!~
+@195 = ~Der Hohepriester meines Glaubens heißt Elminster.~
+@196 = ~Der Hohepriester meines Glaubens heißt Gorion.~
+@197 = ~Ich werde Euer Fleisch in Fetzen reißen und meinem Herrn zum Mahl servieren! Ihr sollt die verfluchte Göttin nie bekommen! Und nun sterbt, Ihr kleinen Würmer!~ [AC#WWAE7]
+@198 = ~Ich bin Nasmaerae, Meisterin der Täuschungen und treue Dienerin von Graz’zt, dem Dämonenfürsten. Er wird mich reich dafür belohnen, dass ich Euren armseligen Befreiungsversuch vereitelt habe.~
+@199 = ~Kommt und stellt Euch! In einem fairen Kampf werde ich Euch mühelos besiegen!~
+@200 = ~Das bezweifle ich. Einen Kampf wird es ohnehin nicht geben, auch wenn ich es genießen würde, Euch Euer eigenes schlagendes Herz zu verfüttern. Nein, Ihr werdet hier auf ewig Graz’zts Gefangener bleiben!~ ~Das bezweifle ich. Einen Kampf wird es ohnehin nicht geben, auch wenn ich es genießen würde, Euch Euer eigenes schlagendes Herz zu verfüttern. Nein, Ihr werdet hier auf ewig Graz’zts Gefangene bleiben!~
+@201 = ~(Plötzlich bemerkt Ihr eine seltsame Präsenz in Eurem Verstand. Ihr seid zunächst verwirrt, doch innerhalb eines Sekundenbruchteils realisiert Ihr, dass Waukeen in Eurem Geiste nach einem Wort sucht – der richtigen Antwort auf Eure Frage. Euer Wille, sich dem unnachgiebigen mentalen Drängen zu widersetzen, schwindet von Augenblick zu Augenblick, und Euer Verstand steht kurz davor, das Geheimnis preiszugeben.)~
+@202 = ~(Ihr könnt Euch dem mentalen Drängen nicht länger widersetzen. Euer geistiger Widerstand bricht zusammen, und Eure Gedanken geben den gesuchten Namen preis.)~
+@203 = ~(Mit Eurer letzten geistigen Kraft zwingt Ihr Euch dazu, Eure Gedanken auf ein einziges Wort zu fokussieren, den Namen, nach dem Waukeen in Eurem Geiste sucht …)~
+@204 = ~Alaundo.~
+@205 = ~Elminster.~
+@206 = ~Gorion.~
+@207 = ~Tharundar Olehm.~
+@208 = ~(Ihr fühlt Euch nach dem geistigen Zweikampf völlig erschöpft, und Waukeen blickt Euch triumphierend an.~
+@209 = ~Wartet, <CHARNAME>! An dieser Person haftet eine durch und durch böse Aura. Sie ist nicht das, wofür sie sich ausgibt.~
+@210 = ~Ihr da! Ich weiß zwar nicht, was für ein Wesen Ihr seid, aber in jedem Falle habt Ihr es verdient, dort eingesperrt zu bleiben. Eure finsteren Absichten sind für einen Paladin klar zu erkennen.~
+@211 = ~Euer schwarzes Herz ist für mich nicht zu übersehen, Kreatur. Ihr seid nicht die Göttin, nach der wir suchen. Eure Verstellungen sind nutzlos.~
+@212 = ~Wartet, <CHARNAME>, ich habe eine Idee. Waukeen, Ihr müsst uns nur eine Frage beantworten, um uns zu beweisen, dass Ihr wirklich die Göttin seid. Wie heißt der Hohepriester Eurer Kirche? Er war es, der uns hierhergeschickt hat, und Ihr müsst seinen Namen kennen!~
+@213 = ~Wartet, <CHARNAME>, lasst mich mit dieser Kreatur sprechen. Ihr dort! Nennt uns den Namen des Obersten Eurer Kirche, und wir werden erwägen Euch freizulassen.~

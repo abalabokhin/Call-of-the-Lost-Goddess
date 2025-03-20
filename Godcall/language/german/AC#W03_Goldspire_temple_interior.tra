@@ -1,0 +1,38 @@
+// game: Call of the Lost Goddess
+// date: 2025-01-14, 19:18
+// Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
+
+@0 = ~Ihr seid der <PRO_RACE>, der unsere Göttin gerettet hat! Gelobt seid Ihr für Eure Heldentat.~
+@1 = ~Na, Ihr seid ja ein schlimmer Finger. Und ein unfähiger noch dazu! Verschwindet, bevor ich die Wachen rufe!~
+@2 = ~Ein neuer Kunde in der Abtei? Wenn Ihr ein Anliegen habt, wendet Euch bitte an die anderen Priester. Ich bin zu beschäftigt.~
+@3 = ~Seid gegrüßt, <RACE>. Wenn Ihr ein Anliegen habt, wendet Euch bitte an die anderen Priester. Ich bin zu beschäftigt.~
+@4 = ~Willkommen in der Abtei der goldenen Dächer, <LADYLORD>! Was kann ich für Euch tun?~
+@5 = ~Ich suche nach dem Hohepriester Tharundar Olehm. Er hat einen Auftrag für mich.~
+@6 = ~Meine Geschäfte sind ganz und gar allein meine Sache und gehen Euch nichts an.~
+@7 = ~Draußen vor dem Tempel steht ein Dieb, der die Kirche berauben will.~
+@8 = ~Schon wieder einer von den Halunken! Um den werden wir uns kümmern. Habt Dank, <RACE>, dass Ihr so aufrichtig wart. Hier ist eine kleine Belohnung für Eure Ehrlichkeit.~
+@9 = ~Danke.~
+@10 = ~Was sucht Ihr eigentlich hier?~
+@11 = ~Ah, sehr gut. Ihr werdet sicher schon sehnlichst erwartet. Ihr findet den Goldvater im ersten Stock.~
+@12 = ~Doch, sie gehen mich etwas an, denn ich bin der Koordinator dieser Abtei. Meine Aufgabe ist es, allen Fremden, die hier unangemeldet hereinspazieren, auf den Zahn zu fühlen. Würdet Ihr mir jetzt also bitte den Sinn und Zweck Eures Besuches nennen?~
+@13 = ~Nun gut. Ich suche nach dem Hohepriester Tharundar Olehm. Er soll einen Auftrag für mich haben.~
+@14 = ~Sehr schön. Warum nicht gleich? Ihr findet den Goldvater oben, im ersten Stock. Ich glaube, Ihr werdet schon erwartet.~
+@15 = ~Habt Ihr schon mit dem Goldvater gesprochen?~
+@16 = ~Nein, noch nicht. Werde ich aber bald machen.~
+@17 = ~Ja, habe ich.~
+@18 = ~Gut. Ihr könnt Euch frei in der Abtei bewegen und alle Dienste des Klosters nutzen, <LADYLORD>. Wenn Ihr etwas benötigt, sagt nur Bescheid.~
+@19 = ~Ihr seid der <PRO_RACE>, der Waukeen gerettet hat! Gelobt seid Ihr für Eure Heldentat.~
+@20 = ~Hmm… Was meint Ihr, was ich heute Abend kochen sollte? Hirschragout mit Steinpilzen aus Sembia oder doch besser den calishitischen Pfefferbraten mit Schnittlauch aus dem Schattental?~
+@21 = ~Also, das Hirschragout klingt ausgesprochen lecker. Das solltet Ihr nehmen.~
+@22 = ~Den Pfefferbraten solltet Ihr nehmen. Der wird den lahmen Priestern hier mal kräftig einheizen.~
+@23 = ~Tut mir leid, ich habe leider keine Ahnung vom Kochen. Ihr müsst Euch schon selbst helfen.~
+@24 = ~Ich habe keine Zeit, Eure dämlichen Fragen zu beantworten, Halbling.~
+@25 = ~Gut, wie Ihr meint. Dann werde ich mich mal an die Arbeit machen und die Steinpilze schneiden gehen.~
+@26 = ~Hmm… Vielleicht habt Ihr ja recht. Hoffentlich reicht der Pfeffer.~
+@27 = ~Zur Feier des Tages würde ich sogar eine Extraportion Pfeffer nehmen.~
+@28 = ~Na dann mal viel Vergnügen. Ich gehe dann.~
+@29 = ~(seufz) Gibt es denn in dieser Abtei keinen kompetenten Gourmet, der mich in meinen Entscheidungen ein wenig unterstützen könnte? Na ja, egal. Ich werde mir einfach die ganze Arbeit ersparen und dann wohl die Kartoffelsuppe von vorgestern wieder aufwärmen.~
+@30 = ~Meint Ihr? Nun gut, dann werde ich noch die Schoten aus der Vorratskammer holen. Und jetzt ran an die Arbeit!~
+@31 = ~Mit vollem Magen betet es sich wesentlich inbrünstiger.~
+@32 = ~Ich wünsche Euch Reichtum und Wohlstand, gesegnet von Waukeens gütiger Hand.~
+@33 = ~Auf Wiedersehen.~

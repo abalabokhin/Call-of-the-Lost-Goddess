@@ -1,0 +1,24 @@
+// game: Call of the Lost Goddess
+// date: 2025-01-14, 19:18
+// Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
+
+@0 = ~Vor Euch steht eine Maschine. Ihr erkennt an jeder Ecke des Gerätes vier Knöpfe, ein jeder mit einer anderen Farbe: blau, gelb, grün und rot. Wenn man einen Knopf drückt, rastet dieser ein, und der vorher gedrückte Knopf rastet aus. Es scheint so zu sein, dass der rote Knopf zuletzt gedrückt wurde. In der Mitte schwingt eine leuchtende Energiekugel, von der ein sanftes rotes Licht ausgeht. Wenn Ihr möchtet, könnt Ihr einen der vier Knöpfe drücken.~
+@1 = ~Den blauen Knopf drücken.~
+@2 = ~Den gelben Knopf drücken.~
+@3 = ~Den roten Knopf drücken.~
+@4 = ~Den grünen Knopf drücken.~
+@5 = ~Von der Maschine weggehen.~
+@6 = ~Die Maschine mit den vier Knöpfen summt leise hörbar vor sich hin. In der Mitte schwingt die leuchtende Energiekugel, von der ein sanftes rotes Licht ausgeht. Ihr habt bisher noch keinen Knopf gedrückt. Der rote Knopf scheint eingerastet und als letztes gedrückt worden zu sein. Wenn Ihr möchtet, könnt Ihr einen der vier Knöpfe drücken.~
+@7 = ~Ihr drückt den gelben Knopf. Die Maschine gibt ein kaum hörbares Ticken von sich. Dann herrscht wieder Stille.~ [AC#W30MS]
+@8 = ~Ihr drückt den blauen Knopf. Die Maschine gibt ein kaum hörbares Ticken von sich. Dann herrscht wieder Stille.~ [AC#W30MS]
+@9 = ~Ihr drückt den roten Knopf. Die Maschine gibt ein kaum hörbares Ticken von sich. Dann herrscht wieder Stille.~ [AC#W30MS]
+@10 = ~Ihr drückt den grünen Knopf. Die Maschine gibt ein kaum hörbares Ticken von sich. Dann herrscht wieder Stille.~ [AC#W30MS]
+@11 = ~Den gelben Knopf ein drittes Mal drücken.~
+@12 = ~Als Ihr den grünen Knopf drückt, geht ein lautes Rattern durch die Maschine. Dann, ganz plötzlich, öffnet sich mit einem lauten Quietschen die große Tür zur Rechten der Maschine.~
+@13 = ~Ihr wendet Euch von der Maschine ab. Als Ihr einen Schritt zurückgeht, gibt es ein Klicken und der rote Knopf rastet hörbar wieder ein. Die Maschine scheint sich auf ihren Ausgangszustand zurückgesetzt zu haben.~ [AC#W30MS]
+@14 = ~(Intelligenz) Versuchen, etwas über die Funktionsweise der Maschine in Erfahrung zu bringen.~
+@15 = ~Ihr seht Euch die Maschine genauer an und versucht, hinter den zugrunde liegenden Mechanismus zu kommen …~
+@16 = ~Die vier Farben der Knöpfe finden sich auch auf kleinen Kristallsockeln der Plattform wieder, auf der Ihr steht.~
+@17 = ~Irgendwie scheinen die Knöpfe auf der Schalttafel also mit den Knöpfen der Plattform in Verbindung zu stehen – wie genau, entzieht sich Eurer Kenntnis.~
+@18 = ~(Erfolg) Es scheint so zu sein, dass man die Knöpfe in der Reihenfolge drücken muss, welche auf den Knöpfen der Plattform angegeben ist. Da der rote Knopf bereits eingerastet ist und der große Zeiger der Plattform auf den roten Sockel zeigt, müsste als nächstes der blaue Knopf gedrückt werden, da dieser im Uhrzeigersinn als nächstes kommt. Im Anschluss daran erneut der blaue Knopf, dann dreimal der gelbe, einmal der grüne und so fort.~
+@19 = ~(Misserfolg) So sehr Ihr Euch auch bemüht, die Funktionsweise der Maschine ist für Euch ein Buch mit sieben Siegeln.~
