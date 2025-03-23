@@ -1,5 +1,7 @@
 # Call of the Lost Goddess
 
+![Call of the Lost Goddess Logo](https://github.com/AciferBG/Call-of-the-Lost-Goddess/blob/main/Documentation_pics/Godcall_Symbol.png)
+
 **Call of the Lost Goddess** is a quest mod that adds new quests, areas, monsters, and items to *Baldur’s Gate II: Enhanced Edition (BG2EE) / Enhanced Edition Trilogy (EET)*.  
 It is inspired by the pen-and-paper adventure *For Duty and Deity* by Dale Donovan.
 
