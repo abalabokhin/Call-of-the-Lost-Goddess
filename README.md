@@ -17,6 +17,9 @@ It is inspired by the pen-and-paper adventure *For Duty and Deity* by Dale Donov
 - **Game engine compatibility:** *BG2EE and EET*
 - **Recommended character level:** *Level 10+*
 
+**Watch the trailer on Youtube:**  
+[![Watch the trailer](https://github.com/AciferBG/Call-of-the-Lost-Goddess/blob/main/Documentation_pics/Godcall_Thumbnail.jpg)](https://youtu.be/8acjirrDhFQ)
+
 ## Readme
 For a detailed readme, see:  
 [Godcall_Readme.pdf](https://www.baldurs-gate.de/acifer/Godcall_Readme.pdf)
