@@ -34,16 +34,45 @@ For a detailed readme, see:
 - **Enter Athkatla’s Government District.**  
 - You will be approached by a priest in front of the *Temple of Waukeen*—and the adventure begins!
 
----
-
-## License  
-
-**© [2025] [Acifer] – All Rights Reserved** 
-
-All Rights Reserved. This mod and all its contents may not be copied, modified, distributed, or used in any form without explicit permission from the author.
 
 ---
 
 ### **Feedback & Support**
 If you encounter issues or have suggestions, feel free to report them here:  
 👉 **[G3 Forums – Call of the Lost Goddess](https://www.gibberlings3.net/forums/topic/38129-released-mod-call-of-the-lost-goddess-a-quest-mod-for-bg2ee/)**  
+
+---
+
+## Credits  
+
+**Acifer** – Graphics, design, programming  
+**Morpheus562** – Enemy and encounter design, scripting  
+**Lava** – Ideas, item graphics and design, beta testing  
+**Weigo** – Worldmap programming  
+**megrimlock** – English version, proofreading, beta testing  
+**OiseauRebelle** – Beta testing  
+**Soul** – Beta testing  
+**Morywen** – Beta testing  
+**Genwa** – Beta testing  
+**shadowlich** – Debug test run, proofreading  
+**Taimon** – Coding help  
+**Argent** – Coding & WeiDU help  
+**Roberciiik** – Worldmap help for BP-BGT  
+**Shai Hulud, Lotus Noctus, Belryll, Danol** – Help with German translation
+
+---
+
+## License  
+
+**© 2025 Acifer – All Rights Reserved** 
+
+All Rights Reserved. This mod and all its contents may not be copied, modified, distributed, or used in any form without explicit permission from the author.
+
+---
+
+**Legal Notice**  
+This mod is not developed, supported, or endorsed by BioWare, Black Isle Studios, Interplay Entertainment Corp., the Wizards of the Coast, Overhaul Games, or Beamdog.  
+All other trademarks and copyrights are property of their respective owners.  
+**Baldur's Gate II: Enhanced Edition** and **Icewind Dale: Enhanced Edition** © Beamdog Inc.  
+**Baldur's Gate**, **Baldur's Gate II: Shadows of Amn**, and **Baldur's Gate II: Throne of Bhaal** © TSR, Inc.  
+The **BioWare Infinity Engine** is © BioWare Corp.
