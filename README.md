@@ -5,6 +5,8 @@
 **Call of the Lost Goddess** is a quest mod that adds new quests, areas, monsters, and items to *Baldur’s Gate II: Enhanced Edition (BG2EE) / Enhanced Edition Trilogy (EET)*.  
 It is inspired by the pen-and-paper adventure *For Duty and Deity* by Dale Donovan.
 
+---
+
 ## Features
 - **46 new areas** to explore (45 areas newly designed from scratch in 3D; 1 modified area from *Icewind Dale*)
 - **A new city district:** *Goldspires*, accessible from the world map
@@ -22,9 +24,18 @@ It is inspired by the pen-and-paper adventure *For Duty and Deity* by Dale Donov
 **Watch the trailer on Youtube:**  
 [![Watch the trailer](https://github.com/AciferBG/Call-of-the-Lost-Goddess/blob/main/Documentation_pics/Godcall_Thumbnail.jpg)](https://youtu.be/8acjirrDhFQ)
 
+---
+
 ## Readme
 For a detailed readme, see:  
 [Godcall_Readme.pdf](https://www.baldurs-gate.de/acifer/Godcall_Readme.pdf)
+
+---
+
+### Languages  
+The mod is available in **English, German and Chinese**.
+
+---
 
 ## Installation  
 1. **Extract** the contents of the mod archive to your game's main directory (`BGII:EE` / `EET`), where the `CHITIN.KEY` file is located.  
@@ -34,11 +45,12 @@ For a detailed readme, see:
 3. **Run the installer**:  
    - Double-click `setup-godcall.exe` and follow the on-screen instructions.
 
+---
+
 ## How to Start the Mod  
 - **Begin a new BG2EE game.**  
 - **Enter Athkatla’s Government District.**  
 - You will be approached by a priest in front of the *Temple of Waukeen*—and the adventure begins!
-
 
 ---
 
