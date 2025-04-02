@@ -14,6 +14,7 @@ It is inspired by the pen-and-paper adventure *For Duty and Deity* by Dale Donov
 - [Features](#features)
 - [Readme](#readme)
 - [Languages](#languages)
+- [Download](#Download)
 - [Installation](#installation)
 - [How to Start the Mod](#how-to-start-the-mod)
 - [Feedback & Support](#feedback--support)
@@ -54,6 +55,15 @@ The mod is available in:
 - English 
 - German
 - Chinese
+
+---
+
+## Download
+
+You can download the latest version of **Call of the Lost Goddess** as a `.zip` archive including a **WeiDU installer** from the **Releases** section of this GitHub page.
+
+Click on the **“Releases”** tab on the right side (or top of the page, depending on your screen size), and download the latest `.zip` file.  
+After downloading, extract the archive into your game’s main directory and follow the instructions below.
 
 ---
 
