@@ -50,7 +50,7 @@ Compatible with **BG2EE** and **EET**
 
 ---
 
-### Languages  
+## Languages  
 The mod is available in:
 - English 
 - German
@@ -84,19 +84,19 @@ After downloading, extract the archive into your game’s main directory and fol
 
 ---
 
-## Readme
+### Readme
 For a detailed readme, see:  
 [Godcall_Readme.pdf](https://www.baldurs-gate.de/acifer/Godcall_Readme.pdf)
 
 ---
 
-### **Feedback & Support**
+## **Feedback & Support**
 If you encounter issues or have suggestions, feel free to report them here:  
 👉 **[G3 Forums – Call of the Lost Goddess](https://www.gibberlings3.net/forums/topic/38129-released-mod-call-of-the-lost-goddess-a-quest-mod-for-bg2ee/)**  
 
 ---
 
-## Reviews
+### Reviews
 
 Want to read more about the mod before diving in?  
 Check out this article at **The Smoldering Mods Bar**:
