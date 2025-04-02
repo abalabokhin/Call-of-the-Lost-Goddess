@@ -2,8 +2,26 @@
 
 ![Call of the Lost Goddess Logo](https://github.com/AciferBG/Call-of-the-Lost-Goddess/blob/main/Documentation_pics/Godcall_Symbol.png)
 
+**"Know that it is folly for the gods to change fate."**
+
 **Call of the Lost Goddess** is a quest mod that adds new quests, areas, monsters, and items to *Baldur’s Gate II: Enhanced Edition (BG2EE) / Enhanced Edition Trilogy (EET)*.  
 It is inspired by the pen-and-paper adventure *For Duty and Deity* by Dale Donovan.
+
+---
+
+## Table of Contents
+
+- [Features](#features)
+- [Watch the trailer on Youtube](#watch-the-trailer-on-youtube)
+- [Readme](#readme)
+- [Languages](#languages)
+- [Installation](#installation)
+- [How to Start the Mod](#how-to-start-the-mod)
+- [Feedback & Support](#feedback--support)
+- [Reviews](#reviews)
+- [Credits](#credits)
+- [License](#license)
+- [Legal Notice](#legal-notice)
 
 ---
 
@@ -33,7 +51,10 @@ For a detailed readme, see:
 ---
 
 ### Languages  
-The mod is available in **English, German and Chinese**.
+The mod is available in:
+- English 
+- German
+- Chinese
 
 ---
 
@@ -57,6 +78,15 @@ The mod is available in **English, German and Chinese**.
 ### **Feedback & Support**
 If you encounter issues or have suggestions, feel free to report them here:  
 👉 **[G3 Forums – Call of the Lost Goddess](https://www.gibberlings3.net/forums/topic/38129-released-mod-call-of-the-lost-goddess-a-quest-mod-for-bg2ee/)**  
+
+---
+
+## Reviews
+
+Want to read more about the mod before diving in?  
+Check out this article at **The Smoldering Mods Bar**:
+
+[**Review of Call of the Lost Goddess – Smoldering Mods Bar**](https://smolderingmodsbar.com/call-of-the-lost-goddess-bg2ee/)
 
 ---
 
