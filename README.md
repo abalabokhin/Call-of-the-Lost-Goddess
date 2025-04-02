@@ -12,7 +12,6 @@ It is inspired by the pen-and-paper adventure *For Duty and Deity* by Dale Donov
 ## Table of Contents
 
 - [Features](#features)
-- [Watch the trailer on Youtube](#watch-the-trailer-on-youtube)
 - [Readme](#readme)
 - [Languages](#languages)
 - [Installation](#installation)
