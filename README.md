@@ -92,7 +92,7 @@ Check out this article at **The Smoldering Mods Bar**:
 
 ## Credits  
 
-**Acifer** – Graphics, design, programming  
+**Acifer** – Writer, artist, designer and programming  
 **Morpheus562** – Enemy and encounter design, scripting  
 **Lava** – Ideas, item graphics and design, beta testing  
 **Weigo** – Worldmap programming  
