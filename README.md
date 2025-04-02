@@ -12,11 +12,12 @@ It is inspired by the pen-and-paper adventure *For Duty and Deity* by Dale Donov
 ## Table of Contents
 
 - [Features](#features)
-- [Readme](#readme)
+- [Compatibility](#Compatibility)
 - [Languages](#languages)
 - [Download](#Download)
 - [Installation](#installation)
 - [How to Start the Mod](#how-to-start-the-mod)
+- [Readme](#readme)
 - [Feedback & Support](#feedback--support)
 - [Reviews](#reviews)
 - [Credits](#credits)
@@ -44,9 +45,8 @@ It is inspired by the pen-and-paper adventure *For Duty and Deity* by Dale Donov
 
 ---
 
-## Readme
-For a detailed readme, see:  
-[Godcall_Readme.pdf](https://www.baldurs-gate.de/acifer/Godcall_Readme.pdf)
+## Compatibility  
+Compatible with **BG2EE** and **EET**  
 
 ---
 
@@ -81,6 +81,12 @@ After downloading, extract the archive into your game’s main directory and fol
 - **Begin a new BG2EE game.**  
 - **Enter Athkatla’s Government District.**  
 - You will be approached by a priest in front of the *Temple of Waukeen*—and the adventure begins!
+
+---
+
+## Readme
+For a detailed readme, see:  
+[Godcall_Readme.pdf](https://www.baldurs-gate.de/acifer/Godcall_Readme.pdf)
 
 ---
 
